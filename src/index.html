@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Trivial-TCPillos</title>
+</head>
+
+<body id="body">
+    <h1>Trivial-TCPillos</h1>
+    <div id="title-screen">
+        <h2>Pantalla de inicio</h2>
+        <button id="open-configuration-screen" onclick="handleOpenConfigurationScreen()">Ir a la Configuración</button>
+    </div>
+    <div id="configuration-screen" class="hidden">
+        <h2>Configuración</h2>
+        <div>
+            <label for="questions-battery-file">Sube la batería de preguntas:</label>
+            <input type="file" id="questions-battery-file" />
+        </div>
+        <button id="open-title-screen" onclick="handleOpenTitleScreen()">Volver a la Pantalla de inicio</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

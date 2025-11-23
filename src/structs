@@ -1,0 +1,30 @@
+Subject: Object
+{
+    "id": String,
+    "name": String,
+    "icon": String
+}
+
+Question: Object
+{
+    "id": String,
+    "subjectId": String,
+    "difficulty": Number,
+    "text": String,
+    "isAnswered": Boolean
+}
+
+Answer: Object
+{
+    "id": String,
+    "questionId": String,
+    "isCorrect": Boolean,
+    "text": String
+}
+
+Player: Object
+{
+    "id": String
+    "name": String,
+    "avatar": String
+}
