@@ -1,3 +1,8 @@
 .hidden {
     display: none;
 }
+
+fieldset {
+    margin-bottom: 10px;
+    width: 35%;
+}

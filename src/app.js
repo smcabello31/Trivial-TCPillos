@@ -1,14 +1,16 @@
 // Configuration constants
 const SUBJECTS_ICONS = ['❤️', '🩷', '💛', '🧡', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
+
 const AVATARS = {
-  WHITE: 'white_avatar.png',
-  GREEN: 'white_avatar.png',
-  RED: 'white_avatar.png',
-  PINK: 'white_avatar.png',
-  PURPLE: 'white_avatar.png',
-  BLUE: 'white_avatar.png',
-  BLACK: 'white_avatar.png'
+  WHITE: '../assets/white.jpg',
+  GREEN: '../assets/green.jpg',
+  RED: '../assets/red.jpg',
+  PINK: '../assets/pink.jpg',
+  PURPLE: '../assets/purple.jpg',
+  BLUE: '../assets/blue.jpg',
+  BLACK: '../assets/black.jpg'
 }
+
 const configuration = {
   subjects: [],
   questions: [],
@@ -21,6 +23,9 @@ const $body = document.getElementById('body')
 const $questionsBattery = document.getElementById('questions-battery-file')
 const $titleScreen = document.getElementById('title-screen')
 const $configurationScreen = document.getElementById('configuration-screen')
+const $createPlayerScreen = document.getElementById('create-player-screen')
+const $questionsBatteryContainer = document.getElementById('questions-battery-container')
+const $configurationPlayers = document.getElementById('configuration-players')
 
 // Global variables
 let questionsBatteryRaw = ''
@@ -31,9 +36,9 @@ $questionsBattery.addEventListener('change', (event) => {
   const reader = new FileReader()
   reader.addEventListener('load', (event) => {
     questionsBatteryRaw = event.target.result
+    loadQuestionsBattery()
   })
   reader.readAsText(file)
-  loadQuestionsBattery()
 })
 
 // Utils
@@ -131,15 +136,71 @@ const loadQuestionsBattery = () => {
           break
       }
     })
+
+  $questionsBatteryContainer.classList.add('hidden')
+}
+
+// Players API
+const createPlayer = ({ name, avatar }) => {
+  return {
+    id: crypto.randomUUID(),
+    name: name,
+    avatar: AVATARS[avatar]
+  }
+}
+
+const drawPlayer = ({ name, avatar }) => {
+  return `
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img src="${avatar}" alt="Player Icon" width="48" height="48" />
+  <span style="font-size: 18px; font-weight: bold;">${name}</span>
+</div>`.trim()
+}
+
+const renderPlayersConfiguration = () => {
+  let playersConfiguration = ''
+  configuration.players.forEach(p => {
+    playersConfiguration += drawPlayer({ name: p.name, avatar: p.avatar })
+  })
+
+  if (playersConfiguration) {
+    $configurationPlayers.innerHTML = playersConfiguration
+    $configurationPlayers.classList.remove('hidden')
+  }
 }
 
 // Button handlers
 const handleOpenConfigurationScreen = () => {
   hideChildrenDivElements($body)
+  renderPlayersConfiguration()
   $configurationScreen.classList.remove('hidden')
 }
 
 const handleOpenTitleScreen = () => {
   hideChildrenDivElements($body)
   $titleScreen.classList.remove('hidden')
+}
+
+const handleOpenCreatePlayerScreen = () => {
+  hideChildrenDivElements($body)
+  $createPlayerScreen.classList.remove('hidden')
+}
+
+const handleCreatePlayer = () => {
+  const $name = document.querySelector('input[name="player-name"]')
+  const $avatar = document.querySelector('input[name="player-avatar"]:checked')
+
+  const name = $name.value
+  const avatar = $avatar.value
+
+  player = createPlayer({ name: name, avatar: avatar })
+  configuration.players.push(player)
+
+  $name.value = null
+  $avatar.value = null
+  handleOpenConfigurationScreen()
+}
+
+const handleDeletePlayer = (playerId) => {
+  configuration.players = configuration.players.filter(player => player.id !== playerId)
 }

@@ -12,15 +12,77 @@
     <h1>Trivial-TCPillos</h1>
     <div id="title-screen">
         <h2>Pantalla de inicio</h2>
-        <button id="open-configuration-screen" onclick="handleOpenConfigurationScreen()">Ir a la Configuración</button>
+        <button onclick="handleOpenConfigurationScreen()">Ir a la Configuración</button>
     </div>
     <div id="configuration-screen" class="hidden">
         <h2>Configuración</h2>
-        <div>
+        <div id="questions-battery-container">
             <label for="questions-battery-file">Sube la batería de preguntas:</label>
             <input type="file" id="questions-battery-file" />
         </div>
-        <button id="open-title-screen" onclick="handleOpenTitleScreen()">Volver a la Pantalla de inicio</button>
+        <div id="configuration-players" class="hidden"></div>
+        <div>
+            <button type="button" onclick="handleOpenCreatePlayerScreen()">Crear un jugador</button>
+        </div>
+        <div>
+            <button type="button" onclick="handleOpenTitleScreen()">Volver a la Pantalla de inicio</button>
+        </div>
+    </div>
+    <div id="create-player-screen" class="hidden">
+        <!-- <h2>Crea un jugador</h2> -->
+        <form id="player-form">
+            <fieldset>
+                <legend>Crea un jugador:</legend>
+                <input type="text" name="player-name" placeholder="Name">
+                <div>
+                    <label for="player-avatar">Selecciona un personaje: </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="WHITE" id="white-avatar">
+                    <label for="white-avatar">
+                        <img src="../assets/white.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="GREEN" id="green-avatar">
+                    <label for="green-avatar">
+                        <img src="../assets/green.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="RED" id="red-avatar">
+                    <label for="red-avatar">
+                        <img src="../assets/red.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="PINK" id="pink-avatar">
+                    <label for="pink-avatar">
+                        <img src="../assets/pink.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="PURPLE" id="purple-avatar">
+                    <label for="purple-avatar">
+                        <img src="../assets/purple.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="BLUE" id="blue-avatar">
+                    <label for="blue-avatar">
+                        <img src="../assets/blue.jpg" alt="">
+                    </label>
+                </div>
+                <div>
+                    <input type="radio" name="player-avatar" value="BLACK" id="black-avatar">
+                    <label for="black-avatar">
+                        <img src="../assets/black.jpg" alt="">
+                    </label>
+                </div>
+                <button id="create-player" type="button" onclick="handleCreatePlayer()">Crear jugador</button>
+            </fieldset>
+            <button type="button" onclick="handleOpenConfigurationScreen()">Volver a la Configuración</button>
+        </form>
     </div>
 
     <script src="app.js"></script>
