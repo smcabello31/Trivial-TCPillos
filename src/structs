@@ -2,7 +2,8 @@ Subject: Object
 {
     "id": String,
     "name": String,
-    "icon": String
+    "icon": String,
+    "color": String
 }
 
 Question: Object
@@ -26,5 +27,12 @@ Player: Object
 {
     "id": String
     "name": String,
-    "avatar": String
+    "avatar": String,
+    "score": Score[]
+}
+
+Score: Object
+{
+    subjectId: String,
+    points: Number
 }
