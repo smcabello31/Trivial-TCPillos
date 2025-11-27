@@ -6,3 +6,116 @@ fieldset {
     margin-bottom: 10px;
     width: 35%;
 }
+
+h1 {
+    text-align: center;
+    background-color: rgb(51, 28, 255);
+    color: white;
+}
+
+#playing-board-screen {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+#board-players {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#playing-board {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    max-width: 100%;
+}
+
+.subject-card {
+    height: 100px;
+    width: 300px;
+    border: none;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    box-shadow:
+        0 8px 16px rgba(255, 65, 160, 0.3),
+        0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.subject-card:hover {
+    transform: translateY(-4px);
+    box-shadow:
+        0 12px 24px rgba(99, 90, 90, 0.4),
+        0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Active/Click effect */
+.subject-card:active {
+    transform: translateY(-2px);
+    box-shadow:
+        0 6px 12px rgba(99, 90, 90, 0.4),
+        0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Glossy overlay effect */
+.subject-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(180deg,
+            rgba(255, 255, 255, 0.2) 0%,
+            rgba(255, 255, 255, 0) 100%);
+    border-radius: 16px 16px 0 0;
+}
+
+/* Subtle shine animation */
+.subject-card::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(45deg,
+            transparent 30%,
+            rgba(255, 255, 255, 0.1) 50%,
+            transparent 70%);
+    transform: rotate(45deg);
+    animation: shine 3s infinite;
+}
+
+@keyframes shine {
+    0% {
+        transform: translateX(-100%) translateY(-100%) rotate(45deg);
+    }
+
+    100% {
+        transform: translateX(100%) translateY(100%) rotate(45deg);
+    }
+}
+
+.subject-card span {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    text-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.2),
+        0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    letter-spacing: 0.5px;
+}
