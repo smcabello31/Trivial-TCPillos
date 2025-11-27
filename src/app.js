@@ -1,5 +1,6 @@
 // Configuration constants
 const SUBJECTS_ICONS = ['❤️', '🩷', '💛', '🧡', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
+const SUBJECT_COLORS = ['#fe3260', '#ff41a0', '#ffda47', '#ff865b', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
 
 const AVATARS = {
   WHITE: '../assets/white.jpg',
@@ -11,12 +12,20 @@ const AVATARS = {
   BLACK: '../assets/black.jpg'
 }
 
-const configuration = {
-  subjects: [],
-  questions: [],
-  answers: [],
-  players: []
-}
+const configurationLocalStorage = window.localStorage.configuration
+const configuration =
+  configurationLocalStorage
+    ? JSON.parse(configurationLocalStorage)
+    : {
+      subjects: [],
+      questions: [],
+      answers: [],
+      players: []
+    }
+
+setInterval(() => {
+  window.localStorage.setItem('configuration', JSON.stringify(configuration))
+}, 2500)
 
 // Main elements of the page
 const $body = document.getElementById('body')
@@ -26,6 +35,9 @@ const $configurationScreen = document.getElementById('configuration-screen')
 const $createPlayerScreen = document.getElementById('create-player-screen')
 const $questionsBatteryContainer = document.getElementById('questions-battery-container')
 const $configurationPlayers = document.getElementById('configuration-players')
+const $playingBoardScreen = document.getElementById('playing-board-screen')
+const $boardPlayers = document.getElementById('board-players')
+const $playingBoard = document.getElementById('playing-board')
 
 // Global variables
 let questionsBatteryRaw = ''
@@ -48,8 +60,26 @@ const hideChildrenDivElements = (element) => {
     .forEach(div => div.classList.add('hidden'))
 }
 
-const ltrim = (str) => {
-  return str.replace(/^\s+/, '')
+function lightenColor(hex, percent) {
+  // Remove the # if present
+  hex = hex.replace('#', '');
+
+  // Parse RGB values
+  let r = parseInt(hex.substring(0, 2), 16);
+  let g = parseInt(hex.substring(2, 4), 16);
+  let b = parseInt(hex.substring(4, 6), 16);
+
+  // Increase each value by percent (0-100)
+  r = Math.min(255, Math.floor(r + (255 - r) * (percent / 100)));
+  g = Math.min(255, Math.floor(g + (255 - g) * (percent / 100)));
+  b = Math.min(255, Math.floor(b + (255 - b) * (percent / 100)));
+
+  // Convert back to hex
+  const rr = r.toString(16).padStart(2, '0');
+  const gg = g.toString(16).padStart(2, '0');
+  const bb = b.toString(16).padStart(2, '0');
+
+  return `#${rr}${gg}${bb}`;
 }
 
 // Subjects API
@@ -57,8 +87,13 @@ const createSubject = ({ name }, subjectsCounter) => {
   return {
     id: crypto.randomUUID(),
     name: name,
-    icon: SUBJECTS_ICONS[subjectsCounter]
+    icon: SUBJECTS_ICONS[subjectsCounter],
+    color: SUBJECT_COLORS[subjectsCounter]
   }
+}
+
+const getSubjectIcon = (subjectId) => {
+  return configuration.subjects.filter(s => s.id === subjectId)[0]?.icon
 }
 
 // Questions API
@@ -93,6 +128,11 @@ const loadQuestionsBattery = () => {
   let currentSubject = {}
   let currentQuestion = {}
   let currentAnswer = {}
+
+  configuration.subjects = []
+  configuration.questions = []
+  configuration.answers = []
+  configuration.answers = []
 
   questionsBatteryRaw
     .replaceAll('\r', '')
@@ -141,19 +181,31 @@ const loadQuestionsBattery = () => {
 }
 
 // Players API
-const createPlayer = ({ name, avatar }) => {
+const createPlayer = ({ name, avatar, score }) => {
   return {
     id: crypto.randomUUID(),
     name: name,
-    avatar: AVATARS[avatar]
+    avatar: AVATARS[avatar],
+    score: score
   }
 }
 
-const drawPlayer = ({ name, avatar }) => {
+const drawPlayer = ({ name, avatar, score }) => {
+  let playerScore = ''
+  if (score) {
+    score.forEach(s => {
+      playerScore += `<span>${getSubjectIcon(s.subjectId).repeat(s.points)}</span>`
+    })
+  }
   return `
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="${avatar}" alt="Player Icon" width="48" height="48" />
-  <span style="font-size: 18px; font-weight: bold;">${name}</span>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <div style="display: flex; flex-direction: column">
+    <img src="${avatar}" alt="Avatar de ${name}" width="64" height="64" />
+    <span style="font-size: 24px; font-weight: bold; text-align:center;">${name}</span>
+  </div>
+  <div style="display:flex; flex-direction:column;justify-content:space-around;gap:0px;">
+  ${playerScore}
+  </div>
 </div>`.trim()
 }
 
@@ -167,6 +219,42 @@ const renderPlayersConfiguration = () => {
     $configurationPlayers.innerHTML = playersConfiguration
     $configurationPlayers.classList.remove('hidden')
   }
+}
+
+// Score API
+const createScore = ({ subjectId, points }) => {
+  return {
+    subjectId: subjectId,
+    points: points ? points : 0
+  }
+}
+
+// Playing Board
+const renderPlayersBoard = () => {
+  let playersBoard = ''
+  configuration.players.forEach(p => {
+    playersBoard += drawPlayer({ name: p.name, avatar: p.avatar, score: p.score })
+  })
+
+  if (playersBoard) {
+    $boardPlayers.innerHTML = playersBoard
+  }
+}
+
+const drawSubjectCard = ({ subjectId, name, color }) => {
+  return `
+<div id="subject-card-${subjectId}" class="subject-card" style="background:linear-gradient(135deg, ${color} 0%, ${lightenColor(color, 20)} 100%);">
+   <span>${name}</span>
+</div>
+  `.trim()
+}
+
+const renderBoard = () => {
+  let subjectsCards = ''
+  configuration.subjects.forEach(s => {
+    subjectsCards += drawSubjectCard({ subjectId: s.id, name: s.name, color: s.color })
+  })
+  $playingBoard.innerHTML = subjectsCards
 }
 
 // Button handlers
@@ -193,7 +281,13 @@ const handleCreatePlayer = () => {
   const name = $name.value
   const avatar = $avatar.value
 
-  player = createPlayer({ name: name, avatar: avatar })
+  let scoreArr = []
+  configuration.subjects.forEach(s => {
+    const subjectScore = createScore({ subjectId: s.id, points: 0 })
+    scoreArr.push(subjectScore)
+  })
+
+  player = createPlayer({ name: name, avatar: avatar, score: scoreArr })
   configuration.players.push(player)
 
   $name.value = null
@@ -203,4 +297,11 @@ const handleCreatePlayer = () => {
 
 const handleDeletePlayer = (playerId) => {
   configuration.players = configuration.players.filter(player => player.id !== playerId)
+}
+
+const handleStartGame = () => {
+  hideChildrenDivElements($body)
+  renderPlayersBoard()
+  renderBoard()
+  $playingBoardScreen.classList.remove('hidden')
 }
