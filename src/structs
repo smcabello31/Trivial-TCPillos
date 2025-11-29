@@ -36,3 +36,10 @@ Score: Object
     subjectId: String,
     points: Number
 }
+
+Turn: Object
+{
+    turn: Number,
+    playerId: String,
+    isPlayed: Boolean
+}

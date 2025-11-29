@@ -26,11 +26,12 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 20px
 }
 
 #playing-board {
     display: grid;
-    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    grid-template-columns: repeat(2, minmax(300px, 1fr));
     gap: 20px;
     padding: 20px;
     max-width: 100%;
@@ -38,7 +39,7 @@ h1 {
 
 .subject-card {
     height: 100px;
-    width: 300px;
+    width: 400px;
     border: none;
     border-radius: 16px;
     display: flex;
@@ -118,4 +119,76 @@ h1 {
         0 4px 8px rgba(0, 0, 0, 0.1);
     z-index: 1;
     letter-spacing: 0.5px;
+}
+
+.highlight-player {
+    position: relative;
+    border-radius: 12px;
+    padding: 12px;
+    background: rgba(255, 215, 0, 0.08);
+    box-shadow:
+        0 0 10px rgba(255, 215, 0, 0.6),
+        0 0 20px rgba(255, 215, 0, 0.4),
+        0 0 30px rgba(255, 215, 0, 0.2);
+    animation: highlightPulse 1.5s infinite alternate;
+}
+
+@keyframes highlightPulse {
+    from {
+        box-shadow:
+            0 0 8px rgba(255, 215, 0, 0.5),
+            0 0 16px rgba(255, 215, 0, 0.3);
+    }
+
+    to {
+        box-shadow:
+            0 0 16px rgba(255, 215, 0, 0.9),
+            0 0 32px rgba(255, 215, 0, 0.6);
+    }
+}
+
+#turn-banner {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.question-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background: white;
+    padding: 24px 32px;
+    border-radius: 16px;
+    min-width: 280px;
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.25);
+
+    z-index: 9999;
+}
+
+.question-modal h2 {
+    margin-bottom: 16px;
+    font-size: 22px;
+}
+
+.question-modal ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.question-modal li {
+    margin: 8px 0;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.question-modal li:hover {
+    font-weight: bold;
 }
