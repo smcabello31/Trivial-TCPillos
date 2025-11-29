@@ -3,18 +3,18 @@ const SUBJECTS_ICONS = ['❤️', '🩷', '💛', '🧡', '💚', '💙', '🩵'
 const SUBJECT_COLORS = ['#fe3260', '#ff41a0', '#ffda47', '#ff865b', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
 
 const AVATARS = {
-  WHITE: '../assets/white.jpg',
-  GREEN: '../assets/green.jpg',
-  RED: '../assets/red.jpg',
-  PINK: '../assets/pink.jpg',
-  PURPLE: '../assets/purple.jpg',
-  BLUE: '../assets/blue.jpg',
-  BLACK: '../assets/black.jpg'
+  WHITE: 'assets/white.jpg',
+  GREEN: 'assets/green.jpg',
+  RED: 'assets/red.jpg',
+  PINK: 'assets/pink.jpg',
+  PURPLE: 'assets/purple.jpg',
+  BLUE: 'assets/blue.jpg',
+  BLACK: 'assets/black.jpg'
 }
 
 const SOUNDS = {
-  CORRECT: '../assets/correct.mp3',
-  INCORRECT: '../assets/incorrect.mp3'
+  CORRECT: 'assets/correct.mp3',
+  INCORRECT: 'assets/incorrect.mp3'
 }
 
 const configurationLocalStorage = window.localStorage.configuration
