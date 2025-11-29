@@ -1,6 +1,6 @@
 // Configuration constants
-const SUBJECTS_ICONS = ['❤️', '🩷', '💛', '🧡', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
-const SUBJECT_COLORS = ['#fe3260', '#ff41a0', '#ffda47', '#ff865b', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
+const SUBJECTS_ICONS = ['🧡', '🩷', '❤️', '💛', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
+const SUBJECT_COLORS = ['#ff865b', '#ff41a0', '#fe3260', '#ffda47', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
 
 const AVATARS = {
   WHITE: 'assets/white.jpg',
@@ -62,7 +62,10 @@ $questionsBattery.addEventListener('change', (event) => {
 const hideChildrenDivElements = (element) => {
   Array.from(element.children)
     .filter(child => child.tagName === 'DIV')
-    .forEach(div => div.classList.add('hidden'))
+    .forEach(div => {
+      div.classList.add('hidden')
+      if (div.classList.contains('title-screen-open')) div.classList.remove('title-screen-open')
+    })
 }
 
 function lightenColor(hex, percent) {
@@ -179,7 +182,6 @@ const renderQuestion = (questionId) => {
     </ul>
     ${isHardQuestion ? '<p>Pregunta especial! Si aciertas ganarás un super corazón</p>' : ''}
     `
-  console.log(questionModalBody)
   $questionModal.innerHTML = questionModalBody
   $body.prepend($questionModal)
 }
@@ -414,6 +416,7 @@ const handleOpenConfigurationScreen = () => {
 const handleOpenTitleScreen = () => {
   hideChildrenDivElements($body)
   $titleScreen.classList.remove('hidden')
+  $titleScreen.classList.add('title-screen-open')
 }
 
 const handleOpenCreatePlayerScreen = () => {

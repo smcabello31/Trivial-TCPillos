@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    font-family: 'Lato';
+}
+
 .hidden {
     display: none;
 }
@@ -7,10 +13,63 @@ fieldset {
     width: 35%;
 }
 
+body {
+    background-color: #eeeeee;
+}
+
 h1 {
     text-align: center;
-    background-color: rgb(51, 28, 255);
+    background-color: #03A9F4;
     color: white;
+}
+
+.title-screen-open {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 300px;
+}
+
+.title-screen-open button {
+    width: 45%;
+    height: 100px;
+    font-size: 40px;
+}
+
+.title-screen-open button:last-child {
+    width: 30%;
+    height: 75px;
+    font-size: 20px;
+}
+
+button {
+    box-shadow: inset 0px 1px 0px 0px #97c4fe;
+    background: linear-gradient(to bottom, #3d94f6 5%, #03a8f4 100%);
+    background-color: #3d94f6;
+    border-radius: 6px;
+    border: 1px solid #03a8f4;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #03a8f4;
+}
+
+button:hover {
+    background: linear-gradient(to bottom, #03a8f4 5%, #3d94f6 100%);
+    background-color: #03a8f4;
+}
+
+button:active {
+    position: relative;
+    top: 1px;
 }
 
 #playing-board-screen {
