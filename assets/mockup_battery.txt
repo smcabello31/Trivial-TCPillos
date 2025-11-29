@@ -1,59 +1,1916 @@
-S: Matemáticas
-Q: ¿Cuánto es 2 + 2?
+S: MERCANCIAS PELIGROSAS
+
+Q: ¿Qué es el Air Waybill?
+D: 2
+T: Documento que acredita el Contrato De Transporte Aéreo de una mercancía
+F: Documento que tiene que completar el Expedidor y Firmar dos ejemplares
+F: Es una Notificación del Comandante donde se indica la MMPP
+F: No existe, Es inventado
+
+Q: ¿Qué anexo de OACI regula el transporte de Mercancías Peligrosas por vía aérea? 
 D: 1
+F: Anexo 13
+F: Anexo 17
+T: Anexo 18 
+D: Anexo Q
+
+Q: ¿Qué son las instrucciones técnicas con respecto a las Mercancías Peligrosas?
+D: 1
+F: Un manual de AESA basado en la ley de navegación Aérea 
+T: Un manual que recopila todas las disposiciones necesarias así como todos los procedimientos necesarios y detallados para el transporte internacional sin riesgo de mercancías peligrosas por vía aérea.
+F: La certificación de que se encuentran en buenas condiciones.
+F: La relación de artículos y sustancias que tienen un riesgo de incendio.
+
+Q: ¿Qué significa, en el contexto de las MMPP, la abreviatura CAO?
+D: 1
+F: Cargo Aircraft Only 
+F: Sólo en aviones de carga
+F: Cargo Aircraft Offset
+T: La respuesta A y B son correctas
+
+Q:  ¿Qué nombre recibe el contrato que obliga al operador a realizar el transporte de mercancías en la forma y tiempo convenidos y a entregarla a su destinatario?
+D: 2
+F: Contrato transportista-cliente
+F: Contrato de embarque aéreo de mercancías 
+T: Carta de porte aéreo
+F: Billete de mercancías
+
+Q: Las mercancías peligrosas son artículos o sustancias capaces de suponer un gran riesgo para:
+D: 1
+T: La seguridad, el medio ambiente y la salud en general. 
+F: Únicamente para los integrantes del vuelo.
+F: El Comandante al mando de la aeronave.
+F: No todas las mercancías peligrosas son un gran riesgo.
+
+Q: ¿Qué nombre recibe el producto final de una operación de empaquetado?
+D: 1
+F: Embalaje.
+F: Paquete. 
+T: Bulto.
+F: Entrega.
+
+Q: La reglamentación de MMPP de la OACI (Anexo 18):
+D: 1
+F: Solamente se aplica en Europa.
+T: Es una normativa internacional. 
+F: No es aplicable en España.
+F: La OACI no reglamenta las MMPP.
+
+
+
+
+Q: ¿A quién corresponde la declaración del expedidor de una mercancía?
+D: 1
+F: A la persona o empresa que recibe la mercancía.
+T: A la persona o empresa que envía la mercancía. 
+F: A la empresa que transporta la mercancía.
+F: A la persona que certifica el embalaje.
+
+Q: El documento de la OACI titulado "Instrucciones Técnicas para el transporte sin riesgos de MMPP por vía aérea es el:
+D: 1
+F: Documento 9235
+T: Documento 9284 
+F: Documento 9078
+F: Documento 4567
+
+Q: ¿Cuál es el campo de aplicación de las normas y métodos recomendados en el Anexo 18 de la OACI?
+D: 1
+T: Vuelos internacionales de aeronaves civiles.
+F: Vuelos de aeronaves civiles y militares.
+F: Vuelos interiores de cada país.
+F: Ninguna es correcta.
+
+Q: Las MMPP restringidas a aeronaves exclusivamente de carga son las que:
+D: 1
+F: Se transportan en mayores cantidades que las permitidas en aeronaves de pasajeros.
+F: Las que están prohibidas en aeronaves de pasajeros.
+F: Su transporte está permitido en vista de que se suele tener acceso a las mismas durante el vuelo y de que la tripulación de vuelo puede considerar, en caso de emergencia, una más amplia gama de medidas que las posibles en aeronaves de pasajeros.
+T: Todas las respuestas anteriores son correctas.
+
+Q: Las variaciones de los operadores consisten en:
+D: 1
+F: Excepciones que los operadores hacen con algunas MMPP.
+T: Restricciones adicionales que los operadores imponen a la reglamentación sobre MMPP. 
+F: Variaciones que hacen los operadores para poder transportar algunas MMPP.
+F: Son las variaciones que aparecen en el manual de MMPP.
+
+Q: De las responsabilidades citadas a continuación, ¿Cuál no es una obligación del expedidor?
+D: 1
+F: Realizar correctamente el embalaje conforme al Doc. 9284.
+F: Clasificar la mercancía.
+F: Poner las etiquetas y las marcas.
+T: Asegurarse que el bulto no está dañado antes de cargarlo en la aeronave.
+
+Q: El....................................... garantizará que no se transporten MMPP en la cabina del avión ocupada por pasajeros o en la cabina de vuelo, salvo que se especifique lo contrario en las Instrucciones Técnicas.
+D: 1
+F: Pasajero
+F: Expedidor
+F: Gobierno estatal
+T: Operador 
+
+Q: La reglamentación sobre MMPP de la IATA, es un manual basado en:
+D: 1
+F: El Real decreto 300/2008.
+F: La circular operativa 30/01/1994 sobre MMPP.
+F: El Convenio de Varsovia.
+T: Las instrucciones técnicas de la OACI.
+
+
+Q: ¿Por qué la definición de OACI sobre Mercancías Peligrosas se hace énfasis en "cuando se transporten por vía aérea"?
+D: 1
+F: No dice nada de eso.
+F: Por las limitaciones de peso que tiene el transporte aéreo.
+T: Por las características particulares que tiene el transporte aéreo que lo diferencian de otro tipo de transporte.
+F: Porque es más caro el transporte por avión.
+
+Q: ¿Qué se entiende por NOTOC?
+D: 1
+T: Documento de notificación al piloto al mando en el que viene reflejado e identificado tanto la naturaleza de la mercancía peligrosa, así como la posición de estiba dentro de las bodegas del avión. 
+F: Documento utilizado para emitir informes de las observaciones meteorológicas en los aeródromos realizado periódicamente.
+F: Documento que el sobrecargo tiene que rellenar cuando observa durante el embarque que algún pasajero lleva consigo algún tipo de mercancía peligrosa.
+F: Documento de notificación al piloto al mando en el cual viene reflejado el total de pasajeros a bordo.
+
+Q: ¿Dónde se encuentran las instrucciones detalladas necesarias para el transporte internacional sin riesgos de MMPP por vía aérea?
+D: 2
+T: En las Instrucciones Técnicas
+F: En el Anexo 18 
+F: En el suplemento a las Instrucciones Técnicas
+F: En los manuales del operador
+
+Q: ¿Cuál es la cantidad de alcohol permitida a cada pasajero?
+D: 2
+F: 2 litros en recipientes de 0,5 litros
+F: 3 litros en recipientes de 1 litro
+T: 5 litros en recipientes de 5 litros o inferiores 
+F: 10 litros en recipientes de 2 litros
+Q: ¿Puede un pasajero subir al avión en su equipaje de mano una caja de fósforos de seguridad?
+D: 1
+T: No puede llevarlo nunca. 
+F: Sí, pero tiene que informar al Comandante.
+F: Sí, siempre que no lo utilice.
+F: Sí, puede llevarlo sin problemas.
+
+Q: La dispensa se define como:
+D: 1 
+F: Excepción a la reglamentación que el operador puede conceder en caso de extrema urgencia.
+F: Excepción a la reglamentación que el piloto al mando puede conceder en caso de extrema urgencia,
+T: Excepción a las reglas que se encuentran descritas en las Instrucciones Técnicas Doc.9284. 
+F: El espacio donde se guardan las MMPP.
+
+Q: ¿Puede la compañía aérea conceder una dispensa a un animal vivo infectado?
+D: 1 
+F: Sí, pero depende de la compañía.
+T: No. 
+F: Solo si no es contagioso.
+F: Depende del tipo de animal.
+
+Q: ¿De los siguientes artículos, indique cuáles pueden ser transportados por los pasajeros como equipaje facturado en bodega pero no pueden ser llevados como equipaje de mano?
+D: 1
+T: Cartuchos deportivos para uso personal 
+F: Chaleco salvavidas
+F: Baterías de repuesto
+F: Rizador de pelo
+
+Q:¿Está permitido el transporte de un encendedor personal?
+D: 1
+F: Sí
+T: Sí, siempre y cuando el combustible líquido esté absorbido por un sólido 
+F: Sí, siempre y cuando el combustible líquido vaya en un depósito
+F: No, nunca
+
+Q: Entre las MMPP se encuentran las que pueden producir fuego. De las que se citan a continuación cuál NO puede transportar el pasajero en su persona o equipaje de mano:
+D: 1 
+F: Cerillas de seguridad
+T: Encendedor de uso personal de combustible líquido no absorbido 
+F: Encendedor piezoeléctrico
+F: Encendedor para uso personal de gas licuado
+
+Q: Indica cuál es el explosivo (clase 1) que pueden transportar los pasajeros, siempre facturado, a bordo de una aeronave:
+D: 2 
+F: Fuegos artificiales
+F: Munición de guerra
+F: Está totalmente prohibido transportar explosivos
+T: Munición deportiva de la división 1.4S (máx. 5kg)
+
+Q: El hielo seco es una sustancia considerada mercancía peligrosa:
+D: 1
+F: Falso, ya que se transporta frecuentemente a bordo de los aviones
+F: De clase 1
+T: Cuyo transporte por vía aérea está permitido a los pasajeros para la conservación de productos perecederos hasta un máximo de 2,5 kg 
+F: Los pasajeros no pueden transportar hielo seco
+
+Q:¿Dónde deben ir alojadas las municiones para uso deportivo?
+D: 2
+F: No se puede transportar ninguna clase de munición.
+T: Deben ir colocadas en el equipaje facturado, sujetas a las limitaciones preceptivas. 
+F: Fuera del equipaje facturado, a la vista e identificadas correctamente.
+F: Deben viajar facturadas y en bodega, pero en un vuelo diferente al del pasajero.
+
+Q: ¿Cuál de estas sustancias se puede transportar bajo el título de mercancías exentas?
+D: 1
+F: Cartuchos de caza del calibre 12.
+T: Perfumes, colonias, bebidas alcohólicas y combustible. 
+F: Perfumes y petardos.
+F: Alcohol y explosivos.
+
+Q: Los pasajeros no pueden transportar MMPP en sus equipajes de mano. A estos efectos NO se considera Mercancía Peligrosa.
+D: 1
+F: Las bebidas alcohólicas que excedan de un 70% de volumen de alcohol
+T: Los artículos medicinales o de tocador no radioactivos 
+F: Los cartuchos de uso deportivo
+F: Los maletines de seguridad aunque contengan pilas de litio o material pirotécnico
+
+Q: Di cuál de estas mercancías peligrosas está totalmente prohibido su transporte por aire:
+D: 1
+F: Cartuchos del calibre 12 para caza menor.
+F: Materiales radioactivos conocidos.
+F: Animales vivos que estén infectados.
+T: Explosivos que contengan a la vez clorato y sales de armonio
+
+Q: Los líquidos pirofóricos son aquellos que cuando entran en contacto con el aire:
+D: 1 
+F: Explotan.
+T: Arden. 
+F: No reaccionan de ninguna manera.
+F: Se volatilizan.
+
+Q: ¿Puede un pasajero llevar en la cabina de pasaje como equipaje de mano una silla de ruedas con acumuladores derramables?
+D: 1
+F: Sí, sin problema.
+T: No, en ningún caso. 
+F: Muchas veces depende de la compañía.
+F: Solamente si lo autoriza el Comandante.
+
+Q: En MMPP qué uso le damos a la tabla 2.3 A:
+D: 1
+T: Conocer las MMPP que pueden ser transportadas a bordo de una aeronave por pasajeros o tripulación 
+F: Conocer cómo actuar en caso de incidente con MMPP
+F: Clasificar las MMPP
+F: Conocer cómo deben ser empaquetadas las MMPP
+
+Q: Las MMPP permitidas a bordo son aquellas que:
+D: 1
+T: Son aceptadas como carga y en bodega. 
+F: Se pueden llevar como equipaje facturado.
+F: Podemos llevar en nuestro equipaje de mano.
+F: Únicamente las que ha decidido el sobrecargo.
+
+Q: ¿Puede un operador transportar MMPP en la cabina de vuelo o de pasajeros de sus aviones?
+D: 1
+F: No, bajo ningún concepto o pretexto.
+F: Sí, siempre que lo desee y que la mercancía peligrosa no pese más de 6kg.
+F: Sí, basta con que el comandante lo autorice.
+T: No, salvo que se especifique lo contrario en las Instrucciones Técnicas.
+Q: Las sustancias más peligrosas requieren un tipo de embalaje del grupo:
+D: 2
+T: I 
+F: II
+F: III
+F: IV
+
+Q: La responsabilidad de verificar que los embalajes sean aptos para el transporte de MMPP corresponde al:
+D: 1
+F: Destinatario.
+F: Pasajero.
+T: Remitente/ Expedidor 
+F: Comandante.
+
+Q: Los grupos de embalaje I, II y III indican:
+D: 1 
+T: El grado de riesgo de la mercancía de mayor a menor. 
+F: El grado de riesgo de la mercancía de menor a mayor.
+F: La tarifa que han pagado de mayor a menor.
+F: El tamaño del bulto de mayor a menor.
+
+Q: Los embalajes específicos de Naciones unidas (UN):
+D: 2 
+F: Sólo pueden ser cajas de madera.
+F: En el exterior figurará: LIMITED QUANTITY _ LTD.
+T: En su exterior han de ser marcados con un código de especificación.
+F: Son los únicos tipos de embalaje válidos en una aeronave.
+
+Q: ¿Es adecuado echar agua sobre un derrame de mercancías peligrosas para dispersarlo?
+D: 1 
+T: Nunca. 
+F: Solo si el derrame es aceite.
+F: Solo si el derrame es denso.
+F: Sí, es lo recomendado.
+
+Q: ¿Qué significa la clave alfabética X?
+D: 2 
+F: Venenoso
+F: Corrosivo
+T: Comburente 
+F: Irritante
+
+Q: Para la protección de las manos en el avión ante un derrame de MMPP debemos disponer de:
+D: 1
+F: Tenazas
+T: Guantes piro resistentes o de cocina de bolsas de polietileno 
+F: No existe ningún equipo especial
+F: Ninguna es correcta
+
+Q: ¿Qué información nos da el código alfanumérico de una MMPP "CRE"?
+D: 2 
+F: El riesgo intrínseco de la misma
+F: El procedimiento a seguir en caso de emergencia
+F: El riesgo adicional
+T: Todas son correctas
+
+Q: Señala los elementos que debe contener un Dangerous Goods Kit, según las recomendaciones de la OACI:
+D: 1
+F: Guantes de plástico, cajas, mascarillas, precintos
+T: Material absorbente, guantes piro resistentes, bolsas de polietileno, precintos 
+F: Material absorbente, bolsas de aluminio, guantes, mascarillas
+F: Guantes piro resistentes, mascarillas, cajas, bolsas de polietileno
+Q: En caso de algún incidente con MMPP habría que:
+D: 2
+T: Desconectar los circuitos y encender la señal de " No fumar".
+F: Evacuar a todos los pasajeros de esa zona y llevarlos a la parte delantera del avión.
+F: Hacer saltar el oxígeno de emergencias.
+F: Conectar las luces de emergencia del avión.
+
+Q: Ante un incidente con MMPP un "Protective Breathing Equipment" (PBE) puede ser de utilidad para:
+D: 1
+T: No respirar emanaciones nocivas.
+F: Recoger los residuos.
+F: Apagar el fuego. 
+F: Proteger nuestra pie.
+
+Q: Si existe humo o vapores tóxicos en la cabina de pasajeros, debemos recomendar al pasaje:
+D: 1
+F: Que se coloquen rápidamente las mascarillas de oxígeno de emergencia.
+F: Que se cubran nariz y boca con un pañuelo o equivalente, seco.
+F: Que no se agachen ya que el humo de la cabina siempre se ira a la parte de abajo del avión.
+T: Que se cubran nariz y boca con un pañuelo o equivalente, húmedo.
+
+Q: Ante un incidente relacionado con MMPP que se produzca durante el vuelo, ¿Qué debe hacer la tripulación de cabina en primer lugar tras el aterrizaje?
+D: 1
+T: Indicar al personal de tierra la mercancía peligrosa y dónde está guardada. 
+F: Anotar la incidencia en el libro de mantenimiento.
+F: Cumplimentar el impreso correspondiente.
+F: Inspeccionar el producto.
+
+Q: En caso de aparición de gases tóxicos o humo en cabina producidos por un fuego a bordo, el TCP se colocará la máscara de protección portátil denominada:
+D: 1
+T: PBE 
+F: BCF
+F: MEG
+F: ABP
+
+Q: El orden correcto de verificación de un incidente con MMPP a bordo será:
+D: 1
+F: Identificar el producto, notificar al Comandante, retirar a los pasajeros y colocarse los guantes.
+T: Notificar al Comandante, identificar el producto y colocarse los guantes y el capuchón protector. 
+F: Colocarse los guantes y el capuchón, retirar a los pasajeros y notificar al Comandante.
+F: Retirar a los pasajeros, notificar al Comandante, identificar el producto y ponerse los guantes.
+
+Q: El transporte de hielo seco en un avión está considerado MP de clase:
+D: 2
 F: 3
-F: 5
-T: 4
-F: 8
-Q: ¿Cuánto es 3 x 4?
-D: 1
-T: 12
-F: 11
-F: 10
-F: 6
-Q: ¿Cuánto es 16 / 6?
-D: 2
-F: 2
-F: 2.5
 F: 4
-T: 2,66
+T: 9 
+F: No es una MP
 
-S: Conocimiento del medio
-Q: ¿Qué nombre recibe el sistema del cuerpo encargado procesar los alimentos que ingerimos?
-D: 1
-T: Aparato digestivo
-F: Aparato respiratorio
-F: Aparato circulatorio
-F: Aparato excretor
-Q: ¿Qué nombre recibe el sistema del cuerpo encargado de transportar la sangre a través del corazón y los vasos sanguíneos?
-D: 1
-F: Aparato digestivo
-F: Aparato respiratorio
-T: Aparato circulatorio
-F: Aparato excretor
-Q: ¿Cuál es el órgano más grande del cuerpo humano?
-D: 2
-F: Corazón
-F: Cerebro
-F: Hígado
-T: Piel
+Q: El arsénico, la nicotina y los pesticidas son MMPP clasificadas en:
+D: 2 
+F: 2
+F: 4
+T: 6 
+F: 8
 
-S: Filosofía
-Q: ¿Qué nombre recibe el filósofo que dijo la célebre frase "Yo solo sé, que no sé nada"?
+Q: Las MMPP de clase 8 son:
 D: 1
-F: Platón
-T: Sócrates
-F: Aristóteles
-F: Heráclito
-Q: ¿Qué filósofo escribió una obra titulada la República?
+F: Materiales radioactivos
+F: Explosivos
+T: Materiales corrosivos 
+F: Materiales magnetizados
+
+Q: El transporte de baterías, líquidos, con ácido en un avión está considerado MP de clase:
+D: 1 
+F: 2
+F: 4
+F: 6
+T: 8 
+
+Q: ¿Qué significan tres aspas negras con círculo negro en el centro en una etiqueta de MMPP?
 D: 1
-F: Agustín de Hipona
-F: Descartes
-T: Platón
-F: Aristóteles
-Q: El pensamiento racional (por oposición al pensamiento mítico) se caracteriza por:
+F: Material inflamable.
+F: Material corrosivo.
+T: Material radioactivo. Correcta
+F: Material volátil.
+
+Q: Algunas clases de MMPP se subdividen en grupos llamados:
+D: 1
+F: Subgrupos
+F: Subclases
+T: Divisiones 
+F: Mercancías no peligrosas
+
+Q: Las etiquetas de color verde indican que la mercancía de ese contender es un:
 D: 2
-F: Prescindir de la imaginación en sus explicaciones
-T: Descartar lo sobrenatural en sus explicaciones
-F: No apelar a realidades inmateriales en sus explicaciones
-F: Todas las anteriores son correctas
+F: Gas inflamable
+T: Gas no inflamable 
+F: Líquido inflamable
+F: Líquido no inflamable
+Q: La clase 4 de MMPP corresponde a:
+D: 2 
+F: Explosivos.
+F: Sustancias comburentes y peróxidos.
+T: Sólidos inflamables. 
+F: Sustancias corrosivas.
+
+Q: Si en una etiqueta de embalaje pone "THIS SIDE UP" significa que:
+D: 1
+F: Ese embalaje puede subir al avión.
+T: Que el lado que indica ha de situarse siempre hacia arriba. 
+F: Que el embalaje se abre por la parte de arriba.
+F: Ese texto no aparece nunca en un embalaje.
+
+Q: La mayoría de las etiquetas que indican que transportan una mercancía peligrosa tienen forma:
+D:1
+F: Rectangular
+F: Redonda
+F: Triangular 
+T: Cuadrada, colocada sobre un vértice
+
+Q: ¿De qué color son las etiquetas de las mercancías peligrosas de la clase 6 (sustancias toxicas y sustancias infecciosas)?
+D: 1
+F: Verde
+F: Rojo
+F: Amarillo y blanco
+T: Blanco
+
+Q: ¿Qué reflejan las clases en que se dividen las MMPP?
+D: 1
+F: Nada, sólo es una manera de clasificarlas 
+F: Corresponden a capítulos de las Instrucciones Técnicas
+T: El riesgo que representan
+F: Su número atómico
+
+Q: Si en una etiqueta aparece un símbolo con una brújula y un imán, entenderemos que estamos hablando de un producto:
+D: 1
+T: Que podrá producir alteraciones en los instrumentos del  avión 
+F: Corrosivo
+F: Venenoso
+F: Metálico
+
+Q:¿De qué tamaño suelen ser las etiquetas?
+D: 1
+F: 1000x1000 mm
+F: 500 x 500 mm
+T: 100 x 100 mm 
+F: No importa el tamaño con tal que las lleven
+
+Q: Las mercancías peligrosas se dividen en:
+D: 1
+T: Clases y divisiones. 
+F: Grupos y subgrupos.
+F: Tipos o subtipos.
+F: Conjuntos según su origen.
+
+Q: ¿De qué color son las etiquetas para las mercancías peligrosas de Clase 1?
+D: 1 
+F: Blanco.
+F: Negro.
+F: Amarillo.
+T: Naranja.
+
+Q: Las mercancías peligrosas se identifican por un nombre de Expedición y un número llamado:
+D: 2
+T: NU 
+F: ID
+F: CAO
+F: IT
+
+Q: Las mercancías peligrosas de clase 7 son:
+D: 2
+F: Líquidos inflamables.
+F: Explosivos.
+F: Mercancías peligrosas diversas.
+T: Materiales radioactivos.
+
+Q: Las etiquetas de las mercancías peligrosas pueden ser de dos clases:
+D: 1
+F: De embalaje y de transporte.
+F: De peligrosidad y de inocuidad.
+F: De clase preferente y de clase urgente.
+T: De riesgo y de manipulación. 
+
+Q: Las sustancias que en contacto con el agua emiten gases inflamables se consideran:
+D: 1
+F: Estas sustancias no existen.
+F: Sustancias comburentes. 
+F: Gases inflamables.
+T: Sólidos inflamables.
+
+Q: El índice de transporte (IT) se asocia a las mercancías peligrosas de clase:
+D: 1
+F: 2
+F: 4
+T: 7 
+F: 9
+
+Q: Las etiquetas para las MMPP de clase 4 son de color:
+D: 2 
+F: Blancas las 4.1 rojas, las 4.2 y azules las 4.3. 
+F: Negro y amarillo todas.
+F: Rojas todas.
+T: Blanco y rojo las 4.1 y azules las 4.3.
+
+Las etiquetas para las MMPP de clase 3 son de color:
+D: 1
+F: Verde.
+T: Rojo. 
+F: Rojo, blanco y azul.
+F: Negro.
+
+Q: Las mercancías de clase 3 son:
+D: 1
+F: Explosivos.
+F: Sólidos inflamables.
+F: Gases.
+T: Líquidos inflamables.
+
+Q: Dentro de los materiales radioactivos hay distintos tipos, que son:
+D: 1
+T: Categoría I, II y III. 
+F: Activos o inactivos.
+F: Peligrosos y mortales.
+F: Tipo A, B y C.
+
+S: ONE
+
+Q: ¿Qué debemos hacer en caso de fuego en la ropa de un pasajero?
+D: 1 
+F: Rociarle con mucha agua o zumos para sofocar el fuego de su ropa
+F: Descargar inmediatamente el extintor de halón sobre la ropa que arde
+T: Impedir que la víctima se mueva o corra, apagarlo con mantas o abrigos y avisar a la cabina de vuelo
+F: Avisar al Cmte y descargar el bcf sobre el pasajero
+
+Q: Si utilizamos un extintor de BCF para apagar un fuego, ¿qué precauciones debemos tener después?
+D: 1
+T: Si el fuego no ha sido eléctrico, debemos enfriar con líquidos no inflamables ya que el BCF no es refrigerante Correcta
+F: En caso de fuego eléctrico, debemos enfriar los rescoldos rociándolos con agua
+F: Abrir compartimentos, levantar revestimientos y echar cualquier tipo de líquido para eliminar un posible foco incandescente oculto
+F: En extintor de BCF está prohibido en aeronaves en vuelo por su efecto perjudicial para Ia capa de ozono
+
+Q: En caso de mucho humo negro en la cabina durante un vuelo, los TCP:
+D: 1
+T: Distribuirán cabezales, servilletas o pañuelos mojados a los pasajeros 
+F:Actuarán como crean conveniente según la fuente del fuego
+F: Suministraran oxígeno a los pasajeros
+F: Tranquilizaran al pasaje y procuraran que la gente no cambie de asiento
+
+Q: En caso de fuego, cuál es el tripulante que debe localizar el origen y atacarlo inmediatamente?
+D: 1 
+F: El Sobrecargo.
+F: El Comandante.
+T: El TCP que lo descubre en primer lugar.  
+F: El TCP responsable de la zona.
+
+Q: ¿En qué material en un fuego eléctrico, utilizaremos líquidos no inflamables tras haber descargado un extintor?
+F: Cableado del avión
+F: C.B de los galleys
+T: Baterías de litio Correcta
+F: Sistema de entretenimiento de los aviones
+
+Q: ¿Qué será lo primero que hagamos en caso de fuego en el horno?
+D: 1
+F: Preparar guantes, BCF y PBE
+F: Desconectar el horno y su C/B correspondiente
+F: Avisar a cockpit
+T: Cerrar la puerta del horno
+
+Q: ¿A qué tipo de fuego me estoy refiriendo en caso de un fuego clase B?
+D: 1
+F: Sólido
+F: Eléctrico
+T: Líquido 
+F: Gas
+
+Q: Para que el fuego se produzca y mantenga son necesarios 3 componentes:
+D: 1
+F: CO2, calor y combustible
+F: Oxígeno, calor y comburente
+T: Oxígeno, calor y combustible 
+F: Oxígeno, comburente y combustible
+
+Q: Para atacar el fuego que pueda producirse a bordo de una aeronave, esta dispone de un conjunto obligatorio de equipos y sistemas, consistentes en:
+D: 1
+F: Detectores de humo, PBE y extintores fijos.
+T: Detectores de humo, PBE, extintores portátiles y extintores fijos. Correcta
+F: Detectores de humo, PBE y extintores portátiles.
+F: Detectores de humo, extintores portátiles y extintores fijos.
+
+Q:El extintor de la papelera del lavabo se compone de:
+D: 1
+F: Halón únicamente
+F: Agua
+T: Halón y freón 
+F: Freón
+
+Q: Si se activa la alarma indicadora de humo en el lavabo con la puerta del lavabo cerrada, ésta nos estará indicando que:
+D: 1 
+F: Hay condición de fuego en el lavabo
+F: No nos indica nada si la puerta está fría
+F: Hay más de una persona metida en el baño
+T: Hay condición de humo en el lavabo
+
+Q: Marca la respuesta correcta en caso de humo en cabina:
+D: 1
+F: El uso de oxígeno del sistema fijo está recomendado
+F: Tanto el humo como el calor serán más intensos en el suelo de la cabina.
+F: Solamente está permitido suministrar O2 de 1os auxilios a un PAX en caso de necesidad médica
+T: Si el humo ocurre en vuelo y no se puede salir de la cabina, se dirá al pasaje que agache la cabeza y se cubra la nariz y la boca con un pañuelo mojado.
+
+Q: ¿Qué tipo de fuego eléctrico podremos enfriar con líquidos?
+D: 1
+F: Fuego en el galley
+F: Fuego en un horno
+F: Fuego oculto tras un panel
+T: Fuego en un PED
+
+Q: ¿Qué precauciones debemos tener después de apagar un fuego en la cabina de pasaje?
+D: 1
+F: El BCF es refrigerante, no es necesario enfriar
+F: Apagarlo con líquidos inflamables
+T: Si no es eléctrico, enfriar con líquidos después de usar el BCF
+F: Sí es eléctrico usar el BCF
+
+Q: ¿Cuáles serán los pasos a seguir cuando nos encontremos con humo negro en la cabina de pasaje?
+D: 1
+F: Buscar y atacar el origen del fuego con el extintor apropiado
+F: Avisar a CKPT, cubrirnos nariz y boca con un pañuelo mojado y movernos a gatas por la cabina
+T: Avisar a CKPT, protegernos con las PBE, cerrar aireadores y decir al pasaje que agache la cabeza y se cubra la nariz y boca
+F: Cerrar aires y usar las mascarillas
+
+Q: ¿Cuál es el procedimiento a seguir si saltase un CIRCUIT BREAKER y quedase desconectado?
+D: 1 
+F: Anotarlo en el Cabin Log Book y llegados a tierra comentárselo al comandante
+F: Volvemos a introducir el circuit breaker y, si salta de nuevo, avisamos al comandante
+F: Desconectar el aparato y no utilizarlo más
+T: El comandante deberá ser informado y pediremos su autorización para volverlo a conectar
+
+Q: En caso de fuego a bordo, ¿Quién debe localizar el origen fuego y atacarlo inmediatamente con el extintor apropiado más próximo?
+D: 1 
+F: El TCP más experto
+T: El TCP que lo descubra en primer lugar 
+F: El Sobrecargo 
+F: El TCP responsable de la zona donde se produzca el fuego
+
+Q: Indica las acciones en caso de fuego en una batería de litio:
+D: 1 
+F: Mover el dispositivo electrónico
+F: Echar hielo sobre el aparato y desconectar
+T: Alejar a los pasajeros de la zona afectada, apagar el fuego y enfriar el dispositivo con agua o líquidos no inflamables 
+F: Extinguir el fuego y nunca echar agua al ser un aparato eléctrico
+
+Q: En una situación de humo negro en cabina de pasaje los TCPs deben:
+D: 1
+F: Echarse al suelo, taparse nariz y boca
+F: Informar al CMTE, coger botella de oxígeno con mascarilla en toma HI
+T: Informar al CMTE, utilizar PBE, cerrar aireadores, gritar a los pax si es posible "agáchense y tápense la nariz y la boca" 
+F: Solicitar al Comandante el despliegue de las máscaras de O2 de los PSUs
+
+Q: Los extintores BCF actúan sobre el fuego:
+D: 1
+F: Enfriándolo
+T: Reduciendo el oxígeno de la combustión 
+F: Reduciendo el combustible presente
+F: Bajando la temperatura del combustible
+
+Q: Si el fuego en cabina de pasaje se encuentra localizado en la zona de galleys, ¿Qué es lo primero que debemos hacer tan pronto como sea posible?
+D: 1
+F: Desconectar los cazos eléctricos
+F: Solo atacar el fuego con el extintor correspondiente.
+T: Desconectar todos los interruptores y sacar los cortacircuitos automáticos (“breakers”) 
+F: Solo atacar el fuego con el extintor correspondiente.
+
+Q: ¿Cómo debe estar la tapa de la papelera para que el extintor automático de los lavabos sea efectivo si se descarga?
+D: 1 
+T: Cerrada 
+F: Abierta
+F: Entre abierta
+F: Es indiferente
+
+Q: En caso de humo negro…
+D: 1 
+F: Haremos uso de las mascarillas de oxígeno
+F:  No haremos nada
+T: Ordenaremos a los pasajeros que se tapen nariz y boca con un paño húmedo 
+F: Gritaremos mucho
+
+Q: ¿Qué se debe hacer después de apagar un fuego en una bateria de litio?
+D: 1 
+F: Enrollarla con mantas y guardar en un compartimento
+T: Sumergirla en líquido no inflamable
+F: Echarle agua
+F: Ponerla debajo del grifo del lavabo
+
+Q: Si en la cabina de vuelo notamos un fuerte estruendo, que se forma niebla dentro del avión y una disminución brusca de la temperatura, nos encontramos ante:
+D: 1
+T: Una despresurización explosiva 
+F: Una despresurización lenta
+F: Un fallo en el aire acondicionado
+F: Un derrame de mercancía peligrosa
+Q: ¿Qué consideras que puede estar pasando si durante un vuelo, a altitud de crucero, sin que hayamos sido informados de posibles turbulencias (y no las hay), los indicadores luminosos de "abróchese los cinturones" se enciende repentinamente y nos sobreviene una sensación de frio junto con taponamiento de oídos?
+D:1
+F: Estamos ante una posible turbulencia severa
+F: Conviene prepararse para un posible aterrizaje de emergencia
+T: Estamos ante una posible despresurización lenta 
+F: Nos hemos de sentar y atar inmediatamente hasta que el avión este estabilizado
+
+Q: En caso de despresurización explosiva nuestra primera acción será:
+D: 1
+F: Administrar oxígeno al comandante inmediatamente. 
+T: Obtener oxígeno para evitar la hipoxia. 
+F: Ayudar a los pasajeros.
+F: Bloquear los lavabos.
+
+Q: Síntomas de una despresurización lenta:
+D: 1 
+T: Taponamiento de oídos 
+F: Ruido intenso
+F: Fuerte corriente de aire
+F: Expansión de gases internos
+
+Q: La finalidad y la duración de las mascarillas de oxígeno fijo (PSU) es...
+D: 1
+F: Proporcionar oxígeno durante un fuego, duración mínima 15 minutos
+F: Proporcionar oxígeno si hay humo en la cabina, duración mínima 20 minutos
+T: Proporcionar oxigeno si se produce una despresurización, duración mínima 15 minutos 
+T: Proporcionar oxígeno exclusivamente a la tripulación de vuelo, duración mínima 10 minutos
+
+
+Q: Son síntomas de la despresurización explosiva:
+D: 1
+F: Sensación de frío y humedad en la cabina.
+F: Taponamiento de oídos, brusco aumento del nivel de ruido, fuerte sensación de frío.
+T: Ruido intenso, corriente de aire, asfixia e hipoxia y expansión de los gases internos. 
+F: Brusco aumento del nivel de ruido, movimientos de balanceo, asfixia e hipoxia.
+
+Q: ¿Cuál será el procedimiento en caso de turbulencia LIGERA-MODERADA?
+D: 1
+F: Contactar con CKPT, sentarnos y asegurarnos, bloquear lavabos, asegurar galley.
+T: Contactar con CKPT, dar anuncio a pasaje, comprobar que los pasajeros tienen los cinturones abrochados, bloquear lavabos y asegurar galleys. 
+F: Dar el anuncio al pasaje, contactar con CKPT, asegurar lavabos y galleys.
+F: Dar anuncio por P.A, sentarnos y asegurarnos, bloquear lavabos, asegurar galley.
+
+Q: En caso de despresurización explosiva, con caída de mascarilla en cabina, si tengo que acceder a CKPT…
+D: 2
+F: Entraré directamente pues la puerta estará completamente abierta. siempre en caso de despresurización
+F: Haré una llamada estándar y esperaré respuesta
+T: Empujaré la puerta pues ésta se desbloquea en caso de despresurización, por motivos de seguridad 
+F: Deberé introducir el código de emergencia
+
+Q: En caso de Despresurización Explosiva, ¿qué haremos cuando el avión esté estabilizado?
+D: 1
+F: Prestar ayuda al resto de los TCPs.
+F: Comprobar que en Cabina de Vuelo estén bien, respirando oxígeno.
+F: Prestar ayuda a los pasajeros que lo precisen y comprobar lavabos.
+T: Todas son correctas.
+
+
+Q: En una despresurización explosiva, cogeremos una máscara del sistema fijo de oxígeno y nos sentaremos y sujetaremos en el lugar más próximo hasta que el avión esté estabilizado. ¿Qué significa avión estabilizado?
+D: 1
+F: Que el avión ha terminado el descenso de emergencia.
+T: Que los TCPs pueden moverse libremente por el avión sin peligro para sus vidas, aunque sigan necesitando el uso de oxígeno. Correcta
+F: Que los TCPs pueden moverse por el avión sin necesitar el suministro de oxígeno.
+F: Que el avión ha alcanzado una altura en la que ya no hace falta el uso de oxígeno.
+
+Q: ¿Qué se considera escape de presión?
+D: 1
+F: Un fallo en el sistema de presurización del avión
+F: Es un fallo  total en la presión de cabina producido por una rotura en el fuselaje.
+T: Una fuga de aire por una zona del avión no diseñada para ello y que el sistema de presurización del avión es capaz de compensar automáticamente, aunque podría desembocar en una despresurización lenta o explosiva Correcta
+F: Cuando una botella portátil de O2 tiene fuga de oxígeno.
+
+Q: Por norma general, ¿Cuántas mascarillas encontramos instaladas en los lavabos?
+D: 1
+T: 2 
+F: 1
+F: 3
+F: 0
+
+Q: Señala los síntomas de una despresurización lenta:
+D: 1
+T: Sensación de frío, taponamiento de oídos, en ocasiones niebla. 
+F: Dolor de cabeza, sensación de frío, expansión de gases internos.
+F: Sensación de frío, taponamiento de oídos, ruido brusco.
+F: Dolor de cabeza, falta de aire y expansión de gases
+
+
+Q: ¿En qué procedimiento debemos bloquear el carro, si ocurre dando el servicio?
+D: 1
+F: Únicamente durante una despresurización explosiva
+F: Durante una turbulencia severa
+T: Durante una turbulencia severa y una despresurización explosiva
+F: Cuando el sobrecargo nos de la orden
+
+Q: ¿Cómo se clasifica la turbulencia en sus diferentes niveles?
+D: 1
+F: Inapreciable, fuerte o muy débil.
+F: Débil, moderada, fuerte o muy fuerte
+T: Débil, moderada, fuerte o severa 
+F: Débil, moderada, fuerte
+
+Q: ¿Qué es lo que verificamos fundamentalmente en las inspecciones de los lavabos?
+D: 1
+T: Que no se ve, ni huele a humo. Que no se ha descargado el extintor automático y que el detector de humos funcionada correctamente y no ha sido manipulado. 
+F: Que el agua fría sale fría y la caliente sale caliente.
+F: Que la puerta antes de entrar está fría.
+F: Que no se ha quedado encerrado ningún pasajero.
+
+Q: Si el avión está equipado con únicamente un hacha, ésta estará situada en:
+D: 1
+T: El interior de la cabina de mando 
+F: En un galley
+F: En el armario FWD de la cabina de pasaje, disimulado con uniformes, mantas, ...
+F: En un armario trasero de la cabina de pasajeros
+
+Q: ¿A partir de cuántos asientos se requiere un medical kit?
+D: 1
+F: 19
+F: 60
+F: 100
+T: 30
+
+Q: En caso de 200 asientos o más, una de las 2 hachas puede ser sustituida por:
+D: 1
+F: Un extintor
+F: Un botiquín
+T: Una barra de pata de cabra 
+F: Nada, solo es necesario un hacha
+
+Q: Sabemos que los aviones van provistos de botiquines médicos y de uno o más botiquines de primeros auxilios y que el TCP...
+D: 1
+F: Puede utilizar cualquiera de ellos
+F: No puede usar ninguno
+F: Dependiendo de la emergencia, podrá utilizar el botiquín médico
+T: Solo puede utilizar el FAK (first aid kit)
+
+Q: ¿Cuándo es obligatorio llevar a bordo chalecos salvavidas?
+D: 1
+F: No es obligatorio llevarlos, depende del operador
+T: Cuando está previsto volar a mas de 50 NM de la costa o cuando se opere en una aeropuerto cuya trayectoria o aproximación este situada por encima del agua 
+F: Cuando esté previsto volar a mas de 400 NM de la costa o el despegue o el aterrizaje sea cerca de la costa
+F: Cuando se vaya a volar a más de 150 NM de la costa
+
+Q: Los extintores automáticos instalados en la papelera de los lavabos:
+D: 1
+F: Se disparan a una temperatura de aproximadamente 20ºC, tienen una capacidad de 150g y se vacía a los 77 segundos.
+T: Se dispararan automáticamente cuando detectan una temperatura de aproximadamente entre 71ºC y 77ºC, tienen una capacidad de 120g y una duración de 15 segundos 
+F: Se disparan a una temperatura de aproximadamente 120ºC, tienen una capacidad de 77g y se vacía a los 15 segundos.
+F: Hay que activarlos manualmente
+
+Q: Los aviones deben estar provistos de un sistema de presentación automática de oxígeno cuando vuelen por encima de:
+D: 1
+F: 10.000 pies
+F: 14.000 pies
+T: 25.000 pies 
+F: 33.000 pies
+
+Q: La finalidad de las mascarillas de oxígeno de los cajetines es...:
+D: 1
+F: Proporcionar oxígeno durante un fuego
+F: Proporcionar oxígeno si hay humo en la cabina
+T: Proporcionar oxígeno si se produce una despresurización 
+F: Proporcionar oxígeno exclusivamente a la tripulación de vuelo
+
+Q: ¿Cuándo es obligatoria la presencia de balsas a bordo?
+D: 2
+F: Cuando la aeronave se aleje más de 60min o 50NM de un aeropuerto adecuado para realizar un aterrizaje de emergencia
+T: Cuando la aeronave se aleje más de 120min o 400NM de un aeropuerto adecuado para realizar un aterrizaje de emergencia 
+F: Cuando la aeronave se aleje más de 50min o 120 NM de un aeropuerto adecuado para realizar una aterrizaje de emergencia
+F: Cuando la aeronave se aleje mas de 400min o 100NM de un aeropuerto adecuado para realizar un aterrizaje de emergencia
+
+Q: ¿Qué elementos componen la rampa de evacuación en una puerta a nivel de suelo - Floor level Exit?
+D: 1
+F: Pull de inflado, pull de apertura y pull de separación
+T: Barra de sujeción (girt bar), válvula Venturi, pull de inflado y pull de separación 
+F: Válvula Venturi, pull de inflado y barra de separación
+F: Válvula Venturi, pull de inflado, barra de separación y pull de apertura
+
+Q: En una despresurización explosiva, al abrirse los cajetines y aparecer las máscaras del sistema fijo de oxígeno para pasaje, ¿Cuándo se activa el flujo oxigeno?
+D: 1
+F: Automáticamente
+F: Cuando pulsamos el interruptor de ON que hay en el propio cajetín.
+F: El oxigeno fluye solamente por la máscara de la que se tira.
+T: Al tirar de una de ellas, el oxígeno fluye por todas las conectadas a ese generador.
+
+Q: Para la sujeción de pasajeros obesos en los asientos se deberá utilizar:
+D: 1
+F: Un cinturón canguro o BSB.
+T: Un alargador de cinturón o ESB 
+F: Arnés de seguridad o ESB
+F: Comprar un doble asiento para ponerle un BSB
+
+Q: ¿Qué altura mínima ha de tener el borde inferior del ala para estar equipada con rampas?
+D: 1
+F: 1,63 m
+F: 1,73 m
+T: 1,83 m 
+F: 1,93 m
+
+Q: ¿Cuál es la abreviatura que designa al Manual del Tripulante de Cabina de Pasajeros?
+D: 1
+F: TCPML
+F: Cabin Crew Book
+F: CCB
+T: MTCP
+Q: A los sistemas de sujeción infantil homologados para ser utilizados en un avión, se les conoce con las siglas:
+D: 2
+F: CFR - Child For restrain
+F: INF - Infant Kit
+T: CRD - Child Restrain Device
+F: SIH - Seat Infant Homologada
+
+Q: ¿Qué tipo de alimentación eléctrica tienen los megáfonos de a bordo?
+D: 1
+F: Está conectado al sistema de anuncios al pasaje.
+F: Está conectado a las baterías del sistema de iluminación de emergencia.
+T: Es un equipo autónomo, alimentado con pilas. 
+F: Es una batería conectada al sistema eléctrico normal del avión.
+
+Q: ¿Cómo se denomina al tirador para inflar una rampa manual, si de forma automática no se inflase?
+D: 1
+F: Not Inflate Pull
+F: Ditching Line
+F: Push to inflate
+T: Pull to Inflate
+
+Q: El chequeo pre vuelo de las botellas de oxígeno consiste en comprombar:
+D: 1
+F: Presencia, anclaje, fecha de caducidad y precinto
+F: Presencia, anclaje y manómetro en zona verde
+T: Presencia, anclaje, dos mascarillas compatibles, cuerda de transporte y manómetro mínimo que indica 1500psi 
+F: Presencia, anclaje, precinto de plomo y manómetro por encima de 500psi
+
+
+
+Q: Las máscaras de O2 aparecen automáticamente:
+D: 2
+T: Cuando la altitud interior de la cabina supere los 14.000 pies 
+F: Cuando la altitud exterior de la cabina supere los 14.000 pies
+F: Cuando la altitud de cabina supere los 11.300 pies
+F: Cuando el sobrecargo presione el botón correspondiente
+
+Q: ¿Qué debemos chequear del botiquín de primeros auxilios?
+D: 1
+F: Presencia únicamente
+F: Caducidad inferior a un año
+F: Precinto de color rojo
+T: Presencia, ubicación, precinto (*caducidad según el procedimiento de la aerolínea)
+
+Q: ¿Qué se puede añadir al número máximo de pasajeros admisibles de acuerdo con el certificado de tipo de avión?
+D: 1
+F: Los DEPO
+F: Los TCPs
+T: Los bebés 
+F: Los PSP
+
+Q: ¿Qué nombre reciben las máscaras de colocación rápidas para los pilotos  ubicadas en Cockpit?
+D: 1
+F: MCR
+F: PSE
+F: APU
+T: QDM
+
+Q: ¿A qué nos referimos cuando hablamos de P.A.?
+D: 1
+F: Sistema de video - Passenger entertainment
+F: Sistema de interfono 
+F: Sistema de audio - Public Audio
+T: Sistema de megafonía - Public Address
+
+Q: En lo referente a los cinturones de seguridad, indique qué afirmación es correcta:
+D: 1
+T: Los bebés tendrán que contar con un dispositivo de sujeción. 
+F: Todas las aeronaves podrán contar con un 10% de asientos para pasajeros de 2 o más años sin cinturón de seguridad.
+F: En todo caso, los miembros de la tripulación de cabina de pasajeros, incluidos los que no forman parte de la tripulación requerida, contarán con un cinturón de seguridad con arnés de hombros.
+F: Los cinturones de seguridad de la tripulación requerida tendrán al menos 2 puntos de enganche.
+
+Q: ¿De qué manera se pueden presentar en cabina las mascarillas del oxígeno suplementario/O2 fijo/PSU?
+D: 1
+F: Pulsando el correspondiente interruptor desde Cabina de Vuelo.
+F: Manualmente, abriendo los cajetines con un objeto punzante.
+F: A los 14000 pies de altitud de presión de cabina.
+T: Todas son correctas.
+
+Q: Las mascarillas de oxígeno de presentación automática saltan cuando la altitud de presión de cabina alcanza unos pies, y cada pasajero deberá disponer una máscara de presentación automática si el vuelo se efectúa por encima de …
+D: 1
+F: 5000ft - 25000ft 
+T: 14000ft - 25000ft  
+F: 14000ft - 10000ft
+F: 10000ft - 25000ft
+
+Q: ¿Cómo lo selectaremos las máscaras de cockpit - QDM en caso de despresurización?
+D: 1:
+F: Posición NORMAL: 100% O2 flujo a demanda.
+F: O2 mezclado,  flujo a demanda.
+T: Posición EMERGENCY: 100% O2 flujo continuo. 
+F: 100% O2 flujo a demanda.
+
+Q: ¿Cuáles son las principales características del suministro de oxígeno de las botellas portátiles de primeros auxilios?
+D: 1
+F: Salida HI 4 litros /minuto y LOW  2 l/minuto . Flujo a demanda.
+T: Salida HI 4 litros /minuto y LOW  2 l/minuto . Flujo continuo. 
+F: Salida LOW 4 litros/minuto  y HI 2 l/minuto . Flujo continuo.
+F: Salida LOW 4 litros /minuto y HI 2 l/minuto . Flujo a demanda.
+
+Q: Indica el chequeo del manómetro de la botella de O2 y la cantidad mínima que debemos dejar cuando la utilicemos:
+D: 1
+F: Mínimo 1500 psi y la agotaremos por completo antes de empezar una nueva.
+F: Mínimo 1200 psi y no agotar, mínimo dejar 500 psi
+F: Mínimo 1800 psi y no bajaremos de 200 psi
+T: Mínimo 1500 psi y no agotar por debajo de 200 psi
+
+Q: Una de las frecuencias de la radiobaliza es:
+D: 2
+F: 122,5 Mhz.
+F: 125,5 Mhz
+F: 120,5 Mhz.
+T: 121,5 Mhz.
+
+Q: ¿Cuál es la duración de la radiobaliza?
+D: 1
+F: Mínimo 100h
+F:  Mínimo 24h
+F: Ninguna es correcta
+T: Mínimo 48h
+
+Q: ¿Qué significan las siglas ELT?
+D: 1
+F: Hora local a la que se produce una emergencia o accidente
+F: Ninguna de las respuestas anteriores es correcta
+T: Transmisor de localización de emergencia 
+F: Luz específica en el panel del sobrecargo que significa emergencia
+
+Q: ¿Cuándo es correcta la presión que señala la aguja del manómetro del tobogán?
+D: 1
+T: La aguja señala zona verde o está entre 2800 y 3200 psi 
+F: La aguja está entre 1800 y 2300 psi
+F: La aguja señala zona roja o está entre 2800 y 3200 psi
+F: La aguja señala zona verde o está entre 2000 y 2800 psi 
+
+Q: Los detectores de humo…
+D: 1
+F: Son obligatorios en los lavabos y galleys de todos los aviones. Si se activa la alarma, ésta es acústica y visual.
+F: Son obligatorios en los baños de todos los aviones. Si se activa la alarma ésta es solamente acústica.
+T: Son obligatorios en los baños de todos los aviones. Si se activa la alarma, ésta es acústica y visual (luz ámbar destellante). Los aviones de medio y gran tamaño disponen de otra luz indicadora en el puesto del TCP indicando el lavabo afectado
+F: No son necesarios
+
+Q: En el chequeo pre-vuelo del extintor BCF, ¿qué comprobamos?
+D: 1
+F: Precintado, manómetro en zona verde, boquilla libre de obstrucciones
+F: Ubicación correcta, manómetro en zona roja, precintado
+T: Ubicación correcta, precintado, manómetro en zona verde y boquilla libre de obstrucciones 
+F: Ubicación correcta, precintado, boquilla libre de obstrucciones
+Q: ¿Cómo llamamos al equipo respiratorio de protección de la tripulación?
+D: 1
+F: BCF
+F: ELT
+F: BPA
+T: PBE
+
+Q: ¿Qué significa el acrónimo MEL?
+D: 1
+F: Medical Equipment List - Lista de Equipación Médica 
+T: Minimum Equipment List - Lista de equipación mínima
+F: Maximum Equipment List - Lista de equipación máxima
+F: Me Encanta Leer
+
+Q: Indica la duración de la PBE Dräger
+D: 1
+F: 10 minutos
+T: 15 minutos 
+F: 25 minutos
+F: 12 minutos
+
+Q: En lo referente a los cinturones de seguridad, indique qué afirmación es correcta:
+D: 1
+F: En todo caso, los miembros de la tripulación de cabina de pasajeros, incluidos los que no forman parte de la tripulación requerida, contaran con un cinturón de seguridad con arnés de hombros
+F: Todas las aeronaves podrán contar con un 10% de asientos para pasajeros de 2 o más años sin cinturón de seguridad
+T: Los bebés tendrán que contar con un dispositivo de sujeción 
+F: Los cinturones de seguridad de la tripulación requerida tendrán al menos 2 puntos de enganche
+
+Q: Al numero máximo de pasajeros admisibles de acuerdo con el certificado de tipo de avión se pueden añadir: 
+D: 1
+F: Niños - Childs
+F: PMR
+T: Bebés - Infants 
+F: UMs
+
+Q: Para prevenir los efectos de la despresurización del avión, este debe ir equipado con equipos especiales, consistentes en:
+D: 1
+F: Sistemas de oxigeno de emergencia y oxigeno portátil para tripulantes de cabina
+F: Sistemas de oxigeno de emergencia y mascarillas de oxígeno en cada asiento y suplementarias
+T: Sistemas de oxigeno de emergencia, mascarillas de oxígeno en cada asiento y suplementarias y oxigeno portátil para tripulantes de cabina
+F: Mascarillas de oxígeno en cada asiento y suplementarias y oxigeno portátil para tripulantes de cabina
+
+Q: Para los casos de un amerizaje de emergencia, los aviones han de ir dotados de medios de flotación. Estos serán los siguientes:
+D: 1
+F: Chalecos y balsas salvavidas
+F: Depende de la zona geográfica en la que se vuele.
+T: Chalecos salvavidas, chalecos salvavidas para bebés o medios equivalentes y balsas salvavidas. 
+F: Chalecos salvavidas para adultos y cunas flotantes
+
+Q: ¿Cuántos extintores portátiles de halon 1211 (bromoclorodifluorometano) o agente extintor equivalente (BCF) ha de llevar un avión con 78 asientos para pasajeros?
+D: 1
+F: 2
+T: 3 
+F: 4
+F: 1
+
+
+Q: La radiobaliza de emergencia portátil es conocida con las siglas:
+D: 1
+T: ELT 
+F: PSU
+F: PBE
+F: PMR
+
+Q: ¿Cuántos megáfonos, como mínimo, debe llevar un avión de 98 asientos de pasajeros?
+D: 1
+T: 1 
+F: 2
+F: 3
+F: 4
+
+Q: ¿Cuántos botiquines de primeros auxilios, como mínimo, debe llevar un avión de 198 asientos de pasajeros?
+D: 2
+F: 4
+F: 1
+T: 2 
+F: 3
+
+Q: Si en algún punto de la ruta prevista se está a una distancia de MÁS DE 60 MINUTOS DE TIEMPO DE VUELO de un aeródromo en el que se pueda esperar la disponibilidad de asistencia médica cualificada, el operador no operará un avión con MÁS DE 30 ASIENTOS DE PASAJEROS, a no ser que esté equipado como mínimo con:
+D: 1
+T: Botiquín médico de emergencia 
+F: Balsas para todos los pasajeros
+F: Un botiquín médico por cada fracción de 50 pasajeros
+F: Una linterna para cada pasajero
+
+Q: "Los aviones comerciales están certificados para ser evacuados en..."
+D: 1
+F: 90 segundos utilizando todas las salidas de emergencia disponibles
+T: 90 segundos utilizando la mitad de las puertas de emergencia 
+F: 120 segundos utilizando todas las salidas de emergencia disponibles
+F: 120 segundos utilizando la mitad de las puertas de emergencia
+
+Q: Las máscaras de 02 aparecen automáticamente:
+D: 1
+T: Cuando la altitud interior de la cabina supere los 14.000 pies 
+F: Cuando la altitud en el exterior del avión es de 14.000 pies
+F: Cuando la altitud de cabina supere los 11.300 pies
+F: Cuando el sobrecargo presione el botón correspondiente
+
+¿Qué significan las siglas PBE?
+D: 1
+F: Preserver Breathing Equipment
+F: Preventing Breating Equipment
+T: Protective Breathing Equipment 
+F: Promoting Breating Equipment
+
+Q: ¿Cuántas PBE llevaremos a bordo y cual será su duración mínima?
+D: 1
+F: PBE para la tripulación requerida y tripulantes adicionales, duración mínimo 15 minutos
+F: PBE para la tripulación requerida, duración mínimo 20 minutos
+F: PBE para la tripulación requerida y extra crews, duración mínimo 15 minutos
+T: PBE para la tripulación requerida, duración mínimo 15 minutos
+
+Q: ¿Qué se entiende por atalaje?
+D: 1
+F: Cinturón de seguridad de un asiento de servicio.
+T: Conjunto de cinturón y tirantes de seguridad unidos en un solo cierre. 
+F: Conjunto de cinturón, tirantes y reposa cabezas.
+F: Todo lo que sirva para unirse al asiento.
+
+Q: Los aviones deben estar provistos de un sistema de presentación automática de oxígeno cuando vuelen por encima de:
+D: 1
+F: 10.000 pies.
+F: 14.000 pies. 
+T: 25.000 pies.
+F: 33.000 pies.
+
+Q: ¿Cómo se activa el flujo de oxígeno de los generadores de O2 de la cabina?
+D: 1
+T: Tirando de una de las mascarillas. 
+F: Tirando de las 4 mascarillas.
+F: Se activa desde cockpit.
+F: Con el MRT.
+
+Q: Indica cuál es el chequeo del megáfono:
+D: 1
+F: Ubicación correcta y manómetro en zona verde
+F: Ubicación correcta y luz parpadea máximo cada 10 segundos
+F: Ubicación correcta y bandolera
+T: Ubicación correcta y al apretar el interruptor emite un sonido “Click”
+
+Q: El chequeo pre vuelo de material de emergencia:
+D: 1
+F: Se realiza por el SC y el TCP más antiguo en la tripulación
+F: Lo realiza mantenimiento y los TCPs chequean el catering
+T: Lo realizan todos los TCPs, cada uno chequea su zona asignada según su posición
+F: Lo realiza el Sobrecargo
+
+
+Q: ¿Qué duración tiene un extintor BCF?
+D: 1
+F: 9 minutos
+T: Entre 7 y 10 segundos 
+F: Entre 10 y 15 segundos
+F: 30 segundos
+
+Q: Las AIR OPS exigen que el número máximo de personas a bordo de un avión, sin contar niños menores de 2años, debe ser capaz de abandonarlo avión en:
+D: 1
+F: 60 segundos por el 50% de las salidas de emergencia disponibles
+F: 60 segundos por todas las salidas de emergencia.
+T: 90 segundos por el 50% de las salidas de emergencia disponibles 
+F: 90 segundos por todas las salidas de emergencia
+
+Q: ¿Cuál es el chequeo pre-vuelo de la PBE tipo l’Air Liquide?
+D: 1
+F: Ubicación, precinto y testigo rojo
+T: Ubicación, precinto y testigo verde 
+F: Ubicación, precinto y manómetro en zona verde
+F: Ubicación, precinto y testigo azul
+
+Q: ¿Qué chequeamos en las linternas de emergencia?
+D: 1
+F: Ubicación y luz roja parpadea cada 10-15 segundos
+T: Ubicación, precinto y luz roja parpadea máx. cada 10 segundos 
+F: Ubicación y precinto y luz parpadea mínimo cada 10 segundos
+F: Ubicación e interruptor ON/OFF
+
+Q: Cada pasajero deberá llevar una máscara de presentación automática si el vuelo se efectúa por encima de:
+D: 1
+F: 20000ft
+T: 25000ft
+F: 10000ft
+F: 14000ft
+
+Q: ¿Cuándo se efectúan los chequeos pre-vuelo?
+D: 1
+F: En el primer vuelo del día
+F: Si el avión viene de los hangares
+F: Cuando hay cambio de tripulación
+T: Todas son correctas
+
+Q: En despegues o aterrizajes que se efectúan de noche, para acondicionar la vista a las condiciones exteriores es importante:
+D: 1
+F: Apagar las luces de cabina Incorrecta
+F: Encender en bright todas las luces.
+F:  Apagar las luces de cabina, excepto las luces de emergencia.
+T: Atenuar las luces de cabina
+
+Q: ¿En qué circunstancias podremos armar rampas sin haber recibido la orden de armado?
+D: 1
+F: Cuando se alejen suficientemente escaleras o pasarelas 
+F: Cada TCP es responsable de su puerta y de armar su rampa cuando considere
+T: Si el avión empieza a moverse y están desarmadas
+F:  Cuando alcancemos la altitud de crucero
+
+Q: ¿Quién determina la posición de los TCPS y sus puertas?
+D: 1
+F: Se asigna por sorteo.
+T: El Sobrecargo asigna bajo delegación del CMTE
+F: Ellos mismo se las distribuyen 
+F: Los TCPS con más experiencia escogen primero
+Q: ¿En qué documento aparece reflejado el número total de pasajeros a bordo?
+D: 1 
+F: En la previsión de pasajeros
+F: En la MEL
+T: En la HOJA DE CARGA
+F: En hoja de Materiales de Emergencias
+
+Q: El objetivo primario de la existencia a bordo de un avión de los TCPs es:
+D: 1
+F: Atender las tareas relacionadas con servicio al pasajero
+T: Asumir el control de la cabina de pasajeros en cualquier situación de emergencia 
+F: Repartir comida, bebidas, periódicos, etc.
+F: Ser la imagen de CENTRAL
+
+Q: ¿A qué nos referimos cuando hablamos de P.A.?
+D: 1
+F: Sistema de video - Passenger entertainment
+T: Sistema de megafonía - Public Address 
+F: Sistema de interfono 
+F: Sistema de audio - Public Audio
+
+Q: ¿Qué haremos a tras armar nuestra rampa?
+D: 1
+F: Informar a nuestro compañero más cercano
+F: Informar por PA..
+F: Cross-check a nuestra puerta pasados unos minutos
+T: Cross-check con el compañero correspondiente (puerta opuesta o más cercana)
+
+Q: Señala la respuesta correcta con relación al EMBARQUE:
+D: 1
+T: Los pasajeros siempre embarcarán por el lado izquierdo (L), a través de una o dos puertas 
+F: Los pasajeros, dependiendo de si es finger o remoto, pueden embarcar por el lado derecho (R) o Izquierdo (L)
+F: Catering, limpieza, servicios en general se aproximarán por el lado izquierdo (L)
+F: El ambulift siempre embarcará por el lado izquierdo (L)
+
+Q: ¿Quién autoriza el cierre de puertas de la aeronave?
+D: 1
+F: El Sobrecargo
+F: Cada TCP tiene autoridad para cerrar su puerta cuando considere
+T: El Comandante autoriza 
+F: El Coordinador de vuelo
+
+Q: ¿En qué momento deben los TCPs proceder a contar el número de pasajeros a bordo?
+D: 1
+F: Cuando el SC considere oportuno
+F: Una vez se han cerrado las puertas del avión
+T: Una vez ha finalizado el embarque 
+F: Después de hacer la demostración de seguridad
+
+Q: ¿Qué hacen los TCPs después de asegurar la cabina?
+D: 1
+F: Cerrar la puerta de cockpit
+F: La demostración de seguridad
+F: Trasmiten Cabina Asegurada al CMTE
+T: Se sientan y aseguran en sus trasportines
+
+Q: Según la norma, ¿Cuándo deberán estar armadas las rampas?
+D: 1
+F: Antes del rodaje y aterrizaje
+F: Antes del aterrizaje
+F: Solo antes del despegue
+T: Antes del rodaje, despegue y aterrizaje, y cuando sea seguro y posible hacerlo
+Q: Indica qué tipo de pasajero no podrá ir sentado en salida de emergencia
+D: 1
+F: Pasajeros obesos, de edad avanzada
+F: Pasajeros deportados o bajo custodia
+T: Todas son correctas Correcta
+F: Pasajeras embarazadas, menores de 12 años
+
+Q: ¿Cómo se efectúan las comprobaciones pre-vuelo?
+D: 1
+F: De memoria
+T: Utilizando la lista de chequeo, chek list
+F: Utilizando el manual de la compañía
+F: Se reparten zonas del avión entre los TCPs
+
+Q: ¿Quién determina la posición de los TCPS y sus puertas?
+D: 1:
+F: Se asigna por sorteo.
+F: Los TCPS con más experiencia escogen primero
+T: El Sobrecargo asigna bajo delegación del CMTE 
+F: Ellos mismo se las distribuyen
+
+Q: Indica cuáles se consideran las FASES CRITICAS del vuelo: 
+D: 1
+F: Despegues y debajo de 10000ft
+F: Debajo 10000ft y señal cinturones encendida
+T: En tierra, rodaje, despegue, aterrizaje, debajo 10000ft y señal de cinturones encendida 
+F: En tierra rodaje y aterrizaje y en turbulencia
+
+Q: ¿Qué entendemos por cabina de vuelo estéril?
+D: 1
+F: Cuando se ha precintado el acceso a la cabina de vuelo
+F: Cuando el acceso a la cabina de vuelo está limitado
+F: Cuando no es posible el acceso a la cabina de vuelo
+T: Cuando la comunicación entre cockpit y TCP se limita a la información relativa a la seguridad operacional
+
+Q: ¿Cuándo se notifica y cómo CABINA ASEGURADA al Comandante?
+D: 1
+F: Cuando el CMTE lo solicite
+T: Cuando se ha asegurado la cabina y los TCPs están sentados y abrochados, lo comunica el Sobrecargo mediante llamada o pulsando el interruptor de CABIN READY 
+F: Cuando se ha asegurado la cabina y antes de que los TCPs están sentados y abrochados, lo comunica el Sobrecargo mediante llamada o pulsando el interruptor de CABIN READY
+F: Cuando se ha asegurado la cabina, cualquier TCP por interfono
+
+Q: En cuanto a la colocación del equipaje de mano:
+D: 1
+T: Deberá ir correctamente colocado en los racks y/o debajo de los asientos que tengan barra de sujeción, dejando completamente libre las salidas de emergencia durante despegues y aterrizajes. 
+F: Se podrá colocar en cualquier lugar, siempre y cuando no interfiera para la operación normal y de emergencia de la aeronave.
+F: Cuando por su excesivo volumen no quepan en el maletero situado sobre los asientos, se colocarán bajo el asiento anterior. Si la barra  dispuesta para su retención no es suficiente, se estibará con una cuerda o elemento alternativo.
+F: Siempre que se enciendan las señales de abrocharse el cinturón se comprobará que el equipaje está colocado de modo que no impida la evacuación del avión ni cause daños al moverse o caerse.
+
+Q: Al encenderse la señal de cinturones, el TCP designado: 
+D: 1
+F: No dará aviso alguno si no lo cree oportuno
+T: Dará el correspondiente aviso por megafonía - P.A. 
+F: Es suficiente con la señal encendida
+F: Depende del tipo de avión.
+
+Q: ¿Qué significa “cockpit” estéril”? 
+D: 1
+F: Cockpit está en una situación de emergencia
+T: Los TCPs no pueden entrar a cockpit salvo emergencia y las comunicaciones serán limitadas 
+F: No hay limitaciones en las comunicaciones con los pilotos
+F: No podemos comunicarnos con CKPT bajo ningún concepto
+
+Q: Durante la fase de cockpit estéril, ¿quién podrá contactar con cockpit?
+D: 1
+F: Únicamente el sobrecargo/ jefe de cabina
+T: Nadie, excepto si es una emergencia 
+F: Cualquier TCP autorizado por el sobrecargo
+F: Todo el avion 
+
+Q: ¿Cómo de designan el nombre de las puertas (1L, 2L, 1R, etc.)?
+D: 1
+F: Depende del modelo de avión
+T: Mirando desde la parte posterior hacia el morro 
+F: No hay un nombre concreto
+F: Mirando desde el morro del avión.
+
+Q: Los pasajeros han de recibir instrucciones de seguridad habladas o mediante una presentación audiovisual acerca de la ubicación de las salidas de emergencia y rutas de evacuación (DEMO):
+D: 1
+T: Antes del despegue 
+F: Antes del despegue y antes del aterrizaje
+F: Siempre que el comandante lo considere oportuno
+F: Antes del despegue, después del despegue, antes del aterrizaje y después del aterrizaje
+
+Q: ¿Cuándo se realiza el cross-check?
+D: 1
+T: Siempre que armamos/desarmamos rampas 
+F: Tras desarmar rampas
+F: Solamente cuando armamos rampas
+F: Nada más que se empieza a mover el avion 
+
+Q: ¿Quién autoriza el cierre de puertas de la aeronave?
+D: 1
+F: El Coordinador de vuelo
+F: Cada TCP tiene autoridad para cerrar su puerta cuando considere
+F: El Sobrecargo
+T: El Comandante autoriza
+
+Q: Los tripulantes de cabina de pasajeros deberán armar los toboganes de evacuación de emergencia:
+D: 1
+F: Antes del rodaje posterior al despegue 
+T: Antes del rodaje, despegue y aterrizaje y cuando sea seguro y posible hacerlo.
+F: Después del despegue y del aterrizaje
+F: Después del repostaje
+
+Q: 1El briefing de la tripulación:
+D: 1
+F: Es un manual disponible en las oficinas del operador con carácter consultivo.
+T: Es una reunión previa al vuelo donde se repasan aspectos relacionados con la seguridad y el servicio. 
+F: Es una reunión que se programa a cada tripulante periódicamente.
+F: Es un informe que se realiza después de cada vuelo.
+
+Q: Durante el repostado de combustible con pasajeros a bordo:
+D: 1
+T: Las señales de "no fumar" estarán encendidas y "abróchense los cinturones" estarán apagadas. 
+F: Las señales de "abróchense los cinturones" y de "no fumar" estarán encendidas.
+F: Las señales de "abróchense los cinturones" y de "no fumar" estarán apagadas.
+F: Las señales de "no fumar" estarán apagadas y "abróchense los cinturones" estarán encendidas.
+
+Q: Se considera que una puerta está cerrada cuando: 
+D: 1
+F: La rampa esta armada 
+F: Lo ordena el comandante
+T: Se ha operado el mecanismo de cierre de la puerta 
+F: La escalera o pasarela telescópica esta colocada correctamente
+
+Q: Entre las precauciones que se han de tomar cuando un avión está repostando combustible en tierra en una posición de estacionamiento, con pasajeros embarcados: 
+D: 1
+F: Se mantendrán encendidas las luces de abróchense los cinturones y prohibido fumar 
+T: Se mantendrá la tripulación de cabina mínima a bordo 
+F: No será necesario avisar a los pasajeros de que va a tener lugar el abastecimiento de combustible 
+F: No se establecerá ningún tipo de comunicación por los sistemas del avión ya que pueden crear cortocircuitos.
+
+Q: Cuando se haya de repostar combustible con los pasajeros a bordo, se seguirá un procedimiento consistente en: 
+D: 1
+F: Los pasajeros estarán sentados, sin cinturón de seguridad y todas las puertas estarán abiertas. 
+F: Los pasajeros estarán sentados con el cinturón de seguridad abrochado, las puertas estarán abiertas y las salidas contrarias al lado por el que se realiza la carga tendrán las rampas armadas. 
+F: No se cargará combustible con los pasajeros en el avión.
+T: Los pasajeros estarán sentados, cinturón de seguridad desabrochado, las puertas estarán abiertas y las salidas contrarias al lado por el que se realiza la carga tendrán las rampas armadas.
+
+
+
+Q: Los tripulantes de cabina de pasajeros permanecerán sentados y con los arneses abrochados: 
+D: 1
+F: Durante las maniobras de despegue y aterrizaje y los tiempos de descanso.
+F: Siempre que las luces de "abróchense los cinturones" estén encendidas.
+T: Durante las maniobras de despegue y aterrizaje y cuando el Comandante lo juzgue conveniente 
+F: Solo durante las maniobras de despegue y aterrizaje.
+
+Q: De los siguientes pasajeros, ¿Quién debe recibir un briefing de seguridad previo al vuelo?
+D: 1
+F: Adultos que viajan con un bebé-infant
+F: Pasajeros sentados en salida de emergencia
+F: Pasajeros PMR
+T: Todas son correctas
+
+Q: ¿Cuándo deben desarmarse las rampas?
+D: 1
+T: Todas son correctas 
+F: Una vez los TCPs reciben la orden (del CMTE o JC)
+F: Inmediatamente antes de llegar al estacionamiento (según la aerolínea)
+F: Una vez el avión esté completamente parado, en su posición de parking
+
+Q: ¿Qué haremos a tras armar nuestra rampa?
+D: 1
+F: Informar a nuestro compañero más cercano
+T: Cross-check con el compañero correspondiente (puerta opuesta o más cercana) 
+F: Informar por PA..
+F: Cross-check a nuestra puerta pasados unos minutos
+
+Q: Señala la respuesta correcta con relación al EMBARQUE:
+D: 1
+F: Los pasajeros, dependiendo de si es finger o remoto, pueden embarcar por el lado derecho (R) o Izquierdo (L)
+T: Los pasajeros siempre embarcarán por el lado izquierdo (L), a través de una o dos puertas 
+F: Catering, limpieza, servicios en general se aproximarán por el lado izquierdo (L)
+F: El ambulift siempre embarcará por el lado izquierdo (L)
+
+Q: “Repaso en silencio y mental, antes de despegar y aterrizar, para poder estar preparados ante cualquier situación que sobrevenga" nos referimos a:
+D: 1
+F: Cockpit estéril
+F: Fase crítica
+T: Silent review 
+F: Cabin review
+
+Q: Un pasajero BLIND que viaje solo...
+D: 1
+F: Deberá recibir instrucciones en braille, por protocolo
+T: Puede ir acompañado de un perro de asistencia (lazarillo-guía) 
+F: Es un PMR no ambulatorio
+F: Deberá volar siempre acompañado de un adulto responsable en caso de emergencia y/o evacuación
+
+Q: Las siglas DEAF y BLND corresponden a un pasajero…
+D: 1
+F: Mudo y ciego, respectivamente
+F: Ambulatorio y No ambulatorio, respectivamente
+F: Ciego y Sordo, respectivamente
+T: Sordo y ciego, respectivamente
+
+Q: Como norma general ¿A partir de qué edad un pasajero puede viajar solo?
+D: 1
+F: partir de los 16 años
+T: partir de los 12 años   
+F: partir de los 18 años
+F: partir de los 15 años
+
+Q: ¿Se puede sentar a un NIÑO-CHILD de 10 años en una salida de emergencia?
+D: 1 
+T: No, los CHILD nunca pueden sentarse en salidas de emergencia. 
+F: Sí, mientras que vaya acompañado de un adulto.
+F: Sí porque a partir de los 9 años ya pueden sentarse en salidas de emergencia.
+F: Sólo en caso de que no sea una ventanilla de emergencia.
+
+Q: ¿Qué significan las siglas WCHC?
+D: 1
+F: Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, ni subir ni bajar escaleras pero sí es capaz de moverse dentro de la cabina.
+F: Pasajero ambulatorio.
+F: Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, pero sí es capaz de subir o bajar escaleras y moverse dentro de la cabina.
+T: Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, subir o bajar escaleras ni moverse dentro de la cabina. 
+
+Q: ¿Qué código identifica a un pasajero que viaja en camilla?
+D: 1
+F: DEPA
+F: WCH
+F: BLND
+T: STCR
+
+Q: Un pasajero con un trastorno de desarrollo intelectual es:
+D: 1
+F: WCHS
+F: MEDA
+F: Un STCR
+T: Un pasajero ambulatorio, codificado como DPNA
+Q: ¿Qué edad deberán tener 2 niños para que puedan ocupar el mismo asiento estando sujetos por el mismo cinturón?
+D: 1
+F: Mayores de 2 años.
+F: Mayores de 6 y menores de 12 años.
+T: No está permitido en ninguna circunstancia. 
+F: Menores de 12 años.
+
+Q: ¿En qué filas de asientos no podrán ser acomodados los PMR?
+D: 1
+T: En asientos ubicados en salidas de emergencia, ni asientos adyacentes 
+F: En asientos de pasillo
+F: No existe limitación siempre y cuando el pasajero viaje acompañado.
+F: En asientos de ventanilla
+
+Q: En caso de evacuación de emergencia, ¿Cuándo evacuarán los PMR que no pueden desplazarse con facilidad?
+D: 1
+F: En primer lugar.
+T: El último lugar. 
+F: Cuando decida el Sobrecargo
+F: Si tienen acompañante, en su lugar.
+
+Q: ¿Qué edad mínima deben tener los niños para que puedan viajar solos (UM)?
+D: 1
+F: 2 años
+T: 5 años 
+F: 8 años
+F: Ninguna de las anteriores
+
+Q: Los pasajeros en silla de ruedas embarcarán:
+D: 1
+F: Acompañados de un ayudante de la compañía.
+T: Los primeros. 
+F: Cuando les corresponda.
+F: Los últimos
+
+Q: Un pasajero sordo es un pasajero con capacidad disminuida y además:
+D: 1
+F: No tiene la capacidad disminuida.
+F: No es ambulatorio.
+F: Debe viajar en grupo.
+T: Ambulatorio.
+
+Q: Las compañías aéreas utilizan unos códigos reconocidos internacionalmente para identificar el nivel de asistencia que deben prestarle a un PMR en cada caso. Teniendo en cuenta dicho códigos ¿Qué significado tiene MAAS?
+D: 1
+T: Pasajero que necesita asistencia. 
+F: Ninguna respuesta es correcta.
+F: Pasajero que no necesita asistencia.
+F: Máxima altura permitida en la cabina de un avión por seguridad.
+
+Q: ¿Qué es un UM?
+D: 1
+F: Un menor que no puede viajar solo.
+F: Un menor sin acompañar que comprenda una edad entre 2 y 12 años sin cumplir.
+F: El acompañante de un menor.
+T: Un menor sin acompañar que comprenda una edad entre 5 y 12 años sin cumplir.
+
+Q: Cuando se transportan PMRs se han de tener en cuenta determinadas limitaciones en la asignación de plazas:
+D: 1
+F: No ocuparán plazas que obstruyan el acceso a los equipos de emergencia.
+F: No ocuparán plazas que impidan la evacuación de emergencia.
+F: No ocuparán plazas que impidan ejercer sus funciones a la tripulación.
+T: Las tres respuestas anteriores son ciertas
+
+Q: Un pasajero que es capaz de subir y bajar escaleras del avión y llegar por su propio pie hasta su asiento, pero necesita la silla de ruedas para cubrir la distancia desde el check-in hasta el avión y viceversa se le denomina:
+D: 1
+T: WCHR 
+F: WCHS
+F: WCHP
+F: WCHC
+
+Q: Los pasajeros de movilidad reducida se dividen en:
+D: 1
+F: Especiales y muy especiales
+F: Móviles e inmóviles
+F: Ciegos y sordos
+T: Ambulatorios y no ambulatorios
+
+Q: ¿Cómo se llama el servicio de acompañamiento a menores entre 12 y 16/17 años?
+D: 1
+F: UM
+T: Young People 
+F: Meet and Assist
+F: A partir de 12 años no se puede contratar acompañamiento
+
+Q: El número de pasajeros de PMR a bordo no excederá del...
+D: 1
+F: 10% del número de pasajeros a bordo
+T: 10% de la capacidad de la aeronave 
+F: 15% de la capacidad de la aeronave
+F: 10 pasajeros PMR como  máximo
+
+
+Q: Para que un adulto pueda llevar a su cargo 2 INFANTS se ha de cumplir:
+D: 1
+F: Deben sentarse cerca de una salida de emergencia
+F: Que el adulto esté sentado a menos de 3 asientos de ellos
+T: Que la compañía lo autorice y que uno de ellos ocupe un asiento utilizando un dispositivo homologado para tal fin (CRD o CRS) Correcta
+F: Tenga el respaldo un poco más ancho que la mayoría
+
+Q: Un pasajero deportado que viaja acompañado por dos escoltas, se identifica con el código  …
+D: 1
+F: DEP
+T: DEPA 
+F: DEPU
+F: DEPO
+
+Q: Señala la respuesta correcta con respecto al transporte de ANIMALES en el avión:
+D: 1
+T: Si superan los 8-10 Kg viajarán en bodega (presurizada y calefactada) 
+F: Los perros y gatos braquicéfalos solo podrán viajar en la bodega
+F: Los animales de soporte emocional son perros oficialmente adiestrados
+F: Los perros de asistencia están incluidos en el cómputo de PETS y deberán ir en un contenedor adecuado
+
+Q: ¿Qué porcentaje de bebés podemos llevar a bordo adicionalmente a la capacidad total del avión?
+D: 1
+F: 20% adicional a los pasajeros que realizan el vuelo
+F: No se puede llevar ningún pasajero más de los que marque la certificación del avión 
+T: 10% adicional a los asientos instalados
+F: 15% adicional a la capacidad de la aeronave
+
+Q: ¿Qué requisitos ha de cumplir un animal para viajar como PET en cabina?
+D: 1
+F: Peso máximo 8Kg (incluyendo contenedor) 
+F: Viajará a los pies del pasajero
+F: Si hay varios PET en cabina, dejaremos filas de separación entre ellos
+T: Todas son correctas
+
+Q: ¿Cuáles son los puntos de briefing correlativos que le daría el Comandante al Sobrecargo en una Emergencia Prevista?
+D: 1
+F: Lugar de aterrizaje, tiempo para el aterrizaje, tipo de emergencia, señal convenida de evacuación e instrucción especiales
+T: Tipo de emergencia, tiempo estimado para la llegada, lugar de aterrizaje, señal convenida e instrucciones especiales 
+F: Tiempo estimado para la llegada, lugar de aterrizaje señal convenida para la protección, instrucciones especiales y tipo de emergencia
+F: Instrucciones especiales, señales convenidas para la protección, lugar de aterrizaje, tipo de emergencia y tiempo estimado para la llegada
+
+Q: En una situación con humo intenso en cabina de pasaje durante un vuelo, ¿el CMTE bajará manualmente desde CKPT las mascarillas de O2?
+D: 1
+F: Sí. para poder respirar
+F: Sí, y un TCP avisará a CKPT una vez hayan aparecido las mascarillas
+T: No, porque la utilización del oxígeno de emergencia no evita inhalar humo 
+F: Sí, porque la mascarilla de los pasajeros no permite la entrada de humo
+
+Q: ¿Cómo actuará la tripulación en caso de aborto de despegue o aterrizaje?
+D: 1
+F: Los TCPs harán un asegurado de cabina verificando que todos los pasajeros permaneces abrochados
+F: El Sobrecargo contactará inmediatamente con CKPT para recibir instrucciones
+T: Los TCPs permanecerán sentados con  los arneses abrochados y esperarán órdenes de CKPT 
+F: El TCP más cercano acudirá a CKPT para recibir instrucciones
+
+
+Q: La incapacitación de un Tripulante de Vuelo (piloto) puede implicar...
+D: 1
+F: Que haya otro piloto cualificado a bordo
+T: Que el sobrecargo lea la lista de verificación-check list al piloto al mando  
+F: Que el Sobrecargo ocupe el puesto/ jumpseat del piloto incapacitado
+F: Todas son correctas
+
+Q: ¿Puede interrumpirse una evacuación de emergencia una vez iniciada?
+D: 1
+F: Si, siempre.
+T: No, nunca. 
+F: Siempre que lo ordene el comandante.
+F: Siempre que lo ordene un miembro de la tripulación.
+
+Q: ¿Qué criterio utilizaremos para elegir un ABP o PSO en un avión?
+D: 1
+F: Elegiremos a los pasajeros que tengan mayor fuerza física
+T: Elegiremos a personas que trabajen como tripulación de cabina o de vuelo no requeridos o que viajen como pasajeros 
+F: Elegiremos a los pasajeros que estén situados en el asiento más próximo a la salida de emergencia
+F: Elegiremos a gentes de la autoridad que viajen en el avión como pasajeros
+
+Q: En un amaraje, el chaleco:
+D: 1
+F: Lo ponemos y lo inflamos dentro
+F: Cada uno elige en que momento prefiere ponérselo
+T: Lo ponemos dentro y lo inflamos fuera del avión 
+F: Saltamos con él en la mano.
+
+
+
+Q: En una evacuación un TCP se encuentra con su puerta inoperativa. ¿Qué debe hacer este?
+D: 1
+F: Intentar abrirla hasta que ésta ceda
+F: Hacer que los pasajeros le sigan hacia una salida operativa.
+F: No hacer nada
+T: Bloquear la puerta y redirigir a una puerta operativa
+
+Q: ¿Cuáles, de los siguientes grupos de personas, serán seleccionados en primer lugar como ABPs?:
+D: 1
+T: TCPs sin puesto de emergencia asignado 
+F: Miembros de las fuerzas de seguridad del estado
+F: Pasajeros masculinos
+F: Grupos deportivos
+
+Q: En caso de una emergencia prevista, se seleccionará a un cierto número de pasajeros ABP para ayudarnos durante la evacuación, ¿cual será la primera explicación/misión que debemos encomendarles?
+D: 1
+F:  Alejar a los pasajeros de las proximidades del avión
+F: Ayudar a los pasajeros al final de la rampa 
+T: Abrir las salidas de emergencia y como se deben inflar las rampas
+F: Ayudar a sacar del avión los equipos de emergencia
+
+Q: En una Emergencia Prevista, el comandante deberá informar al sobrecargo de los siguientes puntos:
+D: 2
+T: Tipo de emergencia, ETA (estimated time of arrival), lugar de aterrizaje, señal de protección convenida e instrucciones especiales. 
+F: ETA (estimated time of arrival), lugar de aterrizaje e instrucciones especiales
+F: Tiempo de vuelo, condiciones atmosféricas e información adicional
+F: Tiempo para impacto e instrucciones especiales
+
+Q: Si tuviésemos la necesidad de emplear el chaleco salvavidas, para su correcta utilización será necesario:
+D: 1
+F: Inflarlo dentro del avión antes de salir
+F: Salir con él en la mano y poniéndoselo e inflarlo cuando estemos en el agua
+T: Sacarlo de su alojamiento, ponérselo, ajustarlo e inflarlo fuera del avión Correcta
+F: Primero se Io pondremos a los niños que lo pueden necesitar y luego nos lo pondremos nosotros
+
+Q: Cuando hablamos de señal de protección en situación de emergencia, ¿a qué nos referimos?
+D: 1
+F: A la señal convenida para comenzar la instrucción a los PMR's.
+F: A la señal convenida para la evacuación.
+T: A la señal convenida con el comandante para adoptar la postura de protección. 
+F: A la señal convenida para comenzar la instrucción a los ABP'S
+
+Q: Durante una evacuación, la inmediata actuación del TCP ante una salida inutilizable será:
+D: 1
+F: Seguir intentando abrirla Hasta conseguirlo.
+F: Contactar con el comandante y pedir instrucciones a seguir.
+T: Bloquear físicamente la salida inoperativa y dirigir al pasaje hacia otras salidas que estén operativas. 
+F: Ordenar al pasaje que le siga y dirigirse a otra salida para intentar abrirla.
+
+Q: Tras una emergencia, ¿hasta cuando se mantendrá la postura de impacto?
+D: 1
+F: Hasta que haya pasado el primer impacto únicamente
+T: Hasta que el avión se haya parado completamente.  
+F: Hasta que se apague la señal de cinturones.
+F: Hasta que se enciendan las luces de emergencia.
+
+
+Q: Que primera acción realizará un TCP antes de abrir una salida de emergencia durante una evacuación de emergencia?
+D: 1
+F: No mirará por la ventana para no perder tiempo en la apertura
+T: Valorará las condiciones exteriores antes de proceder a la apertura 
+F: Desarmará las rampas
+F: Esperará una orden del com andante para abrir la puerta
+
+Q: ¿Qué se debe hacer si se cree que las condiciones exteriores de una salida de emergencia son inseguras para una evacuación?
+D: 1
+F: Advertirlo a los pasajeros
+T: Impedir la evacuación por esa salida, bloquearla físicamente y redirigir al pasaje a la salida operativa más cercana 
+F: No hay forma de  saberlo
+F: El TCP debe abandonar esa salida y acompañar a los pasajeros ala salida de emergencia más cercana.
+
+Q: En caso de aterrizaje de emergencia, si el TCP ocupa un asiento situado en dirección contraria a la marcha del avión, deberá:
+D: 1
+a. Cambiar de asiento para uno que vaya en la dirección de marcha del avión y adoptar los procedimientos generales
+T: Adoptar una posición erecta, apoyando la espalda contra el respaldo 
+F: Juntar muy bien las piernas
+F: Entrelazar las manos detrás de la cabeza tirando de ella hacia el pecho
+
+Q: Si un TCP tiene que evacuar por 2 puertas, ¿Cómo debe hacerlo?
+D: 2
+F: Habilita su salida más cercana y solicita a un ABP para que habilite la puerta opuesta 
+T: Habilita su salida más cercana en primer lugar, una vez la evacuación de PAX es fluida, habilita la puerta opuesta quedándose en ella hasta el final de la evacuación
+F: Habilita su salida más cercana en primer lugar, una vez la evacuación de PAX es fluida, habilita la puerta opuesta regresando a su puerta en cuanto sea posible
+F: Habilita las dos salidas y se pone en medio evacuando las dos puertas a la vez.
+Q: En el briefing que el Comandante da al Sobrecargo en una emergencia prevista E.T.A significa:
+D: 1
+T: Tiempo estimado de llegada 
+F: Señal de protección
+F: Un tipo de instrucción especial
+F: Confirmación de la evacuación
+
+Q: En caso de evacuación en tierra, los TCP ordenarán a los pasajeros que abandonen el avión a través de los planos:
+D: 2
+F: Por el borde de escape 
+T: Por el borde de salida
+F: Por el borde de flotación
+F: Por el borde de ataque
+
+Q: En una emergencia prevista, ¿qué entendemos como señal de protección convenida?
+D: 1
+F: La postura de protección que debemos adoptar
+F: Es la postura convenida con el CMTE que adoptarán los TCPs y los pasajeros para el impacto
+T: Es la señal acordada con el CMTE para que los TCPs adopsten la postura de protección y ordenen a los PAX que adopten dicha postura 
+F: El comando que da el sobrecargo a los TCPS para adoptar la postura de protección
+
+Q: ¿Cuando por causas imprevistas sea necesario reducir la tripulación mínima requerida?
+D: 1
+F: Se permite el transporte de hasta 100 pasajeros por TCP disponible
+T: Se permite el transporte de hasta 50 pasajeros por TCP disponible
+F: Ninguna es correcta
+F: En ningún caso se permite reducir un Tripulante
+
+Q: Una evacuación no se iniciará hasta que...
+D: 1
+F: Hasta que el Sobrecargo dé la orden de evacuación
+F: El avión esté rodeado por los bomberos.
+F: No se vea correr a los primeros pasajeros.
+T: El avión este totalmente parado, los motores apagados y se cumpla una de las condiciones de evacuación o lo ordene el CMTE.
+
+Q: En una evacuación de emergencia, ¿Cuándo saltará por la rampa el TCP responsable de esa salida de emergencia?
+D: 1
+F: El primero, para que los pasajeros vean como lo hace.
+F: El primero para ayudar desde abajo a los que vayan saltando.
+T: El último, cuando su zona este evacuada y nadie requiera de su ayuda a bordo. 
+F: Cuando se lo ordene el Comandante.
+
+Q: ¿Qué hará un TCP si, al abrir la puerta en caso de evacuación, falla el sistema de inflado automático de su rampa?
+D: 1
+F: Tirar del Pull blanco de separación "pull to detatch"
+T: Tirar del Pull rojo de inflado "Pull to inflate" 
+F: Bloquear la salida
+F:  Avisar a CKPT para que lo activen desde cabina de vuelo
+
+En un aterrizaje de emergencia, ¿hasta cuándo deben adoptar los TCPs la señal de protección?
+D: 1
+F: Mínimo 5 minutos
+F: Hasta que lo indique el CMTE 
+T: Hasta el impacto
+F: Hasta que el TCP lo consideren necesario
+
+
+
+Q: En un amaraje, ¿quién podrá inflar el chaleco dentro del avión (una sola cámara)?
+D: 1
+F: Todos aquellos que la tripulación considere necesario
+T: Bebés y PMRs 
+F: Únicamente PAX hidrofóbicos
+F: La tripulación
+
+Q: El orden correcto de las instrucciones que tienen que dar los TCPs al pasaje en una evacuación son:
+D: 1
+F: Desabróchense los cinturones, corra para alejarse, por aquí, salten a la rampa.
+T: Desabróchense los cinturones, por aquí, salten a la rampa, corran para alejarse. 
+F: Sálvese quien pueda, corran para alejarse, por aquí, salten a la rampa.
+F: Corran para alejarse, por aquí, salten a la rampa, abróchense los cinturones.
+
+Q: ¿Qué deberán hacer los TCPs después de una evacuación en tobogán-balsa?
+D: 1
+F: Dejar el toldo desmontado para tener mejor ventilación.
+F: Hacer una flotilla, amarrar las balsas a 1 metro de distancia
+F: Darle la vuelta y subir a enfermos y heridos. 
+T: Echar el ancla y montar el toldo.
+
