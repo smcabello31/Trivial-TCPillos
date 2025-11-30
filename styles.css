@@ -21,6 +21,7 @@ h1 {
     text-align: center;
     background-color: #03A9F4;
     color: white;
+    font-size: 60px;
 }
 
 .title-screen-open {
@@ -97,8 +98,8 @@ button:active {
 }
 
 .subject-card {
-    height: 100px;
-    width: 400px;
+    height: 150px;
+    width: 500px;
     border: none;
     border-radius: 16px;
     display: flex;
@@ -233,7 +234,7 @@ button:active {
 
 .question-modal h2 {
     margin-bottom: 16px;
-    font-size: 22px;
+    font-size: 48px;
 }
 
 .question-modal ul {
@@ -244,7 +245,7 @@ button:active {
 
 .question-modal li {
     margin: 8px 0;
-    font-size: 18px;
+    font-size: 36px;
     cursor: pointer;
 }
 

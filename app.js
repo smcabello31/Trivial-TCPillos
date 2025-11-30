@@ -1,15 +1,15 @@
 // Configuration constants
-const SUBJECTS_ICONS = ['🧡', '🩷', '❤️', '💛', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
-const SUBJECT_COLORS = ['#ff865b', '#ff41a0', '#fe3260', '#ffda47', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
+const SUBJECTS_ICONS = ['🧡', '🩷', '💛', '❤️', '💚', '💙', '🩵', '💜', '🤎', '🖤', '🩶', '🤍']
+const SUBJECT_COLORS = ['#ff865b', '#ff41a0', '#ffda47', '#fe3260', '#36c280', '#3980f9', '#5fc2fa', '#9f3af5', '#a6655b', '#2d2c2e', '#9f99a8', '#e6e0ed']
 
 const AVATARS = {
-  WHITE: 'assets/white.jpg',
-  GREEN: 'assets/green.jpg',
-  RED: 'assets/red.jpg',
-  PINK: 'assets/pink.jpg',
-  PURPLE: 'assets/purple.jpg',
-  BLUE: 'assets/blue.jpg',
-  BLACK: 'assets/black.jpg'
+  WHITE: '✈️',
+  GREEN: '👨🏼‍✈️',
+  RED: '👩🏼‍✈️',
+  PINK: '📱',
+  PURPLE: '🪪',
+  BLUE: '🛩️',
+  BLACK: '💺'
 }
 
 const SOUNDS = {
@@ -288,9 +288,9 @@ const drawPlayer = ({ name, avatar, score, playerId }) => {
     })
   }
   return `
-<div id="${playerScore ? 'board-player-' : 'configuration-player'}${playerId}" style="display: flex; align-items: center; gap: 15px;">
-  <div style="display: flex; flex-direction: column">
-    <img src="${avatar}" alt="Avatar de ${name}" width="64" height="64" />
+<div ${playerScore ? 'id="' : ''}${playerScore ? 'board-player-' : ''}${playerScore ? playerId : ''}${playerScore ? '"' : ''} style="display: flex; align-items: center; gap: 15px;">
+  <div style="display: flex; flex-direction: column; gap:3px">
+    <span style="font-size:64px">${avatar}<span/>
     <span style="font-size: 24px; font-weight: bold; text-align:center;">${name}</span>
   </div>
   <div style="display:flex; flex-direction:column;justify-content:space-around;gap:0px;">
@@ -441,7 +441,6 @@ const handleCreatePlayer = () => {
   configuration.players.push(player)
 
   $name.value = null
-  $avatar.value = null
   handleOpenConfigurationScreen()
 }
 
@@ -499,4 +498,9 @@ const handleRespondQuestion = (element) => {
     renderPlayersBoard()
     updatePlayersTurn()
   }
+}
+
+const handleDeleteConfiguration = () => {
+  localStorage.removeItem('configuration')
+  location.reload()
 }

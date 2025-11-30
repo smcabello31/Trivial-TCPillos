@@ -397,7 +397,7 @@ Q: ¿Qué significan tres aspas negras con círculo negro en el centro en una et
 D: 1
 F: Material inflamable.
 F: Material corrosivo.
-T: Material radioactivo. Correcta
+T: Material radioactivo. 
 F: Material volátil.
 
 Q: Algunas clases de MMPP se subdividen en grupos llamados:
@@ -550,7 +550,7 @@ F: Avisar al Cmte y descargar el bcf sobre el pasajero
 
 Q: Si utilizamos un extintor de BCF para apagar un fuego, ¿qué precauciones debemos tener después?
 D: 1
-T: Si el fuego no ha sido eléctrico, debemos enfriar con líquidos no inflamables ya que el BCF no es refrigerante Correcta
+T: Si el fuego no ha sido eléctrico, debemos enfriar con líquidos no inflamables ya que el BCF no es refrigerante 
 F: En caso de fuego eléctrico, debemos enfriar los rescoldos rociándolos con agua
 F: Abrir compartimentos, levantar revestimientos y echar cualquier tipo de líquido para eliminar un posible foco incandescente oculto
 F: En extintor de BCF está prohibido en aeronaves en vuelo por su efecto perjudicial para Ia capa de ozono
@@ -572,7 +572,7 @@ F: El TCP responsable de la zona.
 Q: ¿En qué material en un fuego eléctrico, utilizaremos líquidos no inflamables tras haber descargado un extintor?
 F: Cableado del avión
 F: C.B de los galleys
-T: Baterías de litio Correcta
+T: Baterías de litio 
 F: Sistema de entretenimiento de los aviones
 
 Q: ¿Qué será lo primero que hagamos en caso de fuego en el horno?
@@ -599,7 +599,7 @@ F: Oxígeno, comburente y combustible
 Q: Para atacar el fuego que pueda producirse a bordo de una aeronave, esta dispone de un conjunto obligatorio de equipos y sistemas, consistentes en:
 D: 1
 F: Detectores de humo, PBE y extintores fijos.
-T: Detectores de humo, PBE, extintores portátiles y extintores fijos. Correcta
+T: Detectores de humo, PBE, extintores portátiles y extintores fijos. 
 F: Detectores de humo, PBE y extintores portátiles.
 F: Detectores de humo, extintores portátiles y extintores fijos.
 
@@ -775,7 +775,7 @@ T: Todas son correctas.
 Q: En una despresurización explosiva, cogeremos una máscara del sistema fijo de oxígeno y nos sentaremos y sujetaremos en el lugar más próximo hasta que el avión esté estabilizado. ¿Qué significa avión estabilizado?
 D: 1
 F: Que el avión ha terminado el descenso de emergencia.
-T: Que los TCPs pueden moverse libremente por el avión sin peligro para sus vidas, aunque sigan necesitando el uso de oxígeno. Correcta
+T: Que los TCPs pueden moverse libremente por el avión sin peligro para sus vidas, aunque sigan necesitando el uso de oxígeno. 
 F: Que los TCPs pueden moverse por el avión sin necesitar el suministro de oxígeno.
 F: Que el avión ha alcanzado una altura en la que ya no hace falta el uso de oxígeno.
 
@@ -783,7 +783,7 @@ Q: ¿Qué se considera escape de presión?
 D: 1
 F: Un fallo en el sistema de presurización del avión
 F: Es un fallo  total en la presión de cabina producido por una rotura en el fuselaje.
-T: Una fuga de aire por una zona del avión no diseñada para ello y que el sistema de presurización del avión es capaz de compensar automáticamente, aunque podría desembocar en una despresurización lenta o explosiva Correcta
+T: Una fuga de aire por una zona del avión no diseñada para ello y que el sistema de presurización del avión es capaz de compensar automáticamente, aunque podría desembocar en una despresurización lenta o explosiva 
 F: Cuando una botella portátil de O2 tiene fuga de oxígeno.
 
 Q: Por norma general, ¿Cuántas mascarillas encontramos instaladas en los lavabos?
@@ -1344,7 +1344,7 @@ Q: Indica qué tipo de pasajero no podrá ir sentado en salida de emergencia
 D: 1
 F: Pasajeros obesos, de edad avanzada
 F: Pasajeros deportados o bajo custodia
-T: Todas son correctas Correcta
+T: Todas son correctas
 F: Pasajeras embarazadas, menores de 12 años
 
 Q: ¿Cómo se efectúan las comprobaciones pre-vuelo?
@@ -1668,7 +1668,7 @@ Q: Para que un adulto pueda llevar a su cargo 2 INFANTS se ha de cumplir:
 D: 1
 F: Deben sentarse cerca de una salida de emergencia
 F: Que el adulto esté sentado a menos de 3 asientos de ellos
-T: Que la compañía lo autorice y que uno de ellos ocupe un asiento utilizando un dispositivo homologado para tal fin (CRD o CRS) Correcta
+T: Que la compañía lo autorice y que uno de ellos ocupe un asiento utilizando un dispositivo homologado para tal fin (CRD o CRS) 
 F: Tenga el respaldo un poco más ancho que la mayoría
 
 Q: Un pasajero deportado que viaja acompañado por dos escoltas, se identifica con el código  …
@@ -1783,7 +1783,7 @@ Q: Si tuviésemos la necesidad de emplear el chaleco salvavidas, para su correct
 D: 1
 F: Inflarlo dentro del avión antes de salir
 F: Salir con él en la mano y poniéndoselo e inflarlo cuando estemos en el agua
-T: Sacarlo de su alojamiento, ponérselo, ajustarlo e inflarlo fuera del avión Correcta
+T: Sacarlo de su alojamiento, ponérselo, ajustarlo e inflarlo fuera del avión 
 F: Primero se Io pondremos a los niños que lo pueden necesitar y luego nos lo pondremos nosotros
 
 Q: Cuando hablamos de señal de protección en situación de emergencia, ¿a qué nos referimos?
@@ -1914,3 +1914,1067 @@ F: Hacer una flotilla, amarrar las balsas a 1 metro de distancia
 F: Darle la vuelta y subir a enfermos y heridos. 
 T: Echar el ancla y montar el toldo.
 
+Q: ¿Cuándo se debe comunicar un accidente o incidente con MMPP?
+D: 1
+F: 24 horas
+F: 36 horas
+F: 72 horas
+T: Lo más pronto posible, nunca deben pasar más de 72h
+
+Q: Puede interrumpirse una evacuación de emergencia una vez iniciada?
+D: 1 
+F: Sí, siempre
+T: No, nunca 
+F: Siempre que lo ordene el Comandante
+F: Siempre que lo ordene un miembro de la tripulación
+
+Q: En caso de amerizaje, ¿Qué precaución debemos tener antes de abrir una salida?
+D: 1
+T: Comprobar que la salida esté por encima del nivel de flotación 
+F: Comprobar que la salida esté a la misma altura que el nivel de flotación
+F: Que la rampa esté desarmada
+F: En amerizaje es obligatorio abrir todas las salidas
+
+Q: Es caso de sufrir un amerizaje, ¿Qué pautas hay que seguir para subir a la balsa?
+D: 1
+F: Nos quitaremos el chaleco salvavidas para subir con mayor facilidad y lo meteremos dentro de la balsa.
+F: Nos quitaremos el chaleco para subir con mayor facilidad y lo arrojaremos lo más lejos posible de la embarcación para que no interfiera con el movimiento de esta.
+T: Subiremos con cuidado, sin quitarnos el chaleco salvavidas y permaneceremos con él puesto hasta que nos rescaten. 
+F: Ninguna es correcta.
+
+Q: ¿Cuál sería la cadencia correcta de pasajeros evacuados por segundo durante una evacuación de emergencia, por una rampa de doble vía?
+D: 1
+F: 1 pasajeros por segundo
+F: 3 pasajeros por segundo
+T: 2 pasajeros por segundo 
+F: 5 pasajeros por segundo
+
+Q: ¿Qué tipo de despresurización es más peligrosa? 
+D: 1
+T: Despresurización explosiva 
+F: Despresurización rápida 
+F: Despresurización expansiva 
+F: Despresurización lenta
+Q: ¿Cómo se clasifica la turbulencia en sus diferentes niveles?
+D: 1
+F: Débil, moderada, fuerte
+T: Débil, moderada, fuerte o severa 
+F: Inapreciable, fuerte o muy débil.
+F: Débil, moderada, fuerte o muy fuerte
+
+Q: Si tras una despresurización explosiva, el CMTE nos dice por P.A. "Descenso de emergencia finalizado", ¿Qué significa?
+D: 1
+F: Que el avión ha alcanzado los 14.000 ft
+F: Que el avión los TCPs pueden moverse pero haciendo uso del oxígeno
+T: Que el avión ha alcanzado una altitud segura y los TCPs pueden moverse sin necesidad de hacer uso del O2
+
+Q: En caso de despresurización, antes de mover a un PAX del lavabo, debemos asegurarnos de:  
+D: 1
+T: No existe ningún peligro para él y de que las condiciones en la cabina son óptimas 
+F: Que el PAX está inconsciente
+F: Que el PAX está de acuerdo
+F: Que el CMTE nos ha autorizado
+
+Q: En caso de suministrar oxígeno a un bebé: 
+D: 1
+F: Se conectará la mascarilla a la botella de oxígeno en la posición Low
+F: Se cortará la mascarilla y sólo se dejará el tubo de goma
+F: Dicha goma se introducirá en la boca del bebé
+T: Todas son correctas
+
+Q: Tras haber suministrado O2 a un PAX, ¿Cómo verificamos que la botella de O2 no tiene fuga?
+D: 1
+F: Colocaremos siempre la botella en el lavabo trasero por precaución, por si hubiese una fuga
+F: Hacer una lectura del manómetro y pasados 10 minutos se observará nuevamente el manómetro
+T: Hacer una lectura del manómetro y pasados 5 minutos se observará nuevamente el manómetro 
+F: Cerrar la botella con fuerza
+
+Q: Durante el asegurado de cabina en una Emergencia Prevista, ¿qué precauciones tomaremos con el calzado? 
+D: 1
+F: Todos los pasajeros deben quitarse los zapatos y guardarlos en el compartimento superior
+F: A discreción del Sobrecargo
+F: Todos los pasajeros deben quitarse los zapatos 
+T: Las pasajeras deben quitarse los zapatos de tacón puntiagudos
+
+Q: En caso de Evaciación en agua y disponer de tobogán-rampa, ¿Qué harán los TCPs tras evacuar? 
+D: 2
+F: Dar la vuelta al tobogán y utilizarlo como balsa 
+T: Dar la vuelta al tobogán y utilizarlo como elemento de flotación
+F: Echar el ancla y establecer liderazgo
+F: Dar la vuelta al tobogán y subir al máximo de pasajeros posibles
+
+Q: Durante una Emergencia prevista con evacuación en agua, ¿Cuándo deben ponerse los TCPs el chaleco salvavidas?
+D: 1
+F: Al asegurar cabina
+F: Después de la demostración de seguridad de emergencia
+F: Antes de evacuar el avión
+T: Durante de la demostración de seguridad de emergencia, usará su chaleco en lugar del chaleco de DEMO
+
+
+
+Q: En caso de derrame de MMPP en la cabina de pasajeros, ¿es recomendable utilizar agua?
+D: 1
+F: A discreción del Sobrecargo
+F: Sí, es recomendable
+T: Depende del lugar donde se haya derramado la MMPP 
+F: Nunca
+
+Q: La amenaza principal en caso de amaraje es:
+D: 1
+F: La falta de agua dulce
+F: El cansancio
+T: La hipotermia 
+F: La marea
+
+Q: Tras un amaraje pudiendo utilizar rampas-balsas:
+D: 1
+T: Se debe lanzar el ancla y colocar el toldo de la balsa cuanto antes 
+F: Mantener el suelo de la balsa seco no es tan importante
+F: Es recomendable beber agua salada
+F: Se deben lanzar bengalas cada 2 horas
+
+Q: Las balsas estarán equipadas, como mínimo, con:
+D: 1
+F: Techo de lona para evitar el sol y la lluvia y remos 
+F: Luz de localización de supervivientes y chalecos salvavidas de supervivencia suficientes para el nº de plazas.
+F: Comida y bebida para todas las plazas durante 7 días.
+T: Botiquín de primeros auxilios y kit de supervivencia
+
+
+Q: Las normas de supervivencia en el desierto aconsejan que si se tiene que caminar en busca de ayuda se haga:
+D: 1
+F: Durante el día.
+T: Durante las primeras y últimas horas del día y durante la noche. 
+F: Durante el día y la noche.
+F: Es indistinto, mientras se vaya por la sombra.
+
+Q: ¿Con qué podremos hacer señales Morse de noche?
+D: 1
+F: Usando un espejo.
+T: Con una linterna. 
+F: Con una cerilla.
+F: Haciendo señales de humo.
+
+Q: Señala el orden correcto de nuestras prioridades en una situación de supervivencia:
+D: 1
+F: Localización, comida, agua, protección
+F: Comida, agua, protección, localización
+T: Protección, localización, agua, comida 
+F: Agua, localización, protección, comida
+
+Q: Por regla general, en supervivencia, el tiempo mínimo aconsejable que debemos dejar transcurrir antes de iniciar un desplazamiento, abandonando la zona del accidente, en busca de ayuda será de:
+D: 1
+F: 18 horas
+F: 28 horas
+F: 38 horas
+T: 48 horas
+
+
+
+Q: ¿Cuándo está indicado utilizar las bengalas día/noche?
+D: 1
+F: Inmediatamente, después de activar las balizas de emergencia.
+F: Sólo durante la noche es cuando se ven mejor.
+T: Cuando se presuma que pueden ser percibidas. 
+F: Cuando nos parezca indicado.
+
+Q: La HEAVING LINE se utiliza:
+D: 1
+F: Para tintar el agua del mar tras un amerizaje
+T: Para rescatar personas en el mar desde la balsa tras un amerizaje 
+F: Para mandar señales reflejando la luz solar
+F: Para potabilizar el agua
+
+Q: Un importante factor a tener en cuenta cuando se trata de supervivencia en zonas frías es:
+D: 1
+T: Que el viento aumenta el frío.
+F: Cuando consigamos hacer un fuego nos sentemos lo más cerca de él posible. 
+F: Friccionar con nieve los miembros congelados.
+F: Beber mucho alcohol.
+
+Q: Tras un aterrizaje forzoso en tierra, ¿Cuál es el peligro más inminente del que debemos protegernos?
+D: 1
+F: Del frío en zonas árticas.
+F: De insolación en el desierto.
+T: De incendio a bordo del avión. 
+F: Una vez detenido el avión no hay peligro alguno.
+
+Q: Si tenemos sed en un amaraje:
+D: 1
+F: Beberíamos agua del mar, pero poca.
+T: Si no tenemos agua potable, utilizaremos las pastillas desalinizadoras para beber agua del mar. 
+F: No beberíamos nada.
+F: Comeríamos a cambio.
+
+Q: En caso de conseguir agua pura de lluvia, ¿qué debemos hacer antes de consumirla?
+D: 1
+T: Filtrarla. 
+F: Añadirle una pequeña cantidad de agua de mar, té o café.
+F: Desalinizarla.
+F: Nada, la bebemos directamente.
+
+Q: Respecto a las bengalas día/noche es correcto decir:
+D: 1
+T: Que tiene dos extremos diferenciados: en un extremo DÍA (emite humo) y extremo NOCHE (emite  llama roja) 
+F: Que únicamente se pueden utilizar al amanecer - atardecer
+F: Que están hechas con un material pirotécnico que es visible igual de día que de noche, indistintamente. 
+F: Si utilizamos el extremo del dia queda inutilizado el lado noche y viceversa.
+
+Q: ¿Está indicado comer si no tenemos bebidas potables?
+D: 1
+T: No, porque aumentará nuestra sed. 
+F: Sí, porque los alimentos contienen agua.
+F: Solo si la temperatura es alta.
+F: Solo si la temperatura es baja.
+
+Q: ¿Cuáles de los siguientes líquidos estaría CONTRAINDICADO beber en caso de supervivencia en el desierto?
+D: 1
+F: Agua de lluvia.
+F: Agua de rocío.
+F: Refrescos carbonatados sin azúcar.
+T: Bebidas alcohólicas
+
+Q: Tras un amerizaje forzoso, ¿cuál es el primer peligro del que debemos protegernos?
+D: 1
+F: Peligro de frío
+F: Peligro de insolación
+T: Peligro de hundimiento del avión 
+F: No hay peligro inminente si los planos están en la superficie.
+
+Q: Si tenemos que hacer un refugio en zona ártica o de alta montaña tendremos en cuenta...
+D: 1
+F: Hacerlo en un lugar seco
+F: Si hacemos fuego mantener adecuada ventilación
+F: Hacerlo al abrigo del viento
+T: Todas son correctas  
+
+Q: ¿Cuáles son las partes del organismo más susceptibles de congelación?
+D: 1
+T: Extremidades 
+F: Nariz y ojos.
+F: El organismo se congela todo al mismo tiempo.
+F: Los pelos.
+
+Q: Los servicios de búsqueda y salvamento SAR tiene como misión:
+D: 1
+F: Buscar y rescatar a todas las personas accidentadas en España.
+T: Localizar aeronaves siniestradas y coordinar las ayudas necesarias. 
+F: Localizar barcos y aeronaves siniestradas en el mar.
+F: Los SAR no son Servicios de Búsqueda y Salvamento.
+
+Q: ¿Hacia dónde debemos estar apuntando con la pistola de señales antes de apretar el gatillo?
+D: 1
+F: Horizontalmente.
+T: Verticalmente, hacia arriba. 
+F: Hacia la aeronave que creemos que nos está viendo.
+F: Hacia el sonido, cuando pensemos que las señales puedan ser oídas.
+
+La forma de enviar la señal de SOS con una linterna en Código Morse es:
+D: 1
+F: 3 destellos cortos, 2 largos, 3 cortos.
+T: 3 destellos cortos, 3 largos, 3 cortos. 
+F: 2 destellos cortos, 3 largos, 2 cortos.
+F: 2 destellos largos, 3 cortos, 2 largos.
+
+Q: Entre las señales visuales que pueden utilizar los supervivientes de un accidente para hacer indicaciones a quienes los buscan desde el aire, se encuentra la V, que significa:
+D: 1 
+F: Necesitamos ayuda médica
+T: Necesitamos ayuda 
+F: Yes
+F: Necesitamos agua
+
+Q: ¿Cuándo termina la misión de rescate de un avión accidentado?
+D: 1
+F: Únicamente cuando aparecen todos los supervivientes
+T: Cuando aparecen los supervivientes o ha resultado infructuosa, una búsqueda prolongada 
+F: Cuando aparece la caja negra
+F: Cuando lo determina el Comandante
+
+Q: ¿Qué servicio es el que se encarga de buscar aviones siniestros en España?
+D: 1
+T: SAR 
+F: AESA
+F: AENA.
+F: SAP.
+
+Q: ¿Cuál consideras que es una premisa fundamental en una situación de supervivencia?
+D: 1
+F: No permitir que nadie nos diga lo que tenemos que hacer ya que seguimos siendo la tripulación
+T: No perder las ganas de vivir y guiarnos por el sentido común 
+F: Ser rápidos e impulsivos tomando decisiones
+F: Someter a todos los supervivientes a todas nuestras decisiones
+
+Q: ¿Qué significa e implica en supervivencia “La Gran Decisión”?
+D: 1
+F: Cuando se decide sobre la necesidad de comerse a las personas muertas o morir de hambre
+T: La decisión de viajar o quedarnos donde estamos después de un accidente aéreo 
+F: Quien deberá ser el líder y como tendrá que imponerse
+F: Es la decisión que implica si abandonar o no a su suerte a los heridos y a las personas con dificultad para andar y cuando hacerlo, con el fin de asegurar la supervivencia de los pasajeros sanos
+
+Q: La disminución de la coordinación y de la capacidad de atención puede ser síntoma de:
+D: 1
+F: Mareo
+F: Frío
+F: Cansancio 
+T: Deshidratación
+
+Q: ¿Cuál es uno de los parámetros a valorar para llevar en una aeronave elementos de flotación conjuntos?
+D: 1
+F: Cuando esta se aleje a más de 500NM de la costa
+F: Cuando esta se aleje a más de 40NM de la costa
+F: Cuando esta se aleje a más de 50NM de la costa
+T: Cuando esta se aleje a más de 400NM de la costa
+
+Q: Entre las cosas que podemos hacer en un amerizaje para evitar la deshidratación se encuentra:
+D: 1
+F: Bañarnos en el mar cada 3h para permanecer mojados
+T: Mojar las ropas para evitar sudar y así la pérdida de líquidos 
+F: Comer, ya que los alimentos tienen parte de agua
+F: A pleno solo, no podremos hacer nada
+
+Q: ¿Cuál es el factor más importante, en orden de gravedad, a tener en cuenta en una situación de supervivencia?
+D: 1
+F: Hambre
+F: Sed
+T: Miedo 
+F: Frío
+
+Q: ¿Cómo podremos purificar el agua?
+D: 1
+F: Ebullición
+T: Todas son correctas 
+F: Lejía o yodo
+F: Pastillas potabilizadoras
+
+Q: ¿Cuándo es más efectivo el uso de la pistola de señales para ser visto?
+D: 1
+F: De día
+T: De noche 
+F: En el mar
+F: En una zona arbolada
+
+Q: ¿Qué necesitamos para poder notificar señales en tierra/aire?
+D: 1
+F: Cualquier medio qué nos sirva
+T: Telas de colores que contrasten con el medio, de 2,5 m mínimos 
+F: Troncos de madera
+F: Grandes piedras
+
+Q: En las ZONAS TROPICALES, ¿Qué es más peligroso?
+D: 1
+F: El fuerte calor
+F: Los grandes animales carnívoros
+F: Las lluvias
+T: Los insectos
+
+Q: Protegernos del sol y reducir al máximo la pérdida corporal del agua, es imprescindible en un caso de supervivencia en:
+D: 1
+T: El desierto 
+F: La jungla
+F: Las regiones polares
+F: La montaña
+
+Q: En el caso de encontrarnos con un miembro congelado a causa del frío, ¿es conveniente sumergirlo en un recipiente con alguna bebida alcohólica?
+D: 1
+F: Sí, es conveniente
+F: Depende el tipo de bebida alcohólica
+T: No es aconsejable 
+F: Dependerá de la situación
+
+Q: Si después de un aterrizaje forzoso se usa como refugio un lugar cerrado, se debe tener especial cuidado con:
+D: 1
+F: El riesgo de claustrofobia
+T: El envenenamiento con monóxido de carbono, si se hace fuego 
+F: Las arañas
+F: La baliza de emergencia
+
+Q: Para enviar mensajes con el espejo de señales (heliógrafo), utilizaremos el alfabeto:
+D: 1
+F: Griego
+T: Morse 
+F: Latino
+F: Cualquiera de los anteriores
+
+Q: La pistola de señales es fundamentalmente un elemento para la producción de:
+F: 1
+F: Señales auditivas
+T: Señales luminosas 
+F: Señales acústicas
+F: Señales codificativas
+
+Q: Para hacer un fuego que produzca un humo muy negro a fin de identificarnos, utilizaremos:
+D: 1
+T: Un neumático 
+F: Ramas de árbol verdes
+F: Los detritus del monte
+F: Papel
+
+Q: En caso de garantizar la supervivencia en el desierto, se ha de tener en cuenta que el peligro más importante es:
+D: 1
+F: La posibilidad de alcanzar la inanición
+F: Las heridas que puedan provocar los animales salvajes
+T: La deshidratación por falta de agua. 
+F: Las altas temperaturas
+
+Q: ¿Es aconsejable desprenderse totalmente de la ropa en una situación de supervivencia?
+D: 1
+F: Sí, cuando está muy sucia
+F: No, sólo si hace mucho calor
+T: Nunca, siempre se defiende mejor el cuerpo con ropa seca, limpia, holgada y flexible 
+F: Depende si los colores son los adecuados para el entorno en el que nos encontramo
+
+Q: Si en una supervivencia tenemos frío:
+D: 1
+F: Beberemos alcohol para aumentar el calor corporal.
+T: Haremos un fuego para calentarnos y calentar líquidos, nos taparemos con mantas, fundas de asientos... 
+F: Nos meteremos en los sacos con otro pasajero para darnos calor mutuo.
+F: Lo mejor es mojarse las ropas con agua caliente para entrar en calor.
+
+Q: ¿Se dispone de algún producto en una balsa para teñir el agua?
+D: 1
+F: No, de ninguno.
+F: Sí, de tinta china.
+T: Sí, de fluoresceína. 
+F: Sí, de polvos teñidores.
+
+Q: Cuando tengamos un espejo o heliógrafo, en caso de emergencia podremos:
+D: 1
+T: Pedir socorro haciendo reflejos. 
+F: No se suelen poner espejos porque en los accidentes se rompen.
+F: Utilizarlos para hacer el Código Coriolis.
+F: Romperlo para tener un objeto punzante.
+
+Q: ¿Cuántas balsas salvavidas llevará una aeronave en caso de que sea obligatorio porque se aleje más de 400NM o 2 horas de la costa ?
+D: 1
+F: Una por cada fracción de 100 pasajeros.
+F: Para el 80% de la capacidad del avión.
+F: Al menos la mitad de las salidas de emergencia.
+T: El número suficiente para alojar a todas las personas a bordo
+
+Q: Según el SAR, ¿a qué fase de una emergencia me refiero con DESTREFA?
+D: 2
+F: Fase de incertidumbre
+T: Fase de peligro
+F: Fase de destrozo 
+F: Fase de alarma
+
+Q: Los chalecos salvavidas deben ir equipados con:
+D: 1
+F: Luz de localización (se enciende automáticamente en contacto con el agua)
+F: Tubo de inflado manual
+F: Tirador de inflado automático + cilindro de CO2
+T: Todas son correctas
+
+Q: ¿Cuál es el primer objetivo en SUPERVIVENCIA?
+D: 1
+T: Ser localizados. 
+F: Comer.
+F: Encontrar un refugio.
+F: Encontrar agua.
+
+
+Q: ¿La señal de OACI tierra-aire X , significa?
+D: 1
+F: Necesitamos ayuda 
+T: Necesitamos ayuda médica 
+F: SOS
+F: Avanzamos en esa dirección.
+
+Q: Durante una situación de supervivencia los TCPs deben:
+D: 1
+T: Establecer liderazgo. 
+F: Permitir que sean los pasajeros quienes organicen la situación.
+F: Actuar rápidamente sin considerar los recursos.
+F: No es necesario que los TCPs actúen ya que ya no están dentro del avión.
+
+Q: Tras un aterrizaje de emergencia, y para poder ser localizado más fácilmente, recomiendan:
+D: 1
+F: Apartarse todo lo posible de los restos del avión.
+T: No apartarse mucho de los restos del avión. 
+F: Buscar un lugar muy abierto y muy lejos del avión.
+F: Nos hemos de esconder todo lo posible.
+
+Q: Si tuviéramos que alejarnos de un avión envuelto en llamas, humo o con riesgo de incendio ¿hacia dónde lo haríamos?
+D: 1
+F: Es indiferente mientras lo hagamos rápido.
+T: En contra del viento. 
+F: En la misma dirección que el viento.
+F: Hacia la cola del avión.
+
+Q: ¿Cuáles son las características del hielo marino nuevo?
+D: 2
+F: Es de color azulado, las esquinas redondeadas y carente de sal.
+T: Es de color blanco-grisáceo, muy duro y es salado. 
+F: Es un hielo azulado con mucha cantidad de sal.
+F: Es hielo rosáceo, muy salado.
+
+Q: ¿Cuáles son las características del hielo marino viejo?
+D: 2
+T: Es de color azulado, las esquinas redondeadas y carente de sal. 
+F: Es de color grisáceo, muy duro y carente de sal.
+F: Es un hielo azulado con mucha cantidad de sal.
+F: El hielo es transparente y por ser del mar siempre tiene sal.
+
+Q: En supervivencia en zona ártica ¿qué tipo debemos utilizar para conseguir agua potable?
+D: 1
+T: Hielo viejo marino. 
+F: Ningún tipo de hielo es potable.
+F: Hielo nuevo marino.
+F: Cualquier tipo de hielo. 
+
+Q: Las pastillas de fluoresceína son:
+D: 1
+F: Insolubles y colorantes
+F: Solubles y decolorantes
+T: Solubles y colorantes 
+F: Insolubles y decolorantes
+
+Q: El amaraje realizado con las mayores garantías de seguridad, dependerá de 3 factores que, en orden de importancia, son:
+D: 1
+T: Estado del mar y viento, tipo de aeronave, técnica y habilidad del piloto..
+F: Destreza del piloto y tipo de avería.
+F: Estado de la aeronave, tipo de avería y técnica y habilidad del piloto. 
+F: Estado del mar, destreza del piloto y tranquilidad del pasaje.
+Q: ¿Cuántas luces tiene el chaleco salvavidas de a bordo?
+D: 1
+F: Ninguna.
+T: Una. 
+F: Dos fijas.
+F: Dos intermitentes.
+
+S: SECURITY
+
+Q: El Doc.30 del CEAC...
+D: 1
+F: Regula las Mercancías Peligrosas
+T: Promueve el transporte aéreo en forma segura a nivel europeo 
+F: Establece los requisitos para la formación de los pilotos
+F: No existe tal documento
+
+Q: Se llama POLIZON:
+D: 1
+T: Al que se embarca clandestinamente en una aeronave 
+F: Al que se embarca con un billete de menor precio en una aeronave
+F: Al que se apodera ilícitamente de una aeronave en vuelo
+F: Al que no hace caso de los reglamentos de seguridad
+
+Q: ¿Es obligatorio el paso por el arco metálico para todas las personas que quieres acceder a zona restringida de seguridad?
+D: 2
+T: Sí, siempre 
+F: Sí, salvo que la persona esté exenta o presente justificante (inspector)
+F: A criterio del agente
+F: Según el nivel de seguridad
+
+Q: El Convenio de Tokio trata de:
+D: 1
+F: Mercancías Peligrosas
+T: Secuestros y otros actos ilícitos o delitos cometidos a bordo 
+F: Equipo de supervivencia
+F: Tráfico aéreo
+
+Q: Aeronaves estacionadas en ZONA CRÍTICA:
+D: 1
+F: Se deberán cerrar las puertas
+T: Se cerrarán las puertas y retirarán escaleras/ pasarelas 
+F: Se cerrarán y precintarán todas las puertas
+F: Ninguna es correcta
+
+Q: ¿Es obligatorio controlar el acceso y chequear las identidades de toda aquella persona que quiera subir al avión durante una escala?
+D: 1
+F: No es necesario ya que el personal del aeropuerto ya lo ha hecho
+F: Se hará solo según criterio de la tripulación
+T: Es obligatorio, no se dejará subir a nadie que no porte su identificación correspondiente 
+F:  Es obligatorio, pero a veces se pueden hacer excepciones según la normativa del aeropuerto
+
+Q: Según el Programa Nacional de Seguridad para la Aviación Civil la puerta de la cabina de vuelo:
+D: 1
+F: Permanecerá cerrada desde el momento en que se cierren puertas y bloqueadas en despegue y aterrizaje
+F: Permanecerá cerrada y bloqueada desde que se cierran puertas hasta la aproximación, que permanecerá sólo cerrada
+F: Permanecerá cerrada y bloqueada sólo en caso de emergencia
+T: Permanecerá cerrada y bloqueada desde que se cierran puertas hasta que se paren los motores y se abran puertas
+
+
+Q: "Combinación de medidas, medios humanos, recursos materiales para proteger la aviación civil de actos de interferencia ilícita (...)" corresponde con la definición:
+D: 1
+F: Aviation Safety.
+F: Actos de interferencia ilícita.
+F: Zona restringida de seguridad
+T: Aviation Security.
+
+Q: Entre otros, ¿a quién afecta la normativa de seguridad?:
+D: 1
+F: Solamente a los empleados de líneas aéreas a las Fuerzas y Seguridad del Estado.
+F: Solamente a los pasajeros y trabajadores de las líneas aéreas.
+F: Solamente a las empresas de carga y mantenimiento.
+T: A los empleados de líneas aéreas y a las empresas de carga.
+
+Q: "Aquellas acciones, hechos o tentativas, destinados a comprometer Ia seguridad de Ia aviación civil y del transporte aéreo" corresponde con Ia definición de:
+D: 1
+F: Programa Nacional de Seguridad.
+T: Actos de interferencia ilícita. 
+F: Zona restringida de seguridad.
+T: Aviation Security.
+
+Q: Si durante el embarque, aparece un pasajero en aparente estado de embriaguez, ¿qué debemos hacer?
+D: 2
+T: Comunicárselo Inmediatamente al Sobrecargo y éste al Comandante
+F: Comunicárselo al Coordinador del vuelo y a algún compañero
+F: Denegarle el embarque y solicitarle la documentación 
+F: No haremos nada, vigilaremos su actitud durante el vuelo
+
+Q: ¿Quién podrá transportar armas a bordo, no facturadas?
+D: 1
+T: Personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado prestando servicio y aquellos que el Ministerio del Interior excepcionalmente autorice 
+F: Servicios de Seguridad Privados, Fuerzas Armadas y personal autorizado por el Ministerio del Interior
+F: Solo Personal de las Fuerzas Armadas
+F: Personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado y escoltas privados
+
+Q: Aun contando con autorización expresa dada por el operador (compañía aérea), los pasajeros no podrán transportar:
+D: 2
+F: Sillas de ruedas equipadas con acumuladores inderramables 
+F: Rizadores catalíticos para el cabello
+T: Armas de fuego
+F: Pequeños cilindros de oxígeno gaseoso o de aire medicinal
+
+Q: Si encontramos una bomba a bordo:
+D: 1
+F: La trasladaremos siempre a la zona de mínimo riesgo
+T: Si está en zona crítica, la trasladaremos a la zona de mínimo riesgo 
+F: La desactivaremos si esta en una zona crítica
+F: Si está en zona de mínimo riesgo la trasladaremos a cockpit
+
+Q: En caso de encontrar una posible bomba en pleno vuelo, ¿qué es lo primero que debería hacer el TCP que la descubriese?
+D: 1
+F: Cortar los cables y/o conexiones eléctricas visibles para así desactivarla
+T: Alejar al pasaje de la zona, informar a los TCPs dejando a uno vigilando el lugar y comunicarlo inmediatamente al comandante 
+F: Informará inmediatamente a los pasajeros por megafonía y les pedirá ayuda
+F: Echar agua por encima para neutralizarla
+
+Q: La normativa básica para la Seguridad de la Aviación Civil en España recibe el nombre de:
+D: 1
+F: Normativa Básica de Seguridad Aérea.
+F: Estatutos de la Aviación Civil en España.
+F: Ley de Navegación Aeronáutica.
+T: Ley de Seguridad Aérea.
+
+Q: Si un pasajero decide abandonar el avión una vez embarcado, nos aseguraremos de:
+D: 1
+F: Todas son correctas 
+T: Que su equipaje de bodega y su equipaje de mano sean bajados del avión
+F: El resto del pasaje está de acuerdo
+F: Que tenga una razón de peso, ya que puede retrasar la operativa
+
+Q: Cuando una aeronave sin vigilancia no se encuentre estacionada en zona crítica ni en territorio Schengen:
+D: 1
+F: Se cerrarán las puertas de la aeronave y se retirarán las escaleras y pasarelas de acceso.
+F: Se retirarán las escaleras y pasarelas de acceso, dejando las puertas abiertas con la cinta de seguridad
+F: Se procederá al precintado de las puertas de cabina y de carga avión
+T: A y C son correctas
+
+Q: ¿Cuál será el procedimiento en caso de amenaza real de bomba en tierra?
+D: 1
+F: Avisar a los servicios de emergencia y a la Torre de Control y esperar autorización para la evacuación.
+T: Avisar a torre de Control y a la Compañía, requerir los servicios de emergencia del aeropuerto y desembarcar rápida y ordenadamente al pasaje y a la tripulación. 
+F: Avisar a los servicios de emergencia del aeropuerto y  realizar una Evacuación de Emergencia.
+F: Avisar a Torre de Control y a la Compañía y proceder a registrar el avión, avisando previamente al pasaje
+
+
+Q: Artículos prohibidos en aeronaves:
+D: 1
+T: Armas, objetos peligrosos y explosivos 
+F: Únicamente explosivos
+F: Explosivos y armas
+F: Armas
+
+Q: El objetivo principal de qué Reglamento es "establecer y aplicar las medidas comunitarias adecuadas para prevenir actos de interferencia ilícita contra la aviación civil"
+D: 2
+F: PNS - Plan Nacional de Seguridad 
+T: Documento 30 de la CEAC
+F: PNF - Plan Nacional de Formación
+F: Documento 17 de la CEAC
+
+Q: ¿Cuál es la Zona Tierra de un aeropuerto?
+D: 2
+T: Zona terrenos y edificios adyacentes o partes de ellos que no es una zona de operaciones 
+F: Zona de circulación de los aeropuertos, terrenos y edificios adyacentes en la que está restringido el acceso por motivos de seguridad aeroportuaria
+F: Zona de tripulaciones
+F: Ninguna es correcta
+
+Q: ¿Dónde se establece la política de formación en materia de Seguridad en España?
+D: 1
+F: PNT - Plan Nacional de Training
+T: PNF - Plan Nacional de Formación 
+F: Anexo 17 de OACI
+F: PNS - Plan Nacional de Security
+
+
+
+Q: Además de los miembros de la tripulación, en la cabina de vuelo podrán entrar:
+D: 1
+F: Los niños, ya que no implican riesgo alguno
+T: Los inspectores debidamente autorizados por la Autoridad aeronáutica 
+F: Los directivos de la compañía aérea a la que pertenezca el avión
+F: Cualquier persona autorizada por el comandante
+
+Q: En caso de apoderamiento ilícito (secuestro) de una aeronave, ¿qué actuación será la correcta?
+D: 2
+F: La tripulación tratará de convencer e insistir a los secuestradores de que lo que hacen no es lo correcto
+F: Hacer caso omiso a las peticiones de los secuestradores 
+F: Mantener a los secuestradores en la cabina de mando, para así tenerlos controlados
+T: La tripulación se abstendrá de discutir con los secuestradores sobre sus intenciones, ideologías, religión, etc.
+
+Q: La seguridad en vuelo depende de:
+D: 1
+F: La seguridad de las operaciones
+F: La seguridad de las operaciones y de las personas
+F: La seguridad de las aeronaves utilizadas
+T: La seguridad de las operaciones, de las personas y de las aeronaves
+
+Q: ¿Qué Anexo de la OACI regula la seguridad  incorpora las normas y recomendaciones en materia de seguridad que deben aplicarse en aviación?
+D: 2
+F: Anexo 15
+F: Anexo 16
+T: Anexo 17 
+F: Anexo 18
+
+
+Q: ¿Cuándo se debe realizar un registro de seguridad/ Security Search?
+D: 1
+F: Si existen motivos fundados para sospechar que personas no autorizadas han tenido acceso a la aeronave
+F: Toda aeronave que llegue de un tercer país no Unión Europea
+T: Todas son correctas
+
+Q: ¿Dónde se establece la política de formación en materia de Seguridad en España?
+D: 1
+F: PNS - Plan Nacional de Security
+T: PNF - Plan Nacional de Formación 
+F: Anexo 17 de OACI
+F: PNT - Plan Nacional de Training
+
+Q: Indicia cuál de las siguientes acciones puede considerarse un acto de interferencia ilícita:
+D: 1
+F: Favorecer el acceso de un familiar sin tarjeta de embarque valida por el control de personal a la Zona Crítica de Seguridad para que pueda comprar en las tiendas.
+F: Introducir a bordo de una aeronave, durante el proceso de carga de la bodega, un paquete de drogas para su envío para el país de destino.
+T: Comunicar información falsa que comprometa la seguridad de una aeronave en tierra antes de la salida. 
+F: El uso de una aeronave en servicio para trasladarla por plataforma de un lugar a otro sin el permiso de la compañía aérea.
+
+Q: ¿De las siguientes regulaciones, identifica cuál es en España la normativa en materia de Seguridad en la Aviación que desarrolla muchos de los protocolos de seguir?
+D: 1
+F: Únicamente la normativa que dicte el Ministerio del Interior.
+F: La Ley de Navegación Aérea junto con el Reglamento de Circulación Aérea Segura.
+T: El Programa Nacional de Seguridad para la Aviación Civil (PNS) 
+F: La Ley Penal y Procesal de navegación Aérea.
+
+Q: Ante un pasajero alborotador u ofensivo, bajo influencia del alcohol, un TCP debe:
+D: 1
+F: Tener una actitud condescendiente y comprensiva
+T: Tener una actitud firme advirtiéndole la necesidad de controlarse 
+F: Dejarlo tranquilo y no decirle nada
+F: Darle más alcohol para que se duerma
+
+Q: Aquellas zonas de la parte aeronáutica de un aeropuerto identificadas como zona de riesgo prioritarias en las que además de controlarse el acceso, se aplican otros controles de seguridad, se denomina:
+D: 2
+F: Zona de seguridad cerrada
+F: Zona de control abierta
+F: Zona de inspección de seguridad
+T: Zona de seguridad restringida
+
+Q: Si encontramos una bomba a bordo:
+D: 1
+F: La desactivaremos si esta en una zona crítica
+F: La trasladaremos siempre a la zona de mínimo riesgo
+F: Si está en zona de mínimo riesgo la trasladaremos a cockpit
+T: Si está en zona crítica, la trasladaremos a la zona de mínimo riesgo
+
+Q: En caso de encontrar una posible bomba en pleno vuelo, ¿qué es lo primero que debería hacer el TCP que la descubriese?
+D: 1
+F: Cortar los cables y/o conexiones eléctricas visibles para así desactivarla
+F: Echar agua por encima para neutralizarla
+F: Informará inmediatamente a los pasajeros por megafonía y les pedirá ayuda
+T: Alejar al pasaje de la zona, informar a los TCPs dejando a uno vigilando el lugar y comunicarlo inmediatamente al comandante
+
+
+
+Q: En un aeropuerto, ¿cuál de estas zonas corresponde al lado aire?
+D: 1
+F: Terminal de pasajeros
+F: Terminal de carga
+F: Zona industrial
+T: Área de rodadura
+
+Q: ¿Qué personas están sujetas a los controles de seguridad?
+D: 1
+F: Solamente los pasajeros
+F: Los miembros de las Fuerzas y Cuerpos de Seguridad del Estado 
+T: Tanto los pasajeros como los trabajadores del aeropuerto 
+F: Los trabajadores que acceden a las zonas restringidas de seguridad
+
+Q: ¿De qué se encarga el Doc.30 del CEAC?
+D: 2
+F: Del transporte sin riesgos de las Mercancías peligrosas
+T: Prevención de los Actos de interferencia ilícita 
+F: De promocionar a las aerolíneas
+F: De los requisitos para la obtención del certificado de TCP y las licencias de los pilotos
+
+Q: ¿Cuándo se realiza el Security Search - Registro de Seguridad en un avión?
+D: 2
+T: Cuando procede de fuera de la UE
+F: Cuando vuela fuera de la UE
+F: Cuando va y vuelve de la UE
+F: Siempre
+
+Q: Existe un Programa de Seguridad establecido a nivel nacional, que se llama...:
+D: 1
+T: PNS Plan Nacional de Seguridad 
+F: Lo establecen las compañías
+F: Anexo 17 de la OACI
+F: Conferencia de la CEAC
+
+Q: La combinación de medidas, medios humanos y recursos materiales con el fin de proteger la Aviación Civil de los actos de interferencia ilícita se llama:
+D: 1
+F: Concienciación en Safety.
+F: Conjunto de security.
+T: Seguridad aeroportuaria (Security). 
+F: Aviation Safety.
+
+
+S: NOR
+
+Q: Las cuantías de las indemnizaciones por daños a personas y cosas de forma accidental se estableció en el:
+D: 2
+T: Convenio de Varsovia.
+F: Convenio de Roma. 
+F: Convenio de Tokio.
+F: Convenio de Melburne.
+
+Q: ¿A qué tipo de aeronaves se aplica el Convenio de Chicago?
+D: 1
+T: A las civiles. 
+F: A las de Estado.
+F: A los vuelos regulares.
+F: A los vuelos chárter.
+
+Q: ¿Qué se define como "tiempo de vuelo" en el Convenio de Tokio referente al Comandante?
+D: 1
+F: Al tiempo que transcurre desde el despegue hasta el aterrizaje.
+T:  Al tiempo que transcurre desde el cierre hasta la apertura de puertas. 
+F: Al tiempo que transcurre desde que se presenta en el aeropuerto hasta que lo abandona.
+F: Al tiempo que transcurre desde el inicio del embarque hasta el final del desembarque del pasaje.
+
+Q: Se llama Polizón:
+D: 1
+F: Al que no ha pagado el billete con el que vuela. 
+F: Al que se apodera ilícitamente de un aeronave en vuelo.
+T: Al que se embarca de manera clandestina en una aeronave.
+F: Al que se embarca con un billete de menor precio que el establecido.
+
+Q: ¿Qué documento fundamental de la aviación se firmó el 7 de diciembre de 1944 que continua vigente hoy en día?
+D: 1
+F: El Convenio del Transporte Aéreo Internacional.
+T: El Convenio sobre Aviación Civil Internacional. 
+F: El Convenio Colectivo Aeronáutico.
+F: La Carta Magna de la Aviación.
+
+Q: ¿Qué ley nacional es la que regula los delitos cometidos en la aeronáutica?
+D: 1
+F: El Consejo General del Poder Judicial.
+T: La Ley Penal y Procesal de la Navegación Aérea. 
+F: El Código Penal Aeronáutico.
+F: La Ley de Seguridad Aérea.
+
+Q: En el transporte de pasajeros, el billete es un documento obligatorio según el Convenio de:
+D: 2
+T: Varsovia. 
+F: Roma.
+F: Helsinki.
+F: Montreal.
+
+Q: Respecto a los Anexos al Convenio de Chicago:
+D: 1
+T: Hay 19 y entre ellos están: Mercancías Peligrosas, Licencias al Personal, Aeronavegabilidad, Aeródromos y Búsqueda y Salvamento. 
+F: Hay 10 y entre ellos están: Mercancías Peligrosas,Licencias al Personal, Protección del Medio Ambiente y Búsqueda y Salvamento.
+F: Hay 19 y entre ellos están: Vuelos Regulares, Libertades del Aire y Acrobacia Aérea.
+F: Hay 10 y entre ellos están:Vuelos Regulares, Libertades del Aire y Protección del Medio Ambiente.
+
+Q: La insubordinación o alzamiento general contra la autoridad del Comandante se llama:
+D: 2
+F: Acto ilícito. 
+F: Alzamiento de pasaje.
+T: Sedición.
+F: Desacato a la autoridad.
+
+Q: ¿En qué convenio se regula y limita por primera vez, la responsabilidad del transportista frente a los pasajeros?
+D: 1
+T: Convenio de Varsovia. 
+F: Convenio de Helsinki.
+F: Convenio de Madrid.
+F: Convenio de Roma.
+
+Q: En la identificación de las aeronaves españolas figurarán las siguientes marcas:
+D: 1
+F: Nacionalidad (bandera española) y en su interior la matrícula (tres letras).
+T: Código de la matrícula (tres letras), código de la nacionalidad (EC) y nacionalidad (bandera española). 
+F: Código de la nacionalidad (ES) y nacionalidad (bandera española).
+F: La nacionalidad (bandera española) más el número de avión (tres letras y dos números)
+
+Q: Las libertades del aire se establecieron en el:
+D: 1
+F: Convenio de Montreal.
+F: Convenio de Roma.
+T: Convenio de Chicago. 
+F: Convenio de Varsovia.
+
+Q: El Convenio de Chicago se aplica a:
+D: 1
+F: Las aeronaves militares, de aduanas y de policía.
+F: Las aeronaves de aduanas, de policía y civiles.
+F: Las aeronaves de policía.
+T: Solamente a las aeronaves civiles.
+
+Q: ¿A qué tipo de aeronaves no se aplica el Convenio de Chicago?
+D: 2
+F: A las civiles.
+T:  A las de estado. 
+F: A los vuelos regulares.
+F: A los vuelos chárter.
+
+Q: El Anexo 2 al Convenio sobre Aviación Civil es:
+D: 2
+F: Las vacunaciones obligatorias.
+F: El transporte sin riesgo de mercancías peligrosas.
+T: El reglamento del aire. 
+F: La habilitación del TCP.
+
+
+
+Q: En que Anexo al Convenio de Chicago están reguladas las Licencias al Personal:
+D: 2
+T: Anexo 1 
+F: Anexo 2
+F: Anexo 3
+F: Anexo 9
+
+Q: La Normativa estipula que las cuantías respecto a las indemnizaciones a pasajeros y sus mercancías se abonen en:
+D: 1
+F: Dólares.
+T: Derechos especiales de Giro. 
+F: Euros.
+F: Libras.
+
+Q: ¿Cómo define " tiempo de vuelo" el Convenio de Tokio?
+D: 1
+F: Al tiempo que transcurre desde el inicio hasta el final de la actividad del TCP.
+F: Al tiempo que transcurre desde que el TCP se presenta en el aeropuerto hasta que lo abandona.
+T: Al tiempo que transcurre desde que se aplica la fuerza motriz hasta que termina el recorrido de aterrizaje. 
+F: Al tiempo que transcurre desde el despegue hasta que aterrizaje del avión.
+
+Q: El Convenio de Tokio trata de:
+D: 1
+F: Mercancías Peligrosas
+T: Secuestros y otros actos ilícitos o delitos cometidos a bordo 
+F: Equipo de supervivencia
+F: Tráfico Aéreo
+
+Q: Desde el año 2003 la Ley fundamental que regula la aviación civil en España es:
+D: 2
+F: La Ley de Navegación Aérea
+T: La Ley de Seguridad Aérea 
+F: La Ley Penal y Procesal de la Navegación Aérea
+F: El Convenio sobre la Aviación Civil Internacional
+
+Q: Uno de los principales objetivos de la OACI es:
+D: 1
+F: Promover un desarrollo continuo, seguro, eficiente y sostenible del sistema de transporte europeo.
+F: Garantizar que el tráfico mundial de las líneas aéreas se lleve a cabo con la máxima velocidad, seguridad y eficiencia, en optimas condiciones económicas.
+T: Establecer los principios, normas y acuerdos internacionales necesarios para garantizar la seguridad, eficacia y regularidad del transporte aéreo. 
+F: Desarrollar, a escala mundial, una política aeroportuaria común para los aeropuertos, miembros y presentarla ante los organismos mundiales más relevantes.
+
+Q: La CIAIAC es:
+D: 1
+T: La Comisión de Investigación de Accidentes e Incidentes de la Aviación Civil 
+F: La Comisión de Incidentes Aéreos e Instrumentos de la Aviación Civil
+F: La Comisión de Incidentes Aéreos e Investigación de la Aviación Civil
+F: Ninguna es correcta
+
+Q: La competencia para la inspección de la seguridad del transporte aéreo en España corresponde a:
+D: 1
+F: EASA.
+T:  AESA. 
+F: AENA.
+F: SENASA.
+
+Q: La Autoridad aeronáutica que se encarga en España de la emisión y tramitación  de los certificados de los TCP es:
+D: 1
+F: La DGAC
+T: AESA 
+F: AENA
+F: SENASA
+
+Q: ¿Cada cuántos años se reúne ordinariamente la Asamblea de la OACI?
+D: 1
+T: Cada 3. 
+F: Cada 4.
+F: Cada 5.
+F: Cuando sea necesario.
+
+Q: ¿En qué año se crea la AESA?
+D: 2
+F: 2005
+F: 2012
+T: 2008 
+F: 2007
+
+Q: ¿Cuál es el ámbito de actuación de la AESA?
+D: 1
+T: Nacional 
+F: Regional
+F: Europeo
+F: Mundial
+
+Q: ¿Qué organización tiene como misión servir al trafico en Europa?
+D: 1
+T: Eurocontrol
+F: CFMU
+F: ATC
+F: CEAC
+Q: EASA y AESA son respectivamente autoridades en materia de seguridad:
+D: 1
+T: En Europa y España 
+F: En América y la UE
+F: A nivel mundial y en España
+F: Únicamente en Europa
+
+Q: La OACI tiene su origen en el Convenio para Ia Aviacion Civil Internacional firmado en:
+D: 1
+F: Varsovia en el año 1929
+F: Roma, en el año 1952.
+T: Conferencia de Chicago, en el año 1944 Correcta
+F: Conferencia de la  Yalta, en el año 1945.
+
+Q: La Comisión más importante establecida por la OACI se denomina:
+D: 1
+T: La Comisión de Aeronavegación. 
+F: La Comisión de rutas aéreas.
+F: La Comisión del Personal de Vuelo.
+F: La Comisión de estudios aeronáuticos.
+
+Q: ¿Cuáles son los idiomas oficiales de la OACI?
+D: 1
+F: Chino, ruso, inglés, francés y español.
+F: Inglés, chino, español, francés y polaco.
+F: Español, inglés, francés, ruso y árabe.
+T: Ruso, árabe, chino, inglés, francés y español.
+
+Q: El Consejo de la OACI se compone de:
+D: 1
+T: 36 Estados 
+F: 40 Estados
+F: 50 Estados
+F: 10 Estados
+
+Q: ........................... tiene como tarea específica establecer y ejecutar normas que permitan mantener un alto y uniforme nivel de seguridad en la aviación civil europea.
+D: 1
+F: AESA
+F: DGAC
+F: EUROCONTROL
+T: EASA
