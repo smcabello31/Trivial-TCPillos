@@ -428,7 +428,7 @@ F: Que el embalaje se abre por la parte de arriba.
 F: Ese texto no aparece nunca en un embalaje.
 
 Q: La mayoría de las etiquetas que indican que transportan una mercancía peligrosa tienen forma:
-D:1
+D: 1
 F: Rectangular
 F: Redonda
 F: Triangular 
@@ -518,7 +518,7 @@ F: Negro y amarillo todas.
 F: Rojas todas.
 T: Blanco y rojo las 4.1 y azules las 4.3.
 
-Las etiquetas para las MMPP de clase 3 son de color:
+Q: Las etiquetas para las MMPP de clase 3 son de color:
 D: 1
 F: Verde.
 T: Rojo. 
@@ -558,7 +558,7 @@ F: En extintor de BCF está prohibido en aeronaves en vuelo por su efecto perjud
 Q: En caso de mucho humo negro en la cabina durante un vuelo, los TCP:
 D: 1
 T: Distribuirán cabezales, servilletas o pañuelos mojados a los pasajeros 
-F:Actuarán como crean conveniente según la fuente del fuego
+F: Actuarán como crean conveniente según la fuente del fuego
 F: Suministraran oxígeno a los pasajeros
 F: Tranquilizaran al pasaje y procuraran que la gente no cambie de asiento
 
@@ -603,7 +603,7 @@ T: Detectores de humo, PBE, extintores portátiles y extintores fijos.
 F: Detectores de humo, PBE y extintores portátiles.
 F: Detectores de humo, extintores portátiles y extintores fijos.
 
-Q:El extintor de la papelera del lavabo se compone de:
+Q: El extintor de la papelera del lavabo se compone de:
 D: 1
 F: Halón únicamente
 F: Agua
@@ -715,7 +715,7 @@ F: Una despresurización lenta
 F: Un fallo en el aire acondicionado
 F: Un derrame de mercancía peligrosa
 Q: ¿Qué consideras que puede estar pasando si durante un vuelo, a altitud de crucero, sin que hayamos sido informados de posibles turbulencias (y no las hay), los indicadores luminosos de "abróchese los cinturones" se enciende repentinamente y nos sobreviene una sensación de frio junto con taponamiento de oídos?
-D:1
+D: 1
 F: Estamos ante una posible turbulencia severa
 F: Conviene prepararse para un posible aterrizaje de emergencia
 T: Estamos ante una posible despresurización lenta 
@@ -1166,7 +1166,7 @@ F: Cuando la altitud en el exterior del avión es de 14.000 pies
 F: Cuando la altitud de cabina supere los 11.300 pies
 F: Cuando el sobrecargo presione el botón correspondiente
 
-¿Qué significan las siglas PBE?
+Q: ¿Qué significan las siglas PBE?
 D: 1
 F: Preserver Breathing Equipment
 F: Preventing Breating Equipment
@@ -1824,7 +1824,7 @@ F: El TCP debe abandonar esa salida y acompañar a los pasajeros ala salida de e
 
 Q: En caso de aterrizaje de emergencia, si el TCP ocupa un asiento situado en dirección contraria a la marcha del avión, deberá:
 D: 1
-a. Cambiar de asiento para uno que vaya en la dirección de marcha del avión y adoptar los procedimientos generales
+F: Cambiar de asiento para uno que vaya en la dirección de marcha del avión y adoptar los procedimientos generales
 T: Adoptar una posición erecta, apoyando la espalda contra el respaldo 
 F: Juntar muy bien las piernas
 F: Entrelazar las manos detrás de la cabeza tirando de ella hacia el pecho
@@ -1884,7 +1884,7 @@ T: Tirar del Pull rojo de inflado "Pull to inflate"
 F: Bloquear la salida
 F:  Avisar a CKPT para que lo activen desde cabina de vuelo
 
-En un aterrizaje de emergencia, ¿hasta cuándo deben adoptar los TCPs la señal de protección?
+Q: En un aterrizaje de emergencia, ¿hasta cuándo deben adoptar los TCPs la señal de protección?
 D: 1
 F: Mínimo 5 minutos
 F: Hasta que lo indique el CMTE 
@@ -2169,7 +2169,7 @@ T: Verticalmente, hacia arriba.
 F: Hacia la aeronave que creemos que nos está viendo.
 F: Hacia el sonido, cuando pensemos que las señales puedan ser oídas.
 
-La forma de enviar la señal de SOS con una linterna en Código Morse es:
+Q: La forma de enviar la señal de SOS con una linterna en Código Morse es:
 D: 1
 F: 3 destellos cortos, 2 largos, 3 cortos.
 T: 3 destellos cortos, 3 largos, 3 cortos. 
@@ -3547,7 +3547,7 @@ F: Mastiacación.
 T: Respiración.
 
 Q: La unidad anatómica y funcional del riñón se denomina:
-D:1 
+D: 1 
 T: Nefrona.
 F: Neurona.
 F: Leocucito.
@@ -4452,7 +4452,7 @@ F: Falso
 Q: La regla de oro en la carga de cualquier aeronave es conseguir que la máquina resulte lo más pesada posible sin comprometer su seguridad.
 D: 1
 F: Verdadero
-V: Falso
+T: Falso
 
 Q: Ascenso (climb): La condición necesaria para poder realizar un ascenso es contar con un exceso de potencia, es decir, que la potencia disponible (potencia desarrollada por el motor) sea superior a la potencia necesaria (potencia requerida para vencer la resistencia).
 D: 1
@@ -5170,7 +5170,7 @@ F: Alta humedad con estabilidad
 F: Alta humedad y alta presión
 T: Alta humedad e inestabilidad
 
-¿Cómo se llama Ia capa de la atmosfera en la que transcurren normalmente los vuelos comerciales?
+Q: ¿Cómo se llama Ia capa de la atmosfera en la que transcurren normalmente los vuelos comerciales?
 D: 1
 F: Estratosfera
 F: Tropopausa

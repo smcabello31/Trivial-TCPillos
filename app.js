@@ -264,6 +264,8 @@ const loadQuestionsBattery = () => {
           })
           configuration.answers.push(currentAnswer)
           break
+        default:
+          console.error('Esta línea no se puede leer bien:', lineType, lineText)
       }
     })
 
