@@ -2977,4 +2977,2209 @@ D: 1
 F: AESA
 F: DGAC
 F: EUROCONTROL
-T: EASA
+T: EASA 
+
+Q: El número máximo de habilitaciones en aeronaves de diferente tipo, en cuanto a sistemas de emergencia y evacuación, que pueden figurar en una licencia de un TCP es de:
+D: 1
+F: Una.
+F: Dos.
+T: Tres.
+F: Cuatro. 
+
+Q: Para calcular el número de TCPs que conforman la tripulación del avión, entre otros criterios, se tendrá en cuenta la capacidad de la aeronave por grupos o fracciones de grupos de:
+D: 1
+F: 19 pasajeros.
+F: 19 asientos.
+F: 50 pasajeros.
+T: 50 asientos.
+
+Q: Se deberá realizar un entrenamiento de Conversión antes de:
+D: 1
+F: Ser admitido en una compañía aérea.
+F: Ejercer como Sobrecargo.
+T: Ser designado por primera vez para actuar como miembro de una tripulación o para operar en otro tipo de avión. 
+F: Poder ejercer como TCP.
+
+Q: ¿Qué número de TCPs será necesario en una aeronave de 186 asientos?
+D: 1
+F: 1
+T: 4 
+F: 2
+F: 3
+
+Q: El objetivo primario de la existencia de Tripulantes de Cabina de Pasajeros a bordo es:
+D: 1
+F: Enseñar a ponerse los chalecos salvavidas e indicar las salidas de emergencia.
+T: Asumir el control de la cabina de pasajeros en cualquier situación de emergencia. 
+F: Repartir bebidas, comidas y periódicos y ayudar a colocar el equipaje de mano.
+F: Vigilar que no se suban maletas grandes a bordo.
+
+Q: ¿Qué nivel de alcoholemia es el máximo permitido para un TCP en el ejercicio de sus funciones?
+D: 1
+F: Ninguno.
+T: 0,2 /mil. 
+F: 0,002/mil.
+F: 2/mil.
+
+Q: Dentro del Entrenamiento Inicial del TCP se incluyen, entre otros:
+D: 1
+T: Entrenamiento con fuego y humo, de supervivencia en el agua y primeros auxilios y RCP. 
+F: Entrenamiento de supervivencia en zona polar, desértica y en el agua y simulación de casos de embriaguez.
+F: Entrenamiento con fuego y humo, de supervivencia en el agua y de manejo de la aeronave.
+F: Evacuación por rampa, supervivencia en el agua y manejo de la aeronave.
+
+Q: ¿Qué documentación aeronáutica deben llevar los TCPs en cada vuelo obligatoriamente?
+D: 1
+F: Pasaporte, licencia y certificado médico.
+F: Licencia, certificado médico, tarjeta identificativa de la compañía y pasaporte.
+F: Certificado médico, licencia, pasaporte y registros de entrenamientos y verificaciones.
+T: Licencia, certificado médico, tarjeta identificativa de la compañía y certificado de habilitaciones y cursos en vigor (registro de entrenamientos y verificaciones).
+
+Q: Las verificaciones por parte del operador,según la normativa europea, se deben realizar:
+D: 1
+F: Con el Entrenamiento Inicial y el Periódico.
+F: Con el entrenamiento Inicial, el de Conversión/Diferencias y los Vuelos de Familiarización.
+T: Con el Entrenamiento Inicial, el de Conversión/Diferencias, el Periódico y el de Refresco. 
+F: Con el entrenamiento de Conversión/Diferencias, el Periódico y el de Refresco.
+
+Q: ¿Cuál es el requisito básico a cumplir para que un operador nombre Sobrecargo a un TCP?
+D: 1
+F: Llevar más de 5 años en la misma compañía y que lo proponga el Comandante.
+F: Tener más de 1 año como miembro operativo de una tripulación y que lo proponga el Comandante.
+T: Cuando la tripulación esté formada por más de 1 miembro, el TCP tenga como mínimo 1 año de experiencia como miembro operativo y que haya superado con éxito un curso de formación. 
+F: Pasar unas oposiciones y una carta de recomendación.
+
+
+Q: El máximo responsable de lo que sucede en un avión en pleno vuelo es:
+D: 1
+F: El Comandante en Cockpit y el TCP en cabina de pasajeros.
+F: El Sobrecargo en cabina de pasajeros.
+F: El operador de la nave siempre es el último responsable de todo.
+T: El Comandante de la aeronave. 
+
+Q: Se requerirá un sobrecargo, como miembro de la tripulación de cabina de pasajeros, en una aeronave dedicada al transporte de pasajeros:
+D: 1
+F: Cuando la tripulación esté constituida por tres o más miembros
+T: Cuando la tripulación esté constituida por más de un miembro 
+F: En cualquier circusntancia
+F: Cuando lo establezca el Manual de Vuelo
+
+Q: ¿Desde cuántas horas antes del vuelo los miembros de la tripulación no deberán consumir alcohol?
+D: 1
+F: 2 horas.
+T: 8 horas. 
+F: 10 horas.
+F: 24 horas.
+
+Q: Para empezar a trabajar en un tipo de avión ¿es suficiente con tener el Entrenamiento Inicial?
+D: 1
+F: No, además hace falta tener ganas de trabajar.
+T: No, además es necesario tener un reconocimiento médico clase CC en vigor, haber realizado el Entrenamiento de Conversión y/o Diferencias y ser competente para el ejercicio de sus funciones. 
+F: No, hay que haber superado la entrevista con la compañía y estar vacunado.
+F: Sí, es suficiente.
+
+Q: El curso periódico de los TCPs dentro del operador se hará como máximo en un plazo de:
+D: 1
+F: 8 meses
+F: 10 meses
+F: 9 meses
+T: 12 meses
+
+Q: ¿Quién es el responsable de comprobar la documentació de los TCPs antes del vuelo?
+D: 1
+T: El Sobrecargo.
+F: El Crew Control Department.
+F: El Comandante.
+F: Cada TCP.
+
+Q: Para volar por primera vez con una compañía, el TCP deberá tener superados:
+D: 1
+F: El Entrenamiento Inicial.
+T: El Entrenamiento Inicial y el de Conversión y/o Diferencias. 
+F: El reconocimiento médico periódico y el Entrenamiento Periódico.
+F: El Entrenamiento en seguridad, Emergencia Mercancías Peligrosas y CRM.
+
+Q: El Entrenamiento Periódico se realizará cada:
+D: 1
+F: 6 meses naturales.
+T: 12 meses naturales. 
+F: 3 años naturales.
+F: 5 años naturales.
+
+
+
+Q: ¿Quién tiene la responsabilidad de la aeronave, su tripulación, viajeros, equipaje, carga y correo transportados?
+D: 1:
+T: El Comandante desde que toma el mando de la aeronave. 
+F: El Comandante desde que toma el mando de la aeronave, salvo que el segundo piloto sea más antiguo.
+F: La Compañía que opera la aeronave.
+F: Comandante y Sobrecargo por partes iguales.
+
+Q: A lo largo de su vida profesional, un TCP deberá realizar, como mínimo, los siguientes procesos de entrenamiento:
+D: 2
+F: Seguridad, Emergencia y de Refresco.
+F: Inicial, de Conversión, Periódico, de Refresco. 
+F: Inicial, de Conversión y Diferencias, de Refresco.
+T: Inicial, de conversión y Diferencias, Periódico.
+
+Q: ¿Cuál es la edad mínima exigida para poder obtener el título de TCP?
+D: 1
+F: 20 años.
+F: 21 años.
+T: 18 años. 
+F: 15 años.
+
+Q: ¿En cuántos tipos de aeronaves puede ejercer legalmente sus funciones un TCP?
+D: 1
+F: Únicamente en un tipo de avión.
+F: En tres como máximo.
+T: Como máximo en cuatro, con la aprobación de la Autoridad y siempre que para dos de ellos los procedimientos normales y de emergencia, el equipo de seguridad, el manejo de las salidas de emergencias y la ubicación y equipos portátiles de seguridad sean exactamente iguales. 
+F: No hay límite siempre que estés habilitado.
+
+Q: Según la legislación vigente, el plazo de validez del certificado médico aeronáutico de un TCP de 25 años es de:
+D: 1
+F: 3 años.
+T: 5 años. 
+F: 10 años.
+F: 4 años.
+
+Q: Los registros de entrenamiento de los TCP que incluyen todos los procesos de formación requeridos y las verificaciones de competencia
+D: 1
+F: Son competencia exclusiva del operador que los lleva
+F: Son competencia exclusiva del TCP que los lleva
+T: Pueden ser facilitados por el operador al TCP cuando los requiera 
+F: Son documentos secretos
+
+Q: Toda empresa aérea dedica al transporte de viajeros ha de contar con un certificado:
+D: 1
+F: MBO
+F: DUE
+F: ATS
+T: AOC 
+
+Q: Una empresa que quiera realizar transporte aéreo, debe contar con: 
+D: 1
+T: Una Licencia de explotación del Ministerio de Transportes, movilidad y agenda urbana 
+F: Licencia de Explotación del Ministerio de Hacienda
+F: Licencia de explotación de la CEETA
+F: Licencia de explotación de las JAA
+
+
+Q: El documento que acredita la existencia del contrato de transporte entre pasajero y la compañía aérea es...:
+D: 1
+T: Nominativo e intransferible 
+F: Transferible a otro viajero
+F: Anónimo
+F: Ninguna es correcta
+
+Q: Al existir un contrato de transporte aéreo entre el pasajero y el transportista, este ultimo está obligado a :
+D: 1
+F: Efectuar el traslado
+F: Transportar, junto con cada PAX su equipaje, con los límites de peso que tenga fijados
+F: Proporcionar una plaza
+T: Todas son correctas
+
+Q: De entre las obligaciones del pasajero a la hora de contratar un traslado con una compañía aérea, se encuentran:
+D: 1
+F: Pagar el precio del billete
+F: Presentarse a la hora señalada
+F: Someterse a la autoridad del Comandante
+T: Todas son correctas
+
+Q: El estado en el que el RITMO CIRCADIANO del TCP está SINCRONIZADO con al zona horaria en la que se encuentra, se llama:
+D: 1
+F: Periodo de actividad
+F: Sincronización horaria
+F: Horario irregular
+T: Aclimatado
+
+Q: La fase de RITMO CIRCADIANO de mínimo rendimiento es el periodo comprendido entre:
+D: 1
+F: Las 4 y las 5:59
+F: Las 3 y las 5:59
+T: Las 2 y las 5:59 
+F: La 1 y las 5:59
+
+Q: Según la normativa europea el número de horas de ACTIVIDAD acumuladas en 7 días consecutivos nunca será mayor de:
+D: 1
+T: 60h. 
+F: 40h.
+F: 80h.
+F: 100h.
+
+Q: ¿Qué es una tripulación reforzada/ incrementada?
+D: 1
+F: Tripulación extra
+F: Tripulación posicionada
+T: Tripulación con TCPs adicionales 
+F: Tripulación en servicio
+
+Q: El tiempo de vuelo (horas de vuelo/ block) total de los sectores asignados a un tripulante no podrá exceder los siguientes valores:
+D: 1
+F: 100 horas de tiempo de vuelo en 28 días consecutivos
+F: 900 horas de tiempo de vuelo en un año natural
+F: 1000 horas de tiempo de vuelo en cualquier periodo de 12 meses consecutivos
+T: Todas son correctas
+
+Q: Para compensar la fatiga acumulada, los tripulantes deben tener un período de descanso de recuperación prolongado recurrente de 36 horas como máximo cada:
+D: 1
+F: 120h (5 días)
+F: 144h (6 días)
+T: 168h (7 días) 
+F: 96h (4 días)
+
+Q: ¿Cuál será el tiempo de descanso mínimo fuera de base para un TCP?
+D: 1
+F: 10h o actividad posterior
+T: 10h o actividad anterior/ precedente 
+F: 11 horas o actividad precedente
+F: 12 horas
+
+Q: El Reglamento define como "BASE":
+D: 1
+T: Lugar asignado por el operador para comenzar y terminar los tiempos de actividad y en el que, por lo general, el operador no se responsabiliza del alojamiento del tripulante. 
+F: Son cada una de las ciudades en las que se hace escala en un vuelo.
+F: Es la ciudad donde está la central de la Aerolínea.
+F: Es la ciudad desde la que salen todos los vuelos de esa compañía sea cual sea su destino.
+
+Q: El descanso mínimo, siempre que el tripulante descanse en la base, será igual a la actividad precedente y en cualquier caso no inferior a:
+D: 1
+T: 12h. 
+F:  8h.
+F: 72h.
+F: 24h.
+
+Q: ¿Qué se entiende en aeronáutica como "DÍA LIBRE SUELTO"?
+D: 1
+F: A un día completo sin volar.
+F: No existe "día libre suelto"
+T: A un día libre que incluye 2 noches locales. 
+F: A un día libre que incluye 1 noche local.
+
+Q: ¿Qué significa ACTIVIDAD?
+D: 2
+F: Acción desempeñada por parte de cualquier persona que posea un certificado de Tripulante de Cabina de Pasajeros.
+F: Tiempo transcurrido desde que un avión comienza a moverse desde el lugar de estacionamiento con el propósito de despegar hasta que se detienen en el aparcamiento y ha parado todos los motores o hélices.
+T: Cualquier función que deba realizar un Tripulante para el operador  
+F: Ninguna de las respuestas anteriores es correcta.
+
+Q: Según la normativa, ¿con cuántas horas de antelación debemos presentarnos al servicio para embarcar en un avión de 100 asientos o más y con un sector inferior a 3 horas bloque?
+D: 1
+F: 65 minutos antes de la hora programada de despegue.
+T: 45 minutos antes de la hora programada de despegue. 
+F: 90 minutos antes de la hora programada de despegue.
+F: 50 minutos antes de la hora programada de despegue.
+
+Q: ¿Qué significa TIEMPO DE VUELO - HORAS BLOCK?
+D: 2
+F: Ninguna de las respuestas anteriores es correcta.
+F: Tiempo durante el cual una persona desempeña sus funciones en un avión como parte de la tripulación.
+F: Tiempo que comienza cuando un tripulante se presenta siguiendo las instrucciones del operador para desempeñar sus funciones y concluye cuando el tripulante queda relevado de todas ellas.
+T: Tiempo transcurrido desde que un avión comienza a moverse desde el lugar de estacionamiento con el propósito de despegar hasta que se detienen en el aparcamiento y ha parado todos los motores o hélices.
+
+
+
+Q: El "TIEMPO DE ACTIVIDAD" del TCP es:
+D: 2
+F: El necesario para preparar, realizar y finalizar un vuelo o varios vuelos en el día.
+T: El tiempo durante el cual un tripulante realiza tareas de algún tipo encomendadas por el operador. 
+F: El transcurrido desde que llega al aeropuerto hasta que éste  finaliza y se entrega el avión a otra tripulación.
+F: El que pasa desde que el avión despega hasta que vuelve a aterrizar.
+
+Q: El tiempo en el que un tripulante, por estar la tripulación reforzada, queda relevado de toda función a bordo, disponiendo de sitio adecuado para el descanso. 
+D: 2
+T: Descanso parcial a bordo 
+F: Actividad partida/ split duty
+F:  Actividad extendida
+F: Periodo de descanso 
+
+Q: Los vuelos programados con extensión, de máximo 1 hora:
+D: 1
+F: Serán máximo dos en 5 días consecutivos
+F: Serán máximo 7 mensuales
+T: Serán máximo dos en 7 días consecutivos 
+F: Ninguna es correcta
+
+Q: ¿Cuánto tiempo  máximo podremos estar  IMAGINARIA en el aeropuerto?
+D: 1
+F: 18 horas
+F: 12 horas
+F: 16 horas
+T: 6 horas
+
+
+
+Q: ¿Cómo llamamos al descanso que realiza la tripulación a bordo de la aeronave para poder extender sus horas de Actividad de vuelo?
+D: 1
+F: Split duty
+T: Descanso parcial el vuelo 
+F: Actividad reforzada
+F: Vuelo extendido
+
+Q: ¿Qué significa TIEMPO DE ACTIVIDAD DE VUELO - FDP-FLIGHT DUTY PERIOD?
+D: 2
+F: Tiempo durante el cual una persona representa sus funciones en un avión como parte de su tripulación.
+F: Desde que el TCP se presenta para un vuelo o una serie de ellos y finaliza una vez ha terminado sus tareas, incluidas tareas post vuelo, posicionales, etc. 
+T: Desde que el TCP se presenta para un vuelo o una serie de ellos y finaliza una vez concluido el último de los vuelos en el que el tripulante ha trabajado.
+F: Ninguna de las respuestas anteriores es correcta.
+
+Q: Un TCP se considera ACLIMATADO a una zona horaria si existe una diferencia de hasta --- horas con la hora local de su punto de partida.
+D: 1
+T: 2 
+F: 4
+F: 3
+F: 1
+
+Q: ¿Cuántas HORAS DE VUELO como máximo podemos acumular en 28 días consecutivos?
+D: 1
+F: 110
+F: 60
+F: 90
+T: 100
+
+Q: ¿En qué situación se puede aplicar la "Discrecionalidad del Comandante" para extender la actividad?
+D: 1
+T: Todas son correctas 
+F: Circunstancias imprevistas tras la firma
+F: Máximo se podrá extender dos horas la actividad
+F: Toda la tripulación debe ser considerada (fatiga)
+
+Q: La extensión programada (e) del periodo de actividad de vuelo:
+D: 1
+F: Permite aumentar la actividad de vuelo máxima hasta 1 hora
+F: El número máximo de extensiones será de 2 en 7 días consecutivos
+F: Debe ser planificado por el operador con antelación
+T: Todas son correctas
+
+Q: "Período definido de tiempo durante el cual el miembro de la tripulación debe estar a disposición del operador para que le asigne un vuelo, posicionamiento u otra actividad, con al menos una notificación previa de 10 horas antes de la atribución del servicio"
+D: 1
+T: Reserva/ franco 
+F: Imaginaria
+F: Stand by
+F: Servicio
+
+Q: Periodo de tiempo durante el cual el tripulante debe estar a disposición del operador para que le asigne un vuelo, posicionamiento u otra actividad
+D: 1
+F: Split Duty
+T: Imaginaria STBY 
+F: Franco
+F: Reserva
+
+Q: El desplazamiento de un tripulante, que no es tripulante operativo, de un lugar a otro se conoce como...
+D: 1
+F: Imaginaria
+T: Posicionamiento 
+F: Reserva
+F: Traslado
+
+Q: Es responsabilidad del operador:
+D: 1
+T: Publicar la programación de la actividad de cada tripulante con 14 días de antelación 
+F: Publicar la programación de la actividad de cada tripulante con 15 días de antelación
+F: Publicar la programación de la actividad de cada tripulante con 10 días de antelación
+F: Publicar la programación de la actividad de cada tripulante con 20 días de antelación
+
+Q: "Tiempo transcurrido desde que una aeronave comienza a moverse con el fin de despegar hasta que esta se detiene después de aterrizar en el puesto de estacionamiento designado"
+D: 1
+F: Aclimatado
+T: Sector 
+F: Instalación de descanso
+F: Base
+
+Q: "Periodo de actividad de vuelo que contiene un descanso parcial en tierra de, al menos 3 horas y se utiliza para poder extender la actividad" se conoce como:
+D: 1
+T: Actividad partida/ Split Duty 
+F: Actividad extendida programada
+F: Descanso aeroportuario
+F: Ninguna es correcta
+S: MEDICINA
+
+Q: ¿Cuál es la célula básica del sistema nervioso?
+D: 1
+F:  La sinapsis.
+T: La neurona. 
+F: Los neurotransmisores.
+F: Las dendritas.
+
+Q: La función principal de los glóbulos rojos o hematíes es:
+D: 1
+F: Participar en el proceso de coagulación de la sangre.
+F: La defensa del organismo frente a infecciones.
+F: Colaborar en la respuesta inmunológica del organismo.
+T: Transportar el oxígeno por la sangre
+
+Q: Las neuronas son las encargadas de:
+D: 1
+T: Transmitir los impulso nerviosos a través del organismo. 
+F: Detectar los niveles de azúcar en sangre.
+F: Actuar en caso de falta de oxígeno en la sangre.
+F: Impedir que la tensión arterial se eleve demasiado.
+
+Q: El intercambio de gases en los pulmones, se realiza entre los capilares y:
+D: 1
+F: La tráquea.
+F: Los bronquios derecho e izquierdo.
+F: Las bases de los pulmones.
+T: Los alvéolos pulmonares.
+
+
+
+Q: Dificultad en el habla, desviación de la boca y dificultad en la marcha pueden ser indicativos de estar sufriendo un:
+D: 1
+F: Trombosis venosa profunda
+F: Infarto agudo de miocardio Incorrecta
+T: Accidente cerebrovascular agudo o ICTUS
+F: Tromboembolismo pulmonar
+
+Q: Los glóbulos rojos o hematíes:
+D: 1
+F: Son una defensa contra la anemia.
+T: Transportan el oxígeno en la hemoglobina. 
+F: Están formados por agua en su 90%.
+F: Cuando se aglutinan forman trombos.
+
+Q: Un pasajero de 20 años con una tensión habitual de 170/100 mm-hg es una persona:
+D: 1
+F: Normotennsa.
+T: Hipertensa. 
+F: Hipotensa.
+F: Con riesgo inminente de padecer un ICTUS.
+
+Q: ¿Cuánto tiempo es recomendables dejar pasar entre la donación de sangre y el vuelo?
+D: 1
+F: 8 horas
+F: 12 horas
+T: 48 horas 
+F: 72 horas
+
+
+
+Q: La frecuencia respiratoria normal es de:
+D: 2
+F: 8 - 10 respiraciones/minuto.
+T: 12 - 20 respiraciones/minuto. 
+F: 32 - 40 respiraciones/minuto.
+F: 60 - 100 respiraciones/minuto.
+
+Q: El hueso en forma de pico donde termina el esternón se llama:
+D: 1
+F: Atlas.
+F: Acromion.
+F: Coxis.
+T: Apéndice xifoides.
+
+Q: Los gases que mayoritariamente difunden a través de la membrana alveolo-capilar son:
+D: 1
+F: CO2 y N2.
+T: O2 y CO2. 
+F: N2 y O2.
+F: Únicamente oxígeno.
+
+Q: El Sistema Nervioso Central está formado por:
+D: 1
+F: Cerebro y médula espinal.
+T: Encéfalo y médula espinal. 
+F: Nervios periféricos y centrales.
+F: Neuronas, dendritas y cerebelo.
+
+Q: Las fibras nerviosas aferentes:
+D: 2
+F: Transmiten las órdenes desde los órganos periféricos hasta el S.N.C
+T: Su misión no es la de transmitir órdenes. Correcta
+F: Transmiten las órdenes del S.N.C a los órganos.
+F: Transmiten información desde el S.N.C a los órganos.
+
+Q: La unidad fundamental del sistema nervioso es:
+D: 1
+F: La piel.
+F: Los sentidos.
+T: La neurona
+F: Todas son ciertas.
+
+Q: El sistema nervioso está formado por:
+D: 1
+F: S.N.C, S.N.G Y S.N.T
+F: S.N.G, S.N.C Y S.N.P
+T: S.N.C, S.N.P Y S.N.V 
+F: S.N.P, S.N.V Y S.N.G
+
+Q: El ser humano adulto, ¿cuántos huesos tiene?
+D: 1
+F: Alrededor de 106.
+T: Alrededor de 206. 
+F: Alrededor de 306.
+F: Alrededor de 406.
+
+Q: Los pulmones fundamentalmente están formados por:
+D: 2
+F: Bronquios intrapulmonares, músculos respiratorios y vasos sanguíneos.
+F: Bronquios intrapulmonares, músculos respiratorios y tejido conjuntivo.
+T: Bronquios intrapulmonares, vasos sanguíneos y lobulillos. 
+F: Músculos respiratorios, vasos sanguíneos y tejido conjuntivo.
+
+
+Q: El oxígeno circula por la sangre transportado por:
+D: 1
+F: Leucocitos.
+T: Eritrocitos (glóbulos rojos) 
+F: Plasma.
+F: Trombocito.
+
+Q: ¿Cómo se llaman las células que forman parte de la sangre y participan de una manera activa en los procesos de hemostasia?
+D: 1
+F: Eritrocitos.
+F: Leucocitos.
+T: Trombocitos. 
+F: Plasma.
+
+Q: ¿Cuál de estas funciones no es principal de la boca?
+D: 2
+F: Digestiva.
+T: Expiratoria. 
+F: Fonatoria.
+F: Respiratoria.
+
+Q: ¿Cuál de estas funciones no es voluntaria?
+D: 1
+F: Deglución
+F: Fonación.
+F: Mastiacación.
+T: Respiración.
+
+Q: La unidad anatómica y funcional del riñón se denomina:
+D:1 
+T: Nefrona.
+F: Neurona.
+F: Leocucito.
+F: Todas son falsas.
+
+Q: ¿Qué afirmación de las siguientes es falsa?
+D: 2
+F: La contracción de las aurículas hace pasar la sangre a los ventrículos.
+F: La válvula tricúspide comunica la aurícula derecha del ventrículo derecho.
+F: La válvula mitral comunica la aurícula izquierda con el ventrículo izquierdo.
+T: A través de la válvula y arteria aorta en el lado derecho se impulsa la sangre hacia el árbol vascular.
+
+Q: La trompa de Eustaquio comunica:
+D: 1
+F: El oído externo y el oído medio.
+T: El oído medio y la nasofaringe. 
+F: El oído interno y el nervio auditivo.
+F: El oído medio y el oído interno.
+
+Q: La función de la Trompa de Eustaquio es:
+D: 1
+F: Controlar las presiones del oído interno
+F: Controlar las presiones del oído externo
+T: Controlar las presiones del oído medio 
+F: Es una membrana elástica que comunica el canal auditivo externo con el oído medio
+
+Q: Hablamos de HIPOXIA cuando:
+D: 1
+F: Disminuye el 02 en la atmósfera
+F: Disminuye el 02 en la sangre
+T: Disminuye la oxigenación a nivel de tejidos y células 
+F: Aumenta la presión parcial de oxígeno en la atmosfera
+
+Q: La respiración consta de las tres siguientes fases:
+D: 1
+T: Ventilación, difusión y transporte o circulación. 
+F: Ventilación, oxigenación y difusión.
+F: Oxigenación, difusión y transporte o circulación.
+F: Ventilación, oxigenación y transporte o circulación.
+
+Q: El oído se divide en:
+D: 1
+F: Oído anterior, medio y posterior.
+F: Oído anterior, central e interno.
+F: Oído externo, central e interno.
+T: Oído externo, medio e interno.
+
+Q: ¿Cuál de estas afirmaciones es falsa del estómago?
+D: 1
+F: Tiene aspecto sacciforme.
+T: Es un órgano extraperitoneal. 
+F: Está limitado por dos esfínteres.
+F: Tiene dos curvaturas, una mayor y otra menor.
+
+Q: El aparato circulatorio:
+D: 2
+F: Mantiene un aporte ininterrumpido de sangre a todo el organismo, no mantiene los requerimientos metabólicos y asegura el aporte de CO2 a las células.
+T: Mantiene un aporte ininterrumpido de sangre a todo el organismo, mantiene los requerimientos metabólicos y asegura el aporte de O2 a las células. 
+F: Mantiene un aporte ininterrumpido de sangre a todo el organismo, mantienen los requerimientos metabólicos y asegura el aporte de O2 a las células.
+F: Mantiene un aporte interrumpido de sangre a todo el organismo, mantiene todos los requerimientos metabólicos y asegura el O2.
+
+
+
+Q: ¿Dónde se sitúan los alveolos?:
+D: 1
+T: En el pulmón. 
+F: En el útero.
+F: En el riñón.
+T: En el corazón.
+
+Q: El esófago comunica con:
+D: 1
+F: Boca y faringe
+F: Boca estomago
+T: Faringe y estomago 
+F: Estomago e intestino delgado
+
+Q: Las articulaciones se encuentran
+D: 1
+F: En los tejidos musculares
+F: Recubriendo el sistema nervioso
+T: Entre los huesos 
+F: Entre los ligamientos
+
+Q: Lo primero que debe hacer el TCP tras una descomprensión durante el TUC será:
+D: 1
+F: Obtener oxígeno para el compañero más cercano.
+F: Poner inmediatamente oxígeno al Comandante.
+T: Obtener oxígeno para sí mismo y así evitar una incapacitación por hipoxía. 
+F: Llevar el carro al galley y anclarlo convenientemente.
+
+Q: Hablando de HIPOXIA, sería correcto decir:
+D: 1
+F: Es indicativo de exceso de hemoglobina en sangre.
+F: Si es muy grave puede aparecer ictericia.
+T: Es la falta de oxígeno en el organismo. 
+F: Se corrige colocando una bolsa sobre boca y nariz para que respire en ella.
+
+Q: Dentro de las radiaciones ionizantes se encuentran:
+D: 1
+F: Las Hertzianas.
+T: Los Rayos X. 
+F: Las Microondas.
+F: Los Rayos Infrarrojos.
+
+Q: Respecto a las radiaciones ionizantes es correcto decir que:
+D: 1
+T: Son de origen cósmico, muy penetrante y con alta energía. 
+F: La Troposfera es un escudo natural contra este tipo de radiación.
+F: Es la mayor fuente de luz visible.
+F: Son ondas electromagnéticas emitidas por los cueros calientes.
+
+Q: Si nos exponemos a grandes alturas sin el necesario oxígeno suplementario, nos exponemos a padecer una:
+D: 1
+F: Hipoxia anémica.
+F: Hipoxia por estancamiento.
+F: Hipoxia histotóxica.
+T: Hipoxia hipoxica.
+
+Q: En una despresurización a 30.000 ft. de altura, contamos con un TUC de:
+D: 2
+F: 6 - 10 minutos
+F: 3 - 5 minutos
+T: 1 - 2 minutos 
+F: 15 - 20 segundos
+
+Q: Los TCPs a bordo de una aeronave tienen unas condiciones laborales especiales en cuanto a:
+D: 1
+F: Humedad, presión, temperatura y % de oxigeno ambiente.
+T: Humedad, presión, espacio y % de oxigeno ambiente. 
+F: Presión, espacio, temperatura y condiciones de precariedad laboral.
+F: Temperatura, compañerismo y trato de los clientes.
+
+Q: En una despresurización a 50.000ft. de altura, contamos con un TUC de;
+D: 2
+F: 6-10 minutos.
+F: 3-5 minutos.
+T: 6-8 segundos. 
+F: 15-20 segundos.
+
+Q: La baropatía intestinal o aerocolia es:
+D: 1
+F: Acumulo de heces en los intestinos.
+F: Inflamación del intestino grueso.
+T: Gases en los intestinos. 
+F: No existe.
+
+Q: La parte del oído donde se produce la barotitis o aerotitis es:
+D: 2
+F: Oído externo.
+T: Oído medio. 
+F: Oído interno.
+F: Oído profundo.
+
+Q: El Jet-Lag se acusa en mayor medida cuando los vuelos son:
+D: 1
+F: Norte-Sur.
+F: Chárter.
+T: Transmeridianos. 
+F: Comerciales
+
+Q: ¿Qué son los Bends?
+D: 2
+F: Signos respiratorios de la enfermedad descompresiva (EDC).
+T: Signos articulares de la enfermedad descompresiva (EDC).
+F: Signos cutáneos de la enfermedad descompresiva (EDC). 
+F: Signos neurológicos de la enfermedad descompresiva (EDC).
+
+Q: Un pasajero está sufriendo una arritmia conocida como taquicardia cuando su corazón late a un ritmo:
+D: 1
+T: Superior a 100 latidos/minuto. 
+F: Inferior a 100 latidos/minuto.
+F: Superior a 60 latidos/minuto.
+F: Inferior a 60 latidos/minuto.
+
+Q: Una maniobra de Valsalva, en general, está indicado realizarla:
+D: 1
+F: Durante el despegue.
+F: Durante el vuelo.
+T: Durante el aterrizaje.
+F: Tanto en el despegue como en el aterrizaje.
+
+Q: La siguiente afirmación: "a temperatura constantes el volumen ocupados por una masa de gas es inversamente proporcional  al presión que se ejerce sobre le mismo", corresponde a la ley física de:
+D: 1
+F: Henry
+T: Boyle Mariotte 
+F: Dalton
+F: Graham
+Q: ¿Cuándo está indicada la maniobra de VALSALVA?
+D: 1
+F: En caso de mareo
+F: En caso de insuficiencia respiratoria
+T: En descenso si sentimos molestias en el oído 
+F: En caso de vómitos
+
+Q: El reajuste de los ritmos biológicos tras un desfase horario es mas difícil:
+D: 1
+T: Tras un desplazamiento hacia el Este 
+F: Tras un desplazamiento hacia el Oeste
+F: Tras un desplazamiento hacia el Norte
+F: Tras un desplazamiento hacia el Sur
+
+Q: Señala el tratamiento/ procedimiento apropiado en caso de mareo:
+D: 1
+F: Administrar medicación
+T: Tumbar al paciente en el suelo y elevar las piernas para facilitar el riego sanguíneo 
+F: Colocar al paciente en la posición lateral de seguridad
+F: Aplicar la maniobra de Heimlich
+
+Q: A bordo de una aeronave, durante el vuelo, las condiciones de cabina son de baja humedad, por lo que se recomienda una adecuada hidratación. Para ello, en vuelos de 3 horas, la cantidad de agua a bordo/pasajero, no ha de ser inferior a:
+D: 1
+F: 2,5 litros.
+F: 0,5 litros.
+T: 1,5 litros. 
+F: 2 litros.
+
+Q: ¿Cómo se podría evitar el mareo entre los pasajeros?
+D: 1
+F: Repartiendo bolsas por el avión.
+T: Administrando pastillas antimareo. 
+F: Haciéndoles comer lo más posible.
+F: Haciéndoles beber lo más posible.
+
+Q: Los síntomas más frecuentes de la Enfermedad Descompresiva (EDC) son:
+D: 1
+F: Picores.
+T: Bends. 
+F: Chockes.
+F: Neurológicos.
+
+Q: Debido a la baja humedad del ambiente en cabina, los Tripulantes que lleven lentillas o gafas:
+D: 1
+F: Deberán llevar 2 pares para intercambiarlas.
+F: Igual no pueden volar.
+T: Tendrán bien hidratados los ojos. 
+F: Tendrán que operarse y quitárselas.
+
+Q: La barodontalgia o aerodontalgia:
+D: 1
+T: Solo podrá afectar a los que tengan dientes defectuosos  (endodoncias, empastes, coronas...). 
+F: Para evitarlas sería recomendable hacer la maniobra de Valsalva para abrir la Trompa de Eustaquio.
+F: Afectará a la mayoría de los pasajeros a bordo.
+F: Afecta únicamente a las personas que padecen sinusitis o tienen congestión nasal.
+
+Q: La hipoxia, en general, se soluciona:
+D: 1
+F: Bajando de altitud.
+F: Subiendo de altitud.
+F: Efectuando reposo.
+T: Recibiendo oxígeno. 
+
+Q: Los "bends" son manifestaciones clínicas de la enfermedad descompresiva que consiste en:
+D: 2
+F: Dolores torácicos.
+F: Pérdida de visión central.
+F: Pérdida de visión periférica.
+T: Dolores articulares.
+
+Q: El Jet-Lag aparece cuando:
+D: 1
+F: El avión sale temprano por la mañana y aterriza ya de noche.
+F: El vuelo discurre a lo lago de una noche.
+F: Se viaja en el mismo meridiano de Sur a Norte.
+T: Se cruzan más de 4 husos horarios de manera rápida.
+
+Q: ¿Qué son los Chockes?
+D: 2
+T: Signos respiratorios de la enfermedad descompresiva (EDC).
+F: Signos articulares de la enfermedad descompresiva (EDC).
+F: Signos cutáneos de la enfermedad descompresiva (EDC).
+F: Signos neurológicos de la enfermedad descompresiva (EDC)
+
+Q: Entendemos por Tiempo Útil de Conciencia (TUC):
+D: 1
+T: Del que disponemos antes de perder el conocimiento al desconectarnos de nuestro sistema de oxígeno. 
+F: Del que disponemos antes de que se inicie la visión negra al someternos a grandes aceleraciones.
+F: Del que disponemos desde que se produce la visión negra hasta que perdemos el conocimiento.
+F: Del que disponemos antes de perder el conocimiento por intoxicación al inhalar oxígeno al 100%
+Q: Los barotraumatismos son:
+D: 1
+F: Lesiones óseas
+T: Lesiones por diferencia de presión 
+F: Lesiones por falta de oxígeno
+F: Lesiones por diferencia de altura
+
+Q: Entendemos por hipoxia en sentido estricto:
+D: 1
+T: Al déficit de oxígeno a nivel celular y tisular. 
+F: A la disminución de oxígeno en el ambiente atmosférico.
+F: A la disminución de la presión parcial de oxígeno en los alveolos.
+F: A la dificultad respiratoria producida por la baja presi6n atmosférica.
+
+Q: Los barotraumatismos son lesiones producidas:
+D: 1
+T: Por aire atrapado en cavidades semicerradas. 
+F: Por el déficit de oxígeno tisular.
+F: En cavidades que contienen líquidos corporales.
+F: Por politraumatismos.
+
+Q: ¿Qué es la cinetosis o aerocinetosis?
+D: 1
+F: Coloración azulada o negruzca de la piel.
+T: Mareo por movimiento. 
+F: Baja tensión arterial.
+F: Acumulación de líquidos en los pies.
+
+Q: Son signos y síntomas de quemadura de tercer grado:
+D: 1
+F: Piel enrojecida y gran sensibilidad y dolor en la zona.
+F: Ampolla y dolor.
+T: Aspecto blanquecino, seco y/o con zonas de necrosis. 
+F: Sangrado sin dolor.
+
+Q: ¿La causa más frecuente de hiperventilación en vuelo es?
+D: 1
+T: El pánico o miedo. 
+F: El consumo exagerado de aspirinas.
+F: El fuerte dolor de oídos.
+F: La hipoxia.
+
+Q: Ante un pasajero que presenta grandes quemaduras por llama, primeramente hemos de:
+D: 1
+F: Cubrirlo con mantas para que pierda calor.
+F: Retirarle rápidamente todas las ropas y ponerle pomada.
+T: Empapar el cuerpo con agua fresca o aplicar compresas mojadas para enfriar la zona afectada. 
+F: Darle de beber para reponer los líquidos que haya podido perder.
+
+Q: La alteración más común en vuelo, debido a turbulencias es:
+D: 1
+F: La claustrofobia.
+T: La ansiedad. 
+F: Los infartos.
+F: La ceguera.
+
+Q: Las heridas se clasifican en:
+D: 1
+F: 1er, 2º y 3er grado.
+T: Punzantes, incisas y contusas. 
+F: Superficiales y profundas.
+F: Abrasivas y sangrantes.
+
+Q: Si un pasajero en vuelo está indispuesto (vómitos, diarrea y dolor abdominal), pensaremos que pueda estar padeciendo de:
+D: 1
+F: Infarto de miocardio.
+T: Gastroenteritis. 
+F: Diabetes.
+F: Asma alérgico.
+
+Q: Cuando en una persona se produce una situación de urgencia, lo primero que tenemos que asegurar es:
+D: 1
+F: Controlar las hemorragias.
+T: Que las vías aéreas están permeables. 
+F: Que la persona se mantenga en la PLS.
+F: Evitar que ingiera ningún medicamento.
+
+Q: ¿Cuál será la actuación más correcta en caso de luxación de un hueso?
+D: 1
+F: Intentar poner en su sitio la articulación afectada lo antes posible.
+F: Mandar a la persona que ella misma se la coloque en su sitio.
+T: Inmovilizarla tal y como esté colocando una férula o vendaje, moderando las maniobrar de tracción, y no intentar nunca reducirla. 
+F: Colocar la parte afectada hacia abajo para que le llegue bien la sangre.
+
+Q: Cuando se hiperventila:
+D: 1
+T: Disminuye el CO2 en sangre. 
+F: Aumenta el O2 en sangre.
+F: El nivel de CO2 y O2 en sangre es correcto.
+F: Aumenta el nitrógeno en sangre.
+
+
+
+Q: ¿Con qué otro nombre se conoce en aeronáutica el "mal de movimiento"?
+D: 1
+F: Mareitis.
+T: Cinetosis. 
+F: TVP.
+F: Hipotensión.
+
+Q: Indica el tratamiento correcto en caso de hiperventilación:
+D: 1
+T: Calmar al pasajero e indicarle que respire con normalidad 
+F: Administrar 02 al pasajero
+F: Animar al pasajero a respirar más rápido
+F: Asegurarse de conectar la mascarilla en HI antes de administrar 02
+
+Q: Una fractura abierta es:
+D: 1
+T: Una fractura en la que tendremos que taponar la herida antes y luego inmovilizar con vendaje. 
+F: No existe la fractura abierta.
+F: La fractura que, para reducirla, debemos abrir la piel en quirófano.
+F: Mucho menos grave que la fractura cerrada.
+
+Q: Los síntomas de fractura son:
+D: 1
+T: Dolor intenso, posible deformidad y limitación funcional. 
+F: Sangrado y dolor.
+F: Enrojecimiento de la zona y fiebre.
+F: Aparición de vesículas y escozor.
+
+Q: Si una persona ha sufrido una lipotimia o mareo ¿en qué postura le colocaremos?
+D: 1
+F: Decúbito lateral izquierdo
+F: Posición lateral derecho
+F: Decúbito prono
+T: Decúbito supino con piernas elevadas 
+
+Q: Señala los síntomas de la epilepsia:
+D: 1
+F: Fiebre y dolor de cabeza.
+F: Dolor abdominal.
+T: Rigidez, convulsiones, pérdida de conciencia. 
+F: Dolor de oídos.
+
+Q: Cuando nace un niño en un avión ¿cuál deberá ser nuestra primera actuación?
+D: 1
+T: Limpiarle las secreciones de boca y nariz y abrigarle. 
+F: Lavarle bien con agua templada.
+F: Cerrar y cortar el cordón umbilical.
+F: Dárselo a su madre.
+
+Q: Las llamadas "crisis de ausencias":
+D: 2
+T: Son el signo del Pequeño Mal. 
+F: Son el signo del Gran Mal.
+F: Indican que se sufre de Parkinson.
+F: Son típicas de las diabetes.
+
+Q: ¿Qué es lo que nunca haremos con una persona inconsciente?
+D: 1
+T: Darle a beber líquidos 
+F: Tomarle el pulso
+F: Ponerle tumbado boca arriba con la cabeza ladeada
+F: Levantarle las piernas
+
+
+Q: Ante un atragantamiento total, completo o grave, hemos de:
+D: 1
+F: Mandar toser enérgicamente.
+T: Dar 5 golpes interescapulares seguidos de 5 comprensiones abdominales. 
+F: Colocarle tumbado en PLS.
+F: Colocarle en la posición anti-shock.
+
+Q: En caso de congelación tendremos que:
+D: 1
+F: Consumir alcohol en grandes cantidades.
+F: Sumergir en agua muy caliente las partes congeladas.
+T: Envolver la parte congelada con una manta o ropa y aplicarle algo caliente por fuera. 
+F: Friccionarnos fuertemente con nieve para estimularla.
+
+Q: En el caso de que un pasajero sufra una crisis epiléptica en pleno vuelo, la prioridad del TCP será:
+D: 1
+F: Inmovilizar al pasajero rápidamente.
+F: Suministrarle medicación urgente.
+T: Evitar que se lesione golpeándose. 
+F: Tranquilizarle para que deje de moverse.
+
+Q: El "Síndrome tromboembólico" se define en general como:
+D: 1
+F: Un traumatismo óseo.
+F: Un paro cardio-respiratorio.
+T: Una trombosis venosa profunda. 
+F: Una intoxicación por medicamentos.
+
+Q: Si un pasajero asmático sufre una crisis en vuelo, hemos de:
+D: 1
+T: Acomodarle sentado, colocarle oxígeno y facilitarle broncodilatadores (si él no los lleva). 
+F: Acomodarle tumbado y colocarle oxígeno.
+F: Facilitarle broncodilatadores (si él no los lleva) y preparar su evacuación urgente del avión.
+F: Hidratarle dándole mucha agua.
+
+Q: Un pasajero que ha de ser transportado hasta el aeropuerto en la llamada "posición de seguridad", consiste en colocarlo:
+D: 1
+F: Boca arriba o supino.
+F: Boca abajo o prono.
+T: En lateral. 
+F: En Fowler.
+
+Q: Si un pasajero diabético sufre una crisis de hipoglucemia a bordo, hemos de tratarlo:
+D: 1
+F: Evacuándolo urgentemente.
+F: Suministrándole analgésicos.
+T: Suministrándole agua con azúcar. 
+F: Haciéndole caminar por la aeronave.
+
+Q: Si un pasajero sufre un episodio de sangrado nasal, se le tratará a base de:
+D: 1
+T:  Apretar su parte blanda de la nariz durante unos minutos, echando su cabeza hacia adelante. 
+F: Respiraciones acompasadas por la nariz.
+F: Poniéndole un torniquete nasal.
+F: Apretar su parte blanda de la nariz durante unos minutos, echando su cabeza hacia atrás.
+
+Q: Si un pasajero sufre una crisis hipoglucemia en pleno vuelo hemos de:
+D: 1
+F: Suministrarle agua con sal.
+T: Suministrarle agua con azúcar. 
+F: Pedirle a un sanitario que le pinche insulina.
+F: Abrigarlo bien.
+
+Q: ¿Cuáles son las fases del parto por orden cronológico?
+D: 1
+F: Expulsivo, dilatación y alumbramiento.
+F: Alumbramiento, dilatación y expulsivo.
+F: Dilatación,alumbramiento y expulsivo.
+T: Dilatación, expulsivo y alumbramiento.
+
+Q: La salmonelosis es una infección:
+D: 1
+F: Respiratoria.
+F: Circulatoria.
+T: Digestiva. 
+F: Nerviosa.
+
+Q: ¿Qué es lo primero que hemos de hacer ante un pasajero inconsciente que respira?
+D: 1
+F: Tranquilizarle, ponerle oxígeno y colocarlo semisentado.
+F: Administrarle una cafinitrina sublingual para evitar infartos.
+T: Colocarle en la posición lateral de seguridad, retirando las ropas que dificulten la respiración. 
+F: Colocarle en la posición antishock con oxígeno.
+
+Q: Ante un pasajero que presenta una hemorragia externa con herida en la piel ¿Cómo sabremos que un sangrado venoso?
+D: 1
+F: La sangre es rojo brillante y sale a borbotones coincidiendo con las pulsaciones.
+F: Apenas sale sangre y esta es de color rojo vivo.
+T: El color de la sangre es rojo oscuro y sale de manera continua. 
+F: La herida es superficial y apenas sangra.
+
+Q: En la exploración A, B y C ¿Qué parámetro valoramos?
+D: 1
+F: Vías aéreas permeables.
+F: Estado de consciencia, vías aéreas permeables y respiración
+F: Estados de consciencia, respiración, heridas y fracturas
+T: Estados de consciencia, vías aéreas permeables, respiración, presencia de hemorragias graves y circulación
+
+Q: Si una mujer está embaraza de 39 semanas, hay que saber que:
+D: 2
+F: Es un parto prematuro con riesgo para la madre y el niño. 
+T: El niño está perfectamente formado para vivir.
+F: Un niño tan pequeño, con la presión de cabina, tiene muy pocas probabilidades de vivir.
+F: Como el niño aún no está perfectamente formado, nos podemos esperar cualquier cosa.
+
+Q: Alguno de los síntomas de la Trombosis Venosa profunda (TVP) son:
+D: 1
+T: Dolor agudo y constante en la zona de la pantorrilla. 
+F: Incapacidad para estirar la pierna.
+F: Taquicardia con dificultad respiratoria.
+F: Cianosis en labios y uñas.
+
+Q: Sabemos que una personas necesita una RCP cuando...
+D: 1
+T: Está inconsciente y no tiene constantes vitales 
+F: Está inconsciente, pero tiene constantes vitales
+F: Respira bien y tiene latido, pero no contesta a nuestras preguntas
+F: Está inconsciente e hiperventila
+Q: ¿Qué debemos hacer en el caso de que un paciente sufra una hemorragia?
+D: 1
+F: Administrar medicación del First Aid Kit (FAK)
+T: Aplicar presión directa hasta que la hemorragia ceda y no retirar las gasas 
+F: Colocar al paciente en la posición lateral de seguridad
+F: Abrir inmediatamente el EMK
+
+Q: La maniobra de Heimlich se utiliza en caso de...?:
+D: 1
+F: La introducción de sonda vesical.
+F: Como medida de desinfección.
+F: Que un pasajero este inconsciente.
+T: Obstrucción total de la vía aérea por un cuerpo extraño.
+
+Q: Al efectuar el masaje cardiaco, el talón de nuestra mano se colocará:
+D: 1
+F: Entre el esternón y el ombligo.
+F: Dos dedos por debajo del apéndice xifoides
+T: En el centro del tórax, sobre el esternón. 
+F: En cualquier parte de la región torácica.
+
+Q: Indica los síntomas producidos por un ataque al corazón:
+D: 1
+F: Pérdida de consciencia.
+F: Convulsiones y dolor abdominal.
+T: Dolor u opresión en el pecho, sudoración, disnea, ansiedad y palidez entre otros. 
+F: Solo dolor abdominal.
+
+Q: ¿Cómo se denomina la enfermedad que no permite metabolizar el azúcar de la sangre?
+D: 1
+F: Cistosis
+T: Diabetes 
+F: Rinitis
+F: Herpes
+
+Q: ¿Qué significan las siglas EMK?
+D: 1
+F: Botiquín de primeros auxilios.
+F: Desfibrilador semiautomático.
+T:  Botiquín médico de emergencia. 
+F: Radiobaliza de emergencia.
+
+Q: ¿Qué sería correcto decir si estamos hablando de botiquines de primeros auxilios (FAK) a bordo de un avión?
+D: 1
+F: No se aconseja llevarlos a bordo si no va un sanitario que lo maneje.
+T: Es obligatorio llevarlos en cualquier aeronave y se comprueban en los chequeos pre vuelo. 
+F: Es conveniente llevarlos, aunque no es recomendable su utilización.
+F: Los botiquines de abordo solo los maneja el Comandante.
+
+Q: El oxígeno de primeros auxilios en un avión:
+D: 1
+F: Está contenido en las PSU.
+T: Se encuentra envasado en una botella individual de O2 que suministra oxígeno 100% flujo continuo 
+F: Se encuentra envasado en una botella individual de O2 que suminitra oxígeno 100% a demanda
+F: Hay que solicitarlo a la compañía antes de embarcar.
+
+Q: Las vacunas son:
+D: 1
+T: Una forma de inmunización. 
+F: Un tratamiento químico.
+F: Una medida higiénica.
+F: Un tratamiento frente a infecciones.
+Q: El procedimiento de desinsectación se realiza:
+D: 2
+T: Antes de despegar, cuando se han cerrado puertas 
+F: Antes de despegar, antes de cerrar puertas
+F: En vuelo
+F: Una vez ha finalizado el embarque
+
+Q: Dentro de la higiene personal de la tripulación para la prevención de contaminación de alimentos, se incluye:
+D: 1
+T: Lavado de manos habitual. 
+F: Ducharse con antisépticos antes y después de cada vuelo.
+F: Llevar las heridas al aire para que se sequen antes.
+F: Lavado de dientes después de cada comida y antes de acostarse.
+
+Q: El contagio indirecto se produce, por ejemplo, por:
+D: 1
+F: Contacto de persona sana con persona sana.
+F: Estornudar, teniendo gripe, sobre una persona sana.
+T: Beber agua donde han defecado animales. 
+F: Contacto de persona enferma con persona sana.
+
+Q: El contagio directo se produce por:
+D: 1
+F: Contacto de persona sana con persona sana.
+F: Beber agua donde han defecado animales.
+F: Compartir un pañuelo para la nariz con una persona que padece gripe.
+T: Contacto de persona enferma con persona sana. 
+
+Q: Para evitar el traslado de mosquitos portadores de enfermedades entre países, el avión se somete a una o varias:
+D: 1
+F: Desratizaciones.
+F: Desinfecciones.
+T: Desinsectaciones. 
+F: Esterilizaciones.
+
+Q: La fiebre amarilla se previene:
+D: 1
+T: A través de una vacuna  
+F: A través de una quimioprofilaxis suministrada por pastillas
+F: Únicamente tomando medidas higiénicas y de protección
+F: No hay forma de prevenirla
+
+
+S: CTG
+
+Q: ¿A qué sistema de la aeronave pertenece la válvula Crossfeed?
+D: 2
+F: Al hidráulico.
+F: Al neumático.
+T: Al sistema de combustible. 
+F: Al eléctrico.
+
+Q: ¿Qué tipo de fluido utiliza el sistema hidráulico del avión?
+D: 1
+T: Líquido hidráulico. 
+F: Agua mineralizada.
+F: Aceite sin refinar.
+F: Mezcla de gasóleo con aceite y agua.
+
+Q: En caso de una despresurización de cabina en pleno vuelo:
+D: 1
+F: La presión de cabina aumentaría.
+T: La presión de cabina disminuiría. 
+F: La presión de cabina se mantendría constante.
+F: La cabina entraría en gravedad 0.
+
+Q: La energía eléctrica en un avión en vuelo procede de:
+D: 1
+F: La propia inercia de vuelo.
+T: Los generadores. 
+F: El APU.
+F: El GPU.
+
+Q: El instrumento que marca la velocidad aerodinámica del avión es:
+D: 1
+F: El GPS aeronáutico.
+F: El variómetro.
+F: El velocímetro.
+T: El anemómetro
+
+Q: Para la puesta en marcha de los motores de reacción se puede emplear:
+D: 2
+F: Unas pinzas unidas a otro motor.
+F: El sistema hidráulico del avión.
+T: Aire procedente del APU. 
+F: La chispa de una turbina.
+
+Q: El instrumento aeronáutico encargado de medir la altitud del avión es el:
+D: 1
+T: Altímetro. 
+F: Anemómetro.
+F: Variómetro.
+F: Alturímetro.
+
+
+Q: La presión atmosférica se mide en milibares con un:
+D: 1
+F: Variómetro.
+F: Altímetro.
+T: Barómtero. 
+F: Presiómetro.
+
+Q: ¿Dónde están ubicados los medios de frenado en un avión?
+D: 1
+T: En el tren de aterrizaje primario y en los motores. 
+F: En los pedales de cabina.
+F: En las alas y alerones.
+F: Únicamente en los motores del avión.
+
+Q: Un motor de reacción necesita encendido continuo por lo que las bujías de encendido estarán siempre funcionando:
+D: 2
+F: Es verdadero.
+T: No, solo durante la puesta en marcha. 
+F: No existen tales bujías.
+F: Los motores a reacción encienden por aire comprimido.
+
+Q: ¿Cómo se denomina el sistema de frenado que depende directamente de los motores del avión?
+D: 1
+F: Spoiler
+T: Reversa 
+F: Aerofreno
+F: Pistón de frenado.
+
+Q: En aviación encontramos, básicamente, tres tipos de motores:
+D: 1
+F: Monomotor, bimotor y turbohélice.
+T: Motor alternativo, turborreactor y turbohélice
+F: Turborreactor, turbohélice y supersónico.
+F: Transónico, supersónico e hipersónicos.
+
+Q: ¿Cuál de los siguientes es el elementos fundamental para que un avión se sustente en el aire?
+D: 1
+F: El peso del avión.
+F: El fuselaje.
+F: Los motores.
+T: Las alas.
+
+Q: El APU se utiliza para:
+D: 1
+F: Situaciones de supervivencia.
+F: Mejorar el repostaje de combustible.
+T: Proporcionar energía eléctrica y/o neumática al avión, principalmente. 
+F: Alterar momentáneamente la forma del ala durante el despegue y el aterrizaje para aumentar la sustentacion.
+
+Q: Las luces de tren de aterrizaje se iluminan:
+D: 1
+F: En verde arriba y blocado
+T: En verde abajo y blocado y en rojo en tránsito 
+F: En verde y rojo en tránsito
+F: En blanco intermitente
+
+Q: El empenaje de cola es un elemento constitutivo del avión al que vulgarmente llamamos cola. En él se encuentra:
+D: 1
+T: El estabilizador vertical 
+F: Los Slats
+F: Los Flaps
+F: Los elementos hipersustentadores
+
+Q: La presión aumenta con la altura:
+D: 1
+F: Solo en el hemisferio Norte.
+F: Solo en el hemisferio Sur.
+F: Es correcto, la presión aumenta con la altura.
+T: Es incorrecto, la presión disminuye con la altura.
+
+Q: A la fuerza que genera un motor a reacción se le conoce como:
+D: 1
+F: Resistencia.
+F: Impulso.
+T: Empuje.
+F: Potencia.
+
+Q: ¿Cómo se llama el componente que comprime el aire en un motor de reacción?
+D: 1
+F: Expansor.
+T: Compresor. 
+F: Cámara de combustión.
+T: Tobera.
+
+Q: Para que un avión alabee a la derecha, el piloto ha de girar:
+D: 2
+F: El timón de dirección a la izquierda.
+F: Los spoilers de dirección a la izquierda.
+F: El timón de profundidad atrás a tope.
+T: El alerón izquierdo abajo y el derecho arriba
+
+
+
+Q: ¿Qué es un kt?
+D: 1
+F: Medida de altura.
+F: Medida de longitud.
+F: Un nudo, la velocidad igual a 1 km por hora.
+T: Un nudo, la velocidad igual a 1NM por hora
+
+Q: Los Circuit Breakers son:
+D: 1
+T: Mecanismos de control en la instalación eléctricas que interrumpe la corriente resulta excesiva 
+F: Sistemas de aire acondicionado.
+F: Generadores de corriente.
+F: Acumuladores de corriente.
+
+Q: ¿Qué sucede en una turbina?
+D: 2
+F: El estractor se mueve con el eje del motor.
+T: El rotor gira con el eje del motor y el estrator no se mueve. 
+F: El rotor se queda parado mientras el estrator coge velocidad.
+F: Rotor y estrator giran a la vez.
+
+Q: Los Flaps se encuentran en:
+D: 1
+T: El borde de salida o de fuga del ala. 
+F: Junto a los alerones.
+F: Sobre el ala pegado a la cabina.
+F: Bajo el timón de salida del ala.
+
+Q: La presión atmosférica o barométrica con la altura:
+D: 1
+F: Aumenta
+T: Disminuye 
+F: Se mantiene constante
+F: Primero disminuye y luego aumenta
+
+Q: ¿De dónde se obtiene la energía eléctrica de un avión en tierra?
+D: 1
+F: De los motores del avión al ralentí
+F: De las baterías recargables
+T: Del APU 
+F: De los generadores eléctricos de sus propios motores
+
+Q: Los FLAPS actúan:
+D: 1
+T: Aumentando la curvatura de las alas 
+F: Compensando los movimientos de Guiñada del avión
+F: Como aerofrenos de la aeronave en tierra
+F: Redireccionando los gases de salida del avión para decelerarlo
+
+Q: ¿Cómo se establece el lado derecho o izquierdo de un avión?
+D: 1
+T: Desde la parte posterior mirando a Ia cabina de vuelo 
+F: Depende del tipo de avión
+F: Sentado y mirando a Ia cola del avión
+F: Se designa en cada caso por la compañía aérea
+
+Q: La corriente alterna es de:
+D: 2
+F: 220V.
+T: 115V. 
+F: 280V.
+F: 110V.
+
+
+Q: Como regla general, el despegue se hará:
+D: 1
+F: A favor del viento para que nos ayude a despegar. 
+T: En contra del viento.
+F: A favor de viento, si nos encontramos en el hemisferio norte.
+F: En contra del viento, si nos encontramos en el hemisferio norte.
+
+Q: Un avión se puede mover alrededor de 3 ejes que pasan por su centro de gravedad (CG), estos son:
+D: 1
+F: Eje longitudinal, espacial y vertical
+T: Eje longitudinal, vertical y transversal 
+F: Eje longitudinal, vertical y paralelo
+F: Eje vertical, horizontal y transversal
+
+Q: ¿Cómo se llama el proceso en el que la aeronave se mueve rodando dentro del aeropuerto?
+D: 1
+F: Depegue
+F: Ninguna es correcta
+T: Rodaje 
+F: Aproximación
+
+Q: ¿Como se llama el punto alrededor del cual el avión quedaría en equilibrio si fuese posible suspenderlo del mismo, donde se asume que toda la masa de la aeronave se encuentra concentrada?
+D: 1
+F: Gravitación (GG)
+F: Centro primario (CP)
+T: Centro de gravedad (CG) 
+F: Centro de carga y centrado
+
+
+Q: El VUELO DE PLANEO es un caso particular del descenso, donde el empuje (potencia disponible) es nulo.
+D: 1
+T: Verdadero 
+F: Falso
+
+Q: La regla de oro en la carga de cualquier aeronave es conseguir que la máquina resulte lo más pesada posible sin comprometer su seguridad.
+D: 1
+F: Verdadero
+V: Falso
+
+Q: Ascenso (climb): La condición necesaria para poder realizar un ascenso es contar con un exceso de potencia, es decir, que la potencia disponible (potencia desarrollada por el motor) sea superior a la potencia necesaria (potencia requerida para vencer la resistencia).
+D: 1
+T: Verdadero 
+F: Falso
+
+Q: Las fuerzas que actúan en el despegue son:  
+D: 1
+F: Son 3: thrust, lift y drag.
+F: Son 4: Empuje, lift, drag y fuerza de rozamiento
+T: Son 4: thrust, lift, drag y fuerza de rozamiento 
+F: Son 3: thrust, lift y fuerza de rozamiento.
+
+Q: El objetivo de todo despegue es conseguir que las alas generen suficiente sustentación como para poder compensar el peso de la aeronave recorriendo la menor distancia posible sobre el suelo.
+D: 1
+T: Verdadero 
+F: Falso
+
+
+Q: Se utiliza el término "barrena" para referirse
+D: 1
+T: Término utilizado para referirse al descenso vertical y brusco de un avión rotando sobre su eje longitudinal.
+F: Maniobra específica que se realiza con un ascenso vertical  y brusco tras  el despegue para superar obstáculos lo más rápido posible.
+F: Término coloquial para definir una parte del galley
+F: Maniobra específica que se utiliza tras el aterrizaje y antes de rodar hacia la plataforma
+
+Q: Un avión entra en pérdida si:
+D: 1
+F: Vuela con exceso de peso
+F: Vuela a altas velocidades
+T: Sobrepasa el coeficiente de sustentación máximo 
+F: Se inclina mucho a derechas
+
+Q: El movimiento del avión alrededor de su eje vertical (Z) se llama:
+D: 2
+T: Guiñada 
+F: Cabeceo
+F: Alabeo
+F: Barrena
+
+Q: Los Flaps de un avión son:
+D: 1
+F:  Alerones que desplegamos en los despegues.
+T: Elementos hipersustentadores situado en el borde de salida. 
+F: Adornos que se colocan en el fuselaje para que sea visto desde tierra.
+F: Dispositivos utilizados para el movimiento de Alabeo.
+
+Q: La parte delantera del ala de un avión se conoce como:
+D: 1
+F: Extradós.
+T: Borde de ataque. 
+F: Intradós.
+F: Cuerda.
+
+Q: Para realizar una Guiñada a la derecha hemos de girar:
+D: 1
+F: El timón de profundidad a la izquierda.
+F: El alerón derecho hacia abajo.
+F: El timón de profundidad a la derecha.
+T: El timón de dirección a la derecha.
+
+Q: Cuando bajamos la palanca del timón de profundidad, el avión:
+D: 1
+T: Baja el morro. 
+F: Sube el morro.
+F: Baja los Flaps.
+F: Sube los Slats.
+
+Q: La sustentación de una aeronave en el aire se produce por:
+D: 1
+F: Por el aumento de la velocidad del aire sobre el intradós.
+F: Debido a la curvatura del borde de salida.
+T: El aumento de la velocidad del aire sobre el extradós. 
+F: Debido a la curvatura del fuselaje del avión.
+
+Q: Los Slats de un avión son:
+D: 1
+T: Elementos hipersustentadores situados en el borde de ataque. 
+F: Adornos que se colocan en el fuselaje para que sea visto desde tierra.
+F: Dispositivos utilizados para el movimiento de Alabeo.
+F: Alerones que desplegamos en los despegues.
+Q: ¿A qué parte del avión llamamos Intradós y cómo se comporta en ella el aire?
+D: 1
+F: Parte superior del plano, donde la presión es menor.
+T: Parte inferior del plano, donde la presión es mayor. 
+F: Parte inferior del plano, donde la presión es menor.
+F: Parte superior del plano, donde la presión es mayor.
+
+Q: ¿Qué nombre recibe el ángulo que forma la cuerda con la dirección de la corriente libre de aire?
+D: 1
+F: Extradós.
+T: Ángulo de ataque. 
+F: Intradós.
+F: Borde de salida.
+
+Q: Uno de los motivos por los que un avión puede entrar en pérdida es:
+D: 1
+F: Por exceso de peso.
+F: Por exceso de velocidad.
+T: Por sobrepasar de ángulo de ataque crítico. 
+F: Por sobrepasar el ángulo de salida crítico.
+
+Q: En una aeronave, los spoilers:
+D: 1
+F: Rompen la corriente aerodinámica en el Extradós, disminuyendo la resistencia y aumentando la sustentación.
+F: Se utilizan únicamente para girar la aeronave.
+T: Rompen la corriente aerodinámica en el Extradós, aumentando la resistencia y disminuyendo la sustentación. 
+F: Son un tipo de hipersustentadores de los aviones turbohélice.
+
+Q: Las cuatro fuerzas que intervienen en un avión son:
+D: 1
+F: Peso, resistencia, aerodinámica y sustentación.
+F: Empuje, intensidad, gravedad y resistencia.
+T: Peso, resistencia, sustentación y empuje. 
+F: Empuje, sustentación, gravedad y resistencia.
+
+Q: Los movimientos del avión con respecto de su eje longitudinal se conocen como:
+D: 1
+T: Alabeo, Balanceo o Roll. 
+F: Cabeceo o Pich.
+F: Guiñada o Pitch.
+F: Guiñada o Yaw.
+
+Q: Según el Teorema de Bernoulli:
+D: 1
+T: Si la velocidad de una partícula de aire aumenta, su presión disminuye. 
+F: Si la presión de las partículas disminuye, su velocidad también disminuye.
+F: La presión y la velocidad de las partículas de aire no guardan ninguna relación entre si.
+F: Si la velocidad de una partícula de aire aumenta, su presión también aumenta.
+
+Q: ¿Qué superficie tiene una mayor curvatura?
+D: 1
+F: El Intradós del ala.
+F: El morro del avión.
+T: El Extradós del ala. 
+F: El timón de cola.
+
+Q: ¿A qué llamamos velocidad de pérdida?
+D: 1
+F: A la que se pone el avión al aterrizar.
+F: A la que hace que el avión pierde empuje.
+F: A la que aparece si perdemos uno de los motores.
+T: A la que hace que el avión pierda la sustentación.
+Q: El movimiento de Alabeo de un avión es controlado por:
+D: 1
+F: Los Flaps.
+F: Los Slats.
+F: Los spoilers.
+T: Los alerones
+
+Q: ¿A qué velocidad puede entrar en pérdida un avión?
+D: 1
+F: Por debajo de 1000 Km/h.
+F: A la de despegue.
+F: Cuando excede el límite máximo de velocidad.
+T: Puede entrar en pérdida a cualquier velocidad cuando se excede el ángulo de ataque crítico
+
+Q: Cuando un avión asciende en la atmósfera, la presión dentro de la cabina:
+D: 2
+F: Aumenta.
+T: Disminuye.
+F: No varía. 
+F: No tenemos datos suficientes.
+
+Q: Los mandos primarios de un avión son:
+D: 1
+F: Flaps y Slats.
+F: Spoilers y alerones.
+F: Estabilizadores horizontales, timón de profundidad y timón de dirección.
+T: Alerones, estabilizadores horizontales, timón de profundidad y timón de dirección
+
+Q: Para conseguir la estabilidad vertical de una aeronave se cuenta con el:
+D: 1
+F: Alerón.
+T: Timón de dirección. 
+F: Timón de profundidad.
+F: Spoiler.
+
+Q: La fuerza de sustentación es producida por:
+D: 1
+T: Cuando la velocidad en el extradós es mayor que en el intradós 
+F: Cuando la velocidad en el intradós es mayor que en extradós
+F: Por la forma alargada de las alas
+F: Por la potencia de los motores
+
+Q: El movimiento del avión alrededor de su eje lateral (Y) se llama:
+D: 2
+F: Guiñada.
+T: Cabeceo. 
+F: Alabeo.
+F: Barrena.
+
+Q: En un avión comercial de pasajeros ¿qué parte del ala tiene una mayor curvatura?
+D: 1
+F: El intradós, para acelerar las partículas de aire en esta superficie.
+F: El intradós, para decelerar las partículas de aire en esta superficie.
+T: El extradós, para acelerar las partículas de aire en esta superficie. 
+F: El extradós, para decelerar las partículas de aire en esta superficie.
+
+Q: Los SLATS son dispositivos:
+D: 1
+T: Hipersustentadores 
+F: De aceleración
+F: De frenado
+F: Que aumentan la curvatura del ala
+
+
+Q: El movimiento de un avión alrededor de su eje vertical se llama:
+D: 1:
+F: Balanceo/Roll.
+T: Guiñada/Yaw. 
+F: Alabeo/Roll.
+F: Cabeceo/Pitch.
+
+Q: ¿Dónde se encuentran los mandos de alabeo?
+D: 1
+F: En Ia cola
+T: En las alas 
+F: En los motores
+F: En el fuselaje
+
+Q: La parte inferior de un perfil aerodinámico se denomina
+D: 1
+F: Cuerda
+F: Ala
+F: Extradós
+T: Intradós
+
+Q: ¿Cuál de los siguientes elementos influye en la sustentación?
+D: 1
+F: Ángulo de salida y densidad.
+F: Ángulo de ataque, densidad y velocidad. 
+T: Ángulo de ataque, densidad y superficie de las alas.
+F: Ángulo de ataque, densidad, velocidad y peso del avión.
+
+Q: ¿A qué parte del avión llamamos EXTRADOS y cómo se comporta en ella el aire?
+D: 1
+T: Parte superior del plano, donde la presión es menor 
+F: Parte inferior del plano, donde la presión es mayor
+F: Parte inferior del plano, donde la presión es menor
+F: Parte superior del plano, donde la presión es mayor
+
+Q: En aeronáutica se conoce como elevación:
+D: 1
+F: Es lo mismo que altitud y altura
+F: A la altura a la que va un vuelo
+T: A la distancia entre el nivel del mar y en nivel terrestre 
+F: A la altitud que alcanza la aeronave
+
+Q: En un vuelo recto y nivelado, sin aceleración, las fuerzas que actúan sobre una aeronave están equilibradas y son:
+D: 1
+F: La sustentación igual al empuje.
+T: La sustentación igual al peso. 
+F: La resistencia igual al peso.
+F: La sustentación igual a la resistencia.
+
+Q: El movimiento de los Flaps de un avión es:
+D: 1
+F: Asimétrico.
+F: Asimétrico, según la voluntad del piloto.
+F: Automático.
+T:  Simétrico. 
+
+Q: Los movimientos del avión se realizan en torno a tres ejes, produciéndose tres tipos de movimientos en la aeronave, cuáles son dichos movimientos?:
+D: 1
+F: Horizontal, oblicuo, transversal.
+F: Guiñada, longitudinal, vertical.
+F: Avance, giro, estabilización.
+T: Guiñada, alabeo, cabeceo.
+
+Q: Para conseguir controlar el movimiento de Balanceo de una aeronave se cuenta con:
+D: 2
+T: Los alerones
+F: El timón de dirección 
+F: El timón de profundidad
+F: Los spoiler
+
+Q: La fuerza que es paralela y en sentido opuesto al movimiento recto y nivelado de un avión es:
+D: 1
+T: La resistencia
+F: El peso Incorrecta
+F: La sustentación
+F: El empuje
+
+Q: Para conseguir la estabilidad longitudinal de una aeronave se cuenta con el:
+D: 1
+T: Alerón
+F: Timón de dirección. 
+F: Timón de profundidad
+F:  Spoiler
+
+Q: ¿A qué llamamos envergadura del avión?
+D: 1
+T: Al ancho de una aeronave de un extremo a otro de las alas 
+F: Al largo total de una aeronave
+
+Q: El movimiento de Cabeceo se realiza sobre el eje:
+D: 1
+T: Transversal 
+F: Longitudinal
+F: Vertical
+F: Guiñada
+
+Q: La fuerza producida por la atracción gravitatoria de la tierra se conoce como:
+D: 1
+F: Potencia
+F: Empuje
+T: Peso 
+F: Reacción
+
+Q: De los siguientes dispositivos ¿cuáles son hipersustentadores?
+D: 1
+F: Cuerda y timón.
+F: Borde de ataque y borde de salida.
+F: Alerones y timón de cola.
+T: Flaps y Slats
+
+Q: Cuando la suma de todas las fuerzas en el centro de gravedad de una aeronave es cero, es que:
+D: 2
+F: La aeronave tiene movimientos de Alabeo ligeros
+F: Está volando a velocidad de crucero y a máxima altura 
+T: No existen movimientos de Cabeceo, Alabeo o Guiñada
+F: Solo tiene movimientos de Guiñada esporádicos
+
+Q: ¿Qué explica el teorema de Bernoulli acerca de la presión y la velocidad?
+D: 1
+F: Si disminuye la presión, disminuye la velocidad
+F: Si aumenta la densidad, disminuye la presión
+F: Si aumenta la presión, aumenta la velocidad
+T: Si disminuye la presión, aumenta la velocidad
+
+
+
+Q: El movimiento de los alerones de un avión se caracteriza por que:
+D: 1
+T: Cuando uno sube el otro baja. 
+F: Su manejo es automático.
+F: Solo se mueven hacia fuera.
+F: Solo se mueven adentro.
+
+Q: Los compensadores del avión sirven para:
+D: 1
+T: Aliviar tensiones y así poder ayudar al piloto.
+F: Bajar el tren de aterrizaje
+F: Subir el tren de aterrizaje
+F: Estabilizar la nave 
+
+Q: ¿Cómo se denomina al ángulo formado por la dirección del eje longitudinal del avión y Ia dirección de su desplazamiento real sobre el terreno por causa del viento?
+D: 1
+F: Ángulo de Mach
+F: Trayectoria
+F: Rumbo
+T: Deriva 
+
+Q: En aviación llamamos ruta:
+D: 1
+F: Al ángulo que forma el Ecuador con respecto al meridiano magnético.
+F: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo Norte.
+T: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al meridiano geográfico. 
+F: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo Sur.
+
+Q: Si en el Meridiano 0 (Greenwich) son las 17.30h. ¿qué hora es a 40º Este? 
+D: 2
+F: Las 14.30h.
+T: Las 20.30h.
+F: Las 21.15h.
+F: La misma hora.
+
+Q: Podemos decir que la temperatura en la Tierra:
+D: 1
+F: Varía solo con la altitud y el lugar geográfico.
+F: Varía solo con la altitud y la época del año.
+T: Varía según la altitud y época del año.
+F: Varía solo según la zona geográfica.
+
+Q: ¿A qué parámetro asociarías las siglas NM?
+D: 1
+T: Distancia. 
+F: Velocidad.
+F: Altura.
+F: Peso.
+
+Q: La intensidad del viento en avión se expresa en:
+D: 1
+T: Nudos. 
+F: Millas náuticas.
+F: Kilómetros.
+F: Millas/h.
+
+Q: En las operaciones aéreas al referirnos a distancia lo hacemos en:
+D: 1
+F: Nudos.
+T: Millas náuticas. 
+F: Kilómetros.
+F: Depende del país.
+Q: El meridiano considerado como origen es:
+D: 1
+F: El Ecuador.
+F: El Trópico de Cáncer.
+T: El Meridiano de Greenwich. 
+F: El trópico de Capricornio.
+
+Q: El número Mach se refiere a:
+D: 1
+F: La velocidad a la que un avión vuela con respecto a la velocidad de la luz.
+F: La velocidad a la que va el sonido con respecto a la velocidad de un avión a reacción.
+T: La velocidad a la que un avión vuela con respecto a la velocidad del sonido. 
+F: El número Mach no tiene nada que ver con los aviones.
+
+Q: Los fenómenos que actúan sobre el ala de un avión se basan en dos principios:
+D: 1
+T: Teorema de Bernoulli y Efecto Venturi. 
+F: Efecto de Bernoulli y Teorema de Venturi.
+F: Ley de Boyle-Mariotte y Ley de Henry.
+F: Efecto Venturi y Efecto Mariposa.
+
+Q: Definición de ALTITUD:
+D: 1
+F: Distancia entre el avión y la superficie terrestre
+T: Distancia entre el avión y el nivel del mar 
+F: Altura entre dos puntos
+F: Distancia entre el mar y un punto en la superficie terrestre
+
+Q: ¿A cuánto equivale una milla náutica?
+D: 1
+T: 1852m 
+F: 1609m
+F: 3.3km
+F: 1000m
+
+Q: Si hablamos de hora “z”. Cuando en Madrid, son las 06:30z, en Nueva York son las:
+D: 1
+F: Las 18:30z.
+F: Las 13:30z.
+F: Las 09:30z.
+T: Las 06:30z.
+
+Q: Los extremos del eje terrestre se denominan: 
+D: 1
+F: Longitud y latitud 
+T: Polos
+F: Meridianos
+F: Paralelos
+
+Q: El círculo más grande de los que se pueden distinguir sobre la superficie terrestre es el:
+D: 1
+F: Meridiano de Greenwich 
+F: Paralelo
+T: Ecuador
+F: Trópico de Cáncer
+
+Q: La TIERRA gira:
+D: 1
+T: De Oeste a Este
+F: De Nordeste a Suroeste
+F: De Este a Oeste 
+F: De Noroeste a Suroeste
+
+
+Q: En el planeta Tierra tenemos:
+D: 1
+F: 365 husos horarios.
+T: 24 husos horarios. 
+F: Los meridianos marcan la latitud.
+F: Los paralelos marcan la longitud.
+
+Q: Los rumbos y las rutas:
+D: 2
+F: Se denominan por tres cifras de 000º hasta 180º.
+T: Se denominan por tres cifras de 000º hasta 359º.
+F: Se denominan con dos cifras de 00º a 24º Norte o Sur.
+F: No son lo mismo por lo que cada una se denomina de una manera.
+
+Q: Las coordenadas de latitud se miden respecto a qué punto:
+D: 1
+F: Polo Norte.
+T: Ecuador. 
+F: Meridiano de Greenwich.
+F: Polo Sur.
+
+Q: El movimiento de traslación de la tierra es el giro que tiene esta:
+D: 1
+F: Sobre su propio eje, con una duración de 365 días. 
+F: Alrededor de la luna con una duración de 24 horas y cuarto.
+F: Alrededor del sol con una duración de 24 horas.
+T: Alrededor del sol con una duración de 365 días y un cuarto.
+
+Q: Los Polos Magnéticos:
+D: 1
+F: Coinciden con los Polos Geográficos. Incorrecta
+F: No existen los Polos Magnéticos.
+T: No coinciden con los Polos Geográficos.
+F: Solo es magnético el Polo norte por su situación.
+
+Q: La extensión UTC, empleada como referencia de tiempo en la navegación aérea, se refiere a:
+D: 1
+F: Huso horario. 
+F: Huso local.
+T: Hora universal coordenada.
+F: Diferencia horaria.
+
+Q: Los meridianos son:
+D: 1
+T: Los semicírculos máximos que forman planos perpendiculares al Ecuador. 
+F: Los semicírculos cuyo radio es máximo en los Polos.
+F: Los círculos mayores que dividen a la tierra en parte iguales.
+F: Los semicírculos máximos que forman planos paralelos al Ecuador.
+
+Q: Según los Polos Geográficos, el Polo Sur es aquel desde el cual:
+D: 2
+F: Se termina la Tierra por el Norte.
+F: Veríamos girar a la Tierra en sentido opuesto a las agujas del reloj. 
+T: Veríamos girar a la Tierra en el mismo sentido que las agujas del reloj.
+F: Es donde terminan todos los paralelos.
+
+Q: Cada huso horario tiene:
+D: 1
+T: 15º de longitud
+F: 15º de latitud
+F: 1 día de diferencia con el de su derecha
+F: 180º de inclinación con respecto de su meridiano
+
+Q: ¿Qué longitud tendrá un punto situado en Ia superficie terrestre en el meridiano opuesto a Greenwich?
+D: 1
+F: 0º
+T: 180º 
+F: 90º W
+F: 90º E
+
+Q: La forma de la TIERRA es:
+D: 1 
+F: Completamente redonda 
+F: Redonda o achatada según la estación del año
+T: Irregular y achatada por los polos
+F: Irregular y achatada por el ecuador
+
+Q: ¿Cuál de los siguientes elementos se considera una superficie de mando de vuelo?
+D: 1
+F: Empenaje de cola
+T: Timón de profundidad
+F: Encastre del ala 
+F: tubo de pitot
+
+Q: La latitud se mide en grados, minutos y segundos y será siempre:
+D: 1
+T: Norte y Sur
+F: Positiva o negativa Incorrecta
+F: Puede ser Norte/Sur o Este/Oeste
+F: Este y Oeste
+
+Q: ¿Cuál es el elemento primordial y necesario para la navegación aérea?
+D: 1
+T: La brújula
+F: El ordenador de navegación o FMC 
+F: El FMS (Flight Management System)
+F: El ILS (Instrumental Landing System)
+
+Q: ¿Cuál de estos sistemas ayuda al aterrizaje cuando las condiciones meteorológicas son adversas?
+D: 1
+F: ADF
+F: RADAR
+T: ILS 
+F: GPS
+
+Q: Cuando un avión se encuentra en una situación de emergencia, lo comunicará por radio diciendo:
+D: 1
+F: Atención Torre de Control, tenemos una emergencia y necesitamos prioridad para aterrizar. 
+F: S.O.S. repetido tres veces, seguido del tipo de emergencia, tipo de avión, número de pasajeros a bordo, etc.
+F: HELP repetido tres veces, seguido del tipo de emergencia, tipo de avión, numero de pasajeros a bordo, etc.
+T: MAYDAY repetido tres veces, seguido del tipo de emergencia, tipo de avión, numero de pasajeros a bordo, etc.
+
+Q: ¿Cuál es la capa de la atmósfera donde se producen más fenómenos atmosféricos?
+D: 1
+F: La Ozonosfera.
+T: La Troposfera.
+F: La Ionosfera.
+F: La Termosfera.
+
+Q: La fuerza desviadora del viento debida a la rotación de la tierra se llama:
+D: 2
+F: Fuerza de rotación.
+T: Fuerza de Coriolis.
+F: Fuerza centrífuga.
+F: Fuerza de Venturi.
+
+Q: La actividad de una tormenta es máxima, con lluvia o granizo y truenos, en su etapa:
+D: 1
+F: Inicial.
+T: De madurez.
+F: De actividad máxima.
+F: De disipación.
+
+Q: El engelamiento es un fenómeno que se caracteriza por:
+D: 1
+F: Congelación de gotas de agua en la atmósfera que caen en forma de granizo.
+F: Frío a grandes alturas.
+T: Congelación de gotas de agua en las superficies del avión, tanto en tierra como en vuelo.
+F: Producción de hielo para la refrigeración de los motores del avión.
+
+Q: ¿Qué tipo de nube asociamos generalmente a la tormenta?
+D: 1
+F: Nimbostratos
+F: Cirrostratos
+F: Estratocúmulos
+T: Cumulonimbos
+
+Q: La temperatura de punto de rocío:
+D: 2
+F: La temperatura a la que sería posible la formación de nieblas si añadiéramos más vapor de agua.
+F: La temperatura a la que se condensaría una masa de aire que en contacto con el mar se desplaza horizontalmente.
+T: La temperatura a la que deberíamos enfriar una masa de aire para que se condensara sin añadir más vapor de agua.
+F: La temperatura a la que aparece el rocío durante las primeras horas de la mañana debido a una escasa cantidad de vapor de agua en el ambiente.
+
+Q: El engelamiento de una aeronave puede generar:
+D: 1
+T: Pérdida de potencia en los motores y disminución de la sustentación
+F: No es una circunstancia a tener en cuenta
+F: Incomodidad para los pasajeros por un descenso de la temperatura en cabina
+F: Hipoxia
+
+Q: ¿Qué es un METAR?
+D: 1
+T: Es un informe meteorológico aeronáutico que nos proporciona de forma actualizada la meteorología reinante en un aeropuerto determinado en un momento dado
+F: Es un informe de mantenimiento sobre el estado del avión tras una revisión
+F: Es un informe que señala la futura previsión meteorológica en el área de un aeropuerto determinado durante un periodo de tiempo especifico
+F: Es el error en las indicaciones de la brújula producido por los disturbios eléctricos.
+
+Q: ¿Qué es una nube?
+D: 1
+T: Es una masa de aire húmeda que se ha condensado 
+F: Es una masa de agua no condensada
+F: Es una masa de aire seca que se ha condensado
+F: Es una masa de aire seco no condensado.
+
+Q: A qué nos referimos cuando hablamos de cizalladura (WINDSHEAR) ?
+D: 1
+F: A un equipo del avión para apertura de lugares inaccesibles.
+F: A una variante del plano inclinado de un paralelo con el ecuador.
+T: Un cambio brusco y repentino de la dirección e intensidad del viento, tanto en el piano horizontal como en el vertical.
+F: A aquella turbulencia que se produce en la atm6sfera sin estar asociada a nubes convectivas.
+Q: La capa de la atmosfera donde normalmente tienen lugar los fenómenos meteorológicos es:
+D: 1
+F: Estratosfera.
+T: Troposfera
+F: Tropopausa
+F: Mesosfera
+
+Q: En un avión comercial, para evitar el deslizamiento sobre la pista en el aterrizaje se usa el sistema:
+D: 1
+F: ABS
+F: Slide-off
+T: Anti-Skid
+F: Echar sal en la pista
+
+Q: ¿Qué es el TAFOR?
+D: 1
+F: Un tipo de comunicador con tierra
+F: Un tipo de turbulencia
+F: Un  informe meteorológico de un aeródromo a una hora determinada
+T: Un  informe meteorológico que señala la previsión o pronóstico
+
+Q: ¿Cuál de las siguientes nubes se considera de tipo convectivo?
+D: 2
+F: Cirros
+F: Estratos
+T: Cúmulos
+F: Niebla
+
+Q: Las líneas que unen puntos de igual temperatura se llaman:
+D: 1
+F: Isofónicas.
+F: Isóteras.
+F: Isobaras.
+T: Isotermas.
+
+Q: Los gases que se enumeran a continuación son los principales componentes de la atmósfera, ¿cuál es el más abundante?
+D: 1
+F: Helio.
+F: Argón.
+F: Oxígeno.
+T: Nitrógeno.
+
+Q: Las nubes de tipo convectivo generan:
+D: 1
+F: Tornados.
+T: Tormentas.
+F: Ciclones.
+F: Anticiclones.
+
+Q: El gas más importante para la meteorología es:
+D: 2
+F: Nitrógeno
+F: Hidrógeno
+F: Dióxido de carbono
+T: Vapor de agua
+
+Q: La nube considerada como la más peligrosa para los vuelos es:
+D: 2
+F: CU
+F: NB
+T: CB
+F: ST
+
+Q: Las variables principales de la atmósfera son:
+D: 1
+T: Temperatura, presión y densidad
+F: Presión, densidad y volumen
+F: Temperatura, humedad y densidad
+F: Temperatura, humedad y presión
+
+Q: ¿Qué condiciones han de darse en la atmósfera para que forme se forme una tormenta?
+D: 1
+F: Alta humedad y baja presión.
+F: Alta humedad con estabilidad
+F: Alta humedad y alta presión
+T: Alta humedad e inestabilidad
+
+¿Cómo se llama Ia capa de la atmosfera en la que transcurren normalmente los vuelos comerciales?
+D: 1
+F: Estratosfera
+F: Tropopausa
+T: Troposfera
+F: Mesosfera
+
+Q: ¿Dónde se sitúa Ia ozonosfera?
+D: 1
+F: La troposfera
+T: La estratosfera
+F: La termosfera 
+F: La ionosfera
