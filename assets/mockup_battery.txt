@@ -171,7 +171,7 @@ F: Chaleco salvavidas
 F: Baterías de repuesto
 F: Rizador de pelo
 
-Q:¿Está permitido el transporte de un encendedor personal?
+Q: ¿Está permitido el transporte de un encendedor personal?
 D: 1
 F: Sí
 T: Sí, siempre y cuando el combustible líquido esté absorbido por un sólido 
@@ -199,7 +199,7 @@ F: De clase 1
 T: Cuyo transporte por vía aérea está permitido a los pasajeros para la conservación de productos perecederos hasta un máximo de 2,5 kg 
 F: Los pasajeros no pueden transportar hielo seco
 
-Q:¿Dónde deben ir alojadas las municiones para uso deportivo?
+Q: ¿Dónde deben ir alojadas las municiones para uso deportivo?
 D: 2
 F: No se puede transportar ninguna clase de munición.
 T: Deben ir colocadas en el equipaje facturado, sujetas a las limitaciones preceptivas. 
@@ -455,7 +455,7 @@ F: Corrosivo
 F: Venenoso
 F: Metálico
 
-Q:¿De qué tamaño suelen ser las etiquetas?
+Q: ¿De qué tamaño suelen ser las etiquetas?
 D: 1
 F: 1000x1000 mm
 F: 500 x 500 mm
