@@ -1,5 +1,40 @@
 S: MERCANCIAS PELIGROSAS
 
+Q: ¿De qué color son las etiquetas de la clase 1?
+F: Blanca
+F: Rojo
+T: Naranja
+F: Verde
+
+Q: Las etiquetas de manipulación llevan en su interior:
+D: 1
+F: Solo se permiten dibujos
+F: Solo llevan textos en inglés
+F: Están prohibidas letras y dibujos: solo llevan colores diferentes y flechas 
+T: Pueden ser de diferentes colores, con letras, textos, dibujos…
+
+Q: Los “rizadores eléctricos que contengan gas hidrocarburo” están permitidos a bordo si solo se lleva uno por pasajero:
+D: 1
+T: Sí, como equipaje de mano y facturado
+F: La cantidad depende de la compañía
+F: Siempre tiene que autorizarlo el comandante 
+F: No, no tienen ninguna limitación
+
+Q: Las dimensiones de las etiquetas de manipulación CAO son: 
+D: 2
+F: 120x110 cm
+F: 1,2x1,1 cm 
+T: 12x11 cm
+F: 120x120 cm
+
+
+Q: En caso de que un pasajero quiera llevar un arma deportiva a bordo debe:
+D: 1
+F: No puede transportarla en una aeronave bajo ningún concepto.
+F: Sólo se pueden transportar a bordo rifles de fogueo o de aire comprimido debido a su baja peligrosidad.
+F: Advertir a la tripulación cuando embarque de tal circunstancia.
+T: Facturarla siempre etiquetada y marcada (ZZ).
+
 Q: ¿Qué es el Air Waybill?
 D: 2
 T: Documento que acredita el Contrato De Transporte Aéreo de una mercancía
@@ -540,6 +575,102 @@ F: Peligrosos y mortales.
 F: Tipo A, B y C.
 
 S: ONE
+
+Q: Q: Según normativa, el número mínimo de botiquines de primeros auxilios a bordo será de:
+D: 1
+F: 3 para aviones de 100-199 asientos
+F: 5 para aviones de 300 o más asientos
+F: 2 para cualquier capacidad de avión
+T: 3 para aviones de 200-299 asientos
+
+Q: ¿Qué edad mínima deben tener los niños para que puedan viajar solos (UM)?
+D: 1
+F: 2 años
+T: 5 años 
+F: 8 años 
+T: 6 años 
+
+Q: Sillas de ruedas, señale la afirmación correcta:
+D: 1
+T: WCHC (cabin), pasajeros privados de movilidad y no autosuficientes, deben ser acompañados a su asiento 
+F: WCHR (ramp), pasajeros privados de movilidad y no autosuficientes, deben ser acompañados a su asiento 
+F: WCHS (stair), pasajeros privados de movilidad y no autosuficientes, deben ser acompañados a su asiento 
+F: WCCH (cabin), pasajeros privados de movilidad y no autosuficientes, deben ser acompañados a su asiento 
+
+Q: ¿En qué caso podemos utilizar líquidos no inflamables para enfriar un fuego y prevenir su reignición?
+D: 1
+T: Si el combustible es sólido 
+F: Si el combustible es líquido 
+F: Si el combustible es eléctrico 
+F: Si el combustible es metálico 
+ 
+Q: De qué manera se activan los extintores de los lavabos:
+D: 1
+F: Al activarse el detector automático de humo de cada lavabo 
+T: Al fundirse la protección de las boquillas de descarga 
+F: Mediante un disparador situado en la cabina de mando 
+F: Mediante un disparador situado en el galley más próximo 
+
+Q: Qué maniobra se debe realizar en caso de que un pasajero sufra una obstrucción total de la vía aérea?
+D: 1
+F: La maniobra de Valsalva 
+F: Comprobar si respira y tiene pulso 
+T: 5 golpes secos inter-escapulares y si no se resuelve, maniobra de Heimlich 
+F: Colocar al pasajero en posición lateral de seguridad 
+
+Q: Las partes de una rampa de evacuación en una puerta son:
+T: Barra de sujeción, válvula Venturi, tirador de inflado y tirador de separación 
+F: Válvula Venturi, tirador de inflado y barra de separación 
+F: Tirador de inflado, tirador de apertura y tirador de separación 
+F: Válvula Venturi, tirador de inflado, barra de separación y tirador de apertura 
+
+Q: ¿A qué fase corresponde según los códigos del SAR la fase de “peligro”?
+D: 2
+F: Pelifa
+F: Alerfa
+T: Destrefa
+F: Incerfa
+
+Q: El llamado “triángulo de fuego” está compuesto por tres elementos:
+D: 1
+F: Oxígeno, aire y calor
+F: Aire, material inflamable y oxígeno
+F: Calor, temperatura y llama
+T: Oxígeno, calor y material inflamable/ combustible
+
+Q: El humo blanco (sin olor) procedente del aire acondicionado ¿es peligroso?
+D: 1
+F: El humo a bordo siempre es peligroso
+F: El humo nunca es blanco
+T: Es humo/ vapor de agua no peligroso procedente de la condensación del circuito del aire
+F: Siempre lo pondremos en conocimiento de mantenimiento
+
+Q: Durante la carga de combustible en el embarque, desembarque o permanencia a bordo de los pasajeros:
+D: 1
+F: Se encenderán los letreros de “Abróchense los cinturones” y “No fumar”
+F: Se encenderán los letreros de “Abróchense los cinturones”
+F: No debe haber encendida ninguna luz por peligro de explosión
+T: Deberá mantenerse despejada en tierra la zona situada debajo de las salidas previstas para la evacuación de emergencia y el despliegue de rampas
+
+Q: ¿Cómo puede comprobar un TCP que la rampa de su salida de emergencia asignada está operativa antes de un vuelo?
+D: 1
+T: A través del visor que nos permite comprobar la presión de la rampa
+F: La comprobación de rampas las realiza el personal de mantenimiento al cargo
+F: A través del panel FAP (Forward Attendant Panel)
+F: Armando y desarmando la rampa con la puerta abierta
+
+Q: En un amaraje, ¿cuál es la mayor amenaza para la integridad de una balsa en las proximidades del avión? 
+D: 1
+T: Las partes metálicas desgarradas del avión
+F: El fuerte viento
+F: El estado de la mar
+F: La succión hacia la zona de los motores
+Q: Durante el vuelo y siempre que la señal de “abróchense los cinturones” esté apagada, los TCPs podrán autorizar el uso de aparatos electrónicos que no interfieran con el instrumental de cabina de mando, como, por ejemplo:
+D: 1
+F: Teléfonos móviles
+F: Juguetes dirigidos por radio control
+F: Walkie-talkies
+T: Reproductores MP3
 
 Q: ¿Qué debemos hacer en caso de fuego en la ropa de un pasajero?
 D: 1 
@@ -2444,6 +2575,13 @@ F: Dos intermitentes.
 
 S: SECURITY
 
+Q: ¿Qué es la zona restringida de seguridad en un aeropuerto?
+D: 1
+F: Zona de acceso a personal autorizado sin medidas de seguridad.
+F: Zona de acceso abierto a todos.
+T: Zona de acceso a pasajeros y personal autorizado con medidas de seguridad. 
+F: Zona de acceso a pasajeros y personal autorizado con medidas de seguridad más estrictas.
+
 Q: El Doc.30 del CEAC...
 D: 1
 F: Regula las Mercancías Peligrosas
@@ -2739,6 +2877,40 @@ F: Aviation Safety.
 
 
 S: NOR
+
+Q: En un Airbus 320 configurado con 220 asientos de pasajeros, el número de TCPs mínimo requerido será de:
+D: 1
+F: 4
+T: 5
+F: 6
+F: 8
+Q: ¿Qué significan las siglas CEAC?
+F: Comunidad Española de Aviación Comunitaria.
+F: Comisión Española de Aviación Civil.
+F: Comisión Europea de Aviación Civil.
+T: Conferencia Europea de Aviación Civil.
+
+Q: El Convenio sobre Aviación Civil Internacional consta de:
+D: 1
+F: 15 anexos 
+T: 19 anexos 
+F: 16 anexos 
+F: 21 anexos 
+
+Q: Las verificaciones por parte del operador, según la normativa europea, se deben realizar:
+D: 2
+F: Con el entrenamiento inicial y el periódico
+F: Con el entrenamiento inicial, el de conversión/diferencias y los vuelos de familiarización
+F: Con el entrenamiento inicial, el de conversión/diferencias, el periódico y el de refresco 
+T: Con el entrenamiento de conversión/diferencias, el periódico y el de refresco
+
+Q: ¿Cuál es el órgano asesor de la OACI?
+D: 2
+F: Las asambleas
+F: El Consejo General del Poder Judicial 
+T: Las Comisiones Técnicas
+F: Los estatutos aeronáuticos
+
 
 Q: Las cuantías de las indemnizaciones por daños a personas y cosas de forma accidental se estableció en el:
 D: 2
@@ -3392,7 +3564,35 @@ T: Actividad partida/ Split Duty
 F: Actividad extendida programada
 F: Descanso aeroportuario
 F: Ninguna es correcta
+
 S: MEDICINA
+
+Q: Un pasajero de 55 años con una tensión habitual de 190/100 mmHg es una persona:
+D: 1
+F: Normotensa
+T: Hipertensa
+F: Hipotensa
+F: Con riesgo inminente de padecer un ICTUS
+ 
+Q: Ante una mujer que se pone de parto a bordo del avión, el TCP ha de:
+T: Mantener la calma y preparar una zona tranquila
+F: Avisar a su marido y/o madre
+F: Pedir un sacerdote a bordo para el bautizo
+F:  Mejor no hacer nada, por si hay complicaciones
+
+Q: Las primeras manifestaciones del Jet-Lag son de tipo:
+D: 1
+T: Psico-intelectual (cambios de humor, lentitud de reflejos…)
+D: Hormonal (cambios en la menstruación, caída del pelo…)
+D: Gastrointestinal (náuseas, diarrea, gases…)
+D: Cardiovascular (lipotimia, hipertensión…)
+
+Q: En la RCP a los niños:
+D: 1
+F: Se realizarán 2 insuflaciones de rescate y luego el masaje cardiaco 30:5
+F: Realizaremos el masaje cardiaco con 2 brazos, moderando la fuerza
+T: Se realizarán antes 5 insuflaciones cortas de rescate y el masaje se realizará con 1 brazo
+F: Los niños son difíciles de reanimar, por lo que pediremos ayuda a un sanitario
 
 Q: ¿Cuál es la célula básica del sistema nervioso?
 D: 1
@@ -4207,6 +4407,37 @@ F: No hay forma de prevenirla
 
 
 S: CTG
+
+Q: Las hojas de carga y centrado del avión nos proporcionan…
+D: 1
+F: El mejor perfil alar 
+T: El centro de gravedad más óptimo 
+F: Una menor pérdida de sustentación 
+F: La mejor distribución de la carga en las bodegas 
+
+Q: ¿Cómo se llama la línea imaginaria que atraviesa la tierra de polo a polo, alrededor de la cual se realiza un movimiento?
+D: 1
+F: Ecuador 
+T: Eje 
+F: Paralelo 
+F: Eclíptica 
+
+
+Q: El instrumento que marca la velocidad aerodinámica del avión es:
+D: 1
+F: El GPS aeronáutico
+F: El variómetro
+F: El velocímetro
+T: El anemómetro
+
+Q: En aviación llamamos ruta:
+D: 1
+F: Al ángulo que forma el Ecuador con respecto al meridiano magnético
+F: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo norte
+T: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al meridiano geográfico
+F: Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo sur
+
+
 
 Q: ¿A qué sistema de la aeronave pertenece la válvula Crossfeed?
 D: 2
@@ -5183,3 +5414,339 @@ F: La troposfera
 T: La estratosfera
 F: La termosfera 
 F: La ionosfera
+
+Q: Cuando se quiere estudiar las condiciones de “tiempo atmosférico” de un lugar geográfico determinado se debe acudir a la:
+D: 1
+F: Geografía descriptiva
+T: Meteorología 
+F: Climatología
+F: Geografía física
+
+Q: La hora local en el meridiano 0 (Greenwich) corresponde a las 17:30, ¿qué hora es a 30 grados este?
+D: 1
+F: 17:30
+T: 19:30 
+F: 15:30
+F: 18:30
+
+Q: A medida que el avión asciende en la atmosfera, la presión en el interior de la cabina:
+D: 1
+F: Aumenta
+T: Primero disminuye y luego se mantiene igual 
+F: Se mantiene igual
+F: No podemos saberlo
+
+Q: ¿Cuál de las siguientes frases es falsa?
+D: 1
+F: Los paralelos son perpendiculares a los meridianos.
+F: Los paralelos son paralelos al ecuador. 
+T: Los paralelos son perpendiculares al ecuador.
+F: Por cualquier punto de la superficie terrestre pasa un paralelo.
+
+Q: Un valor de presión de cabina correcto, es decir, no estresante ni para el fuselaje del avión y saludable para los PAX se puede considerar:
+D: 2
+F: 2000 metros.
+F: El nivel del mar.
+T: Más de 5000ft y menos de 8000ft 
+F: El nivel del aeropuerto de salida.
+
+Q: ¿Cuál es la función primaria de los motores o planta de potencia del avión?
+D: 1
+F: Suministrar energía eléctrica.
+F: Suministrar aire acondicionado.
+T: Proporcionar al avión la propulsión necesaria para realizar el vuelo. 
+F: Ninguna de las anteriores.
+
+Q: Para saber a qué velocidad se mueve un avión se utiliza (dónde se mide)
+D: 1
+F: Barómetro
+F: R.P.M. del motor.
+F: En el morro del avión 
+T: Tubo de pitot
+
+Q: El altímetro convencional es realmente un:
+D: 1
+T: Barómetro 
+F: Anemometro
+F: Termometro
+F: Radioaltímetro
+
+Q: El operador no explotará un avión con alturas de las salidas de emergencia de pasajeros:
+D: 1
+F: Situadas a más de 1,93 metros (6,5 pies) por encima del suelo, cuando el avión está en tierra y el tren de aterrizaje está desplegado.
+F: Situadas a más de 1,73 metros (6 pies) por encima del suelo, cuando el avión está en tierra y el tren de aterrizaje está desplegado.
+T: Situadas a más de 1,83 metros (6 pies) por encima del suelo, cuando el avión está en tierra y el tren de aterrizaje está desplegado. 
+F: Situadas a más de 2,03 metros (6,5 pies) por encima del suelo, cuando el avión está en tierra y el tren de aterrizaje está desplegado.
+
+Q: Los motores de avión se clasifican en:
+D: 2
+F: Propulsores y retro propulsores.
+F: Inyectores y compensadores,
+T: Convencional y a reacción. 
+F: Comprensores y expulsores.
+
+Q: El movimiento del avión de su eje vertical se llama:
+D: 1
+F: Alabeo
+F: Cabeceo
+T: Guiñada 
+F: Barrena
+
+Q: Si son las 12:45 horas (hora local) en Madrid en horario de verano (UTC+2), ¿Qué hora será en Lima (UTC-5)?
+D: 1
+F: 19:45 horas
+F: 09:45 horas
+F: 07:45 horas.
+T: 05:45 horas 
+
+Q: Definición de ALTITUD...:
+D: 1
+F: "... Distancia entre el avión y la superficie terrestre".
+T: "... Distancia entre el avión y el nivel del mar". 
+F: "... Altura entre dos puntos".
+F: "... Distancia entre el mar y un punto en la superficie terrestre".
+
+
+Q: Según EU-OPS, la estiba adecuada del equipaje de mano en cabina de pasajeros deberá realizarse de la siguiente manera:
+D: 1
+F: Pueden rebasarse limitaciones de masa que se indican en el rótulo de los compartimentos siempre que quepan en los compartimentos.
+T: No deberá colocarse equipaje debajo de los asientos, a menos que el asiento esté equipado con una barra de contención y las dimensiones del equipaje permitan que dicha barra lo retenga.
+F: El equipaje de mano se colocará en cualquier lugar, incluso si impiden el acceso a los equipos de emergencia.
+F: Los equipajes con líquidos deberán ponerse en los lavabos.
+
+Q: La hoja de Carga y Centrado es un documento oficial que se confecciona en cada vuelo para la correcta carga y centrado y distribución de los mismos:
+D: 1
+F: La definición de arriba no es correcta porque corresponde a la definición de Declaración General.
+F: Solo hace referencia los pesos del avión en vacío y sin carga.
+T: Verdadero.
+F: Falso.
+
+Q: ¿Qué función tiene un variómetro?
+D: 1
+F: Calcula variaciones en la velocidad horizontal.
+F: Informa velocidad de consumo de combustible.
+T: Calcula el régimen de ascenso y descenso del avión. 
+F: Informa cambios temperatura en el exterior del avión.
+
+Q: Cuando en relación con la actividad aeronáutica y el vuelo de las aeronaves, VOR es:
+D: 1
+F: Señal de socorro.
+T: Una ayuda terrestre a la navegación aérea. 
+F: Un sistema de alerta para casos de emergencia.
+F: Es la sigla Operativa de la CÍA del avión.
+
+Q: ¿Qué elemento mantiene la estabilidad entre los ejes horizontales, lateral y vertical en un viraje?
+D: 2
+F: Spoiler.
+T: Timón de dirección.
+F: Timón de profunidad.
+F: Alerón. 
+
+Q: El lugar del aeropuerto en el que se detienen las aeronaves para carga y descarga se denomina:
+D: 1
+T: Rampa. 
+F: Punto de espera.
+F: Rodadura.
+F: Pista de vuelo.
+
+Q: El interfono de la cabina de pasajeros se incluyen en uno de los sistemas del avión ¿Cuál?
+D: 1
+T: Sistema comunicaciones. 
+F: Sistema relaciones con el PAX.
+F: Sistema alarma.
+F: Sistema seguridad.
+
+Q: Si comunicándonos con una estación aeronáutica utilizo la expresión “victor, oscar, romeo” ¿qué estoy diciendo?
+D: 1
+F: Identificador avión.
+T: VOR (ayuda navegación).
+F: Hora.
+F: Necesitamos ayuda.
+
+Q: La dirección del eje longitudinal del avión con respecto al norte geográfico se denomina:
+D: 1
+F: Deriva.
+F: Rumbo verdadero. 
+T: Rumbo.
+F: Curso real.
+
+Q: La siguiente definición, ¿a qué luces corresponden? “Tienen por objeto indicar la trayectoria relativa del avión y deben estar encendidas entre la puesta y salida del Sol. Es una luz roja en la ala izquierda y una verde a la derecha con una blanca en la parte trasera del fuselaje”.
+D: 1
+F: Luz de aterrizaje.
+F: Luz anticolisión.
+T: Luz de navegación. 
+F: Luz estroboscópicas.
+
+Q: ¿Cómo se comporta la presión atmosférica con el incremento de la altura?
+D: 1
+F: Aumenta
+T: Disminuye 
+F: No se puede predecir
+F: No varía
+
+Q: La pata de morro de un tren de aterrizaje de un avión comercial es:
+D: 1
+F: Fija
+T: Retráctil 
+F: Fija sólo en vuelo
+F: Mayores dimensiones que las del tren principal
+
+Q: El sistema de un avión cuya finalidad es obtener aire a presión se denomina:
+D: 2
+F: Sistema hidráulico 
+F: Sistema neumático 
+T: Sistema de presurización.
+F: Sistema de aire acondicionado
+
+Q: La zona habitable de la atmósfera sin utilizar oxígeno artificial está comprendida entre el nivel del mar y:
+D: 1
+F: 14.000 ft
+F: 8.000 ft
+F: 10.000 m 
+T: 10.000 ft
+
+Q: La presión general de una manómetro convencional de la rampa de un avión es cuando la aguja del mismo señala:
+D: 1
+F: Zona verde
+F: Entre 2800 y 3200 psi
+F: Entre 1500 y 3000 psi
+T: Respuestas a y b son correctas
+
+Q: ¿Cuándo ha de llevar un avión equipos especiales para la supervivencia en el agua, como balsas salvavidas?
+D: 1
+F: Cuando se aparta de tierra 120 minutos a velocidad de crucero.
+F: Siempre
+T: Cuando se aparta de tierra 120 minutos a velocidad de crucero o 400 millas. 
+F: Cuando sobrevuele una superficie de agua.
+
+Q: ¿Cuál de las siguientes afirmaciones es la correcta?
+D: 1
+F: Batería transforma corriente AC en DC.
+T: Los generadores son una fuente de energía usadas en condicionones normales. 
+F: Los breakers (fusibles eléctricos) son dispositivos utilizados para una distribución correcta de la energía eléctrica.
+F: Batería es una fuente de energía usada en situaciones de emergencia.
+
+Q: Normalmente, el sistema hidráulico actúa, entre otros, sobre:
+D: 1
+F: Mandos de vuelo
+F: Flaps
+F: Tren de aterrizaje 
+T: Todo lo anterior
+
+Q: El APU (Auxiliar Power Unit) es un sistema que forma parte del avión y proporciona:
+D: 1
+F: Aire acondicionado
+F: Potencia de empuje auxiliar
+F: Energía eléctrica y neumático de puesta en marcha.
+T: A y C son correctas
+
+Q: En relación a la despresurización explosiva, ¿cuál o cuáles son las características principales de esa situación?
+D: 1
+F: Formación de niebla
+F: Sensación de frio 
+F: Presentación automática de mascarillas de oxigeno 
+T: Todas son correctas
+
+Q: ¿Para qué sirve el sistema hidráulico del avión?
+D: 1
+F: Para refrigerar los motores por medio de agua
+F: Para mover los mandos del vuelo
+F: Para actuar el tren de aterrizaje
+T: Las respuestas b y c son correctas
+
+Q: ¿Cuáles son las partes principales de un motor a reacción?
+D: 2
+T: El compresor, la cámara de combustión, la turbina y la tobera
+F: El compresor, los cilindros, los pistones, la turbina , la tobera Incorrecta
+F: El compresor, la cámara de combustión, la turbina y las bielas
+F: Los cilindros, los pistones, los anillos, los bulones y las bielas
+
+Q: La parte propulsora del motor turborreactor es:
+D: 2
+F: Torbera
+F: Turbina 
+F: Compresor
+T: Cámaras de combustión
+
+Q: En meteorología, hablando de nubes ¿Cuál no se clasifica como nube? 
+D: 2
+F: CB
+F: cirros
+T: Cirrofog 
+F: Estrato
+
+Q: ¿Qué partes del avión va presurizadas?
+D: 1
+F: Cabina de pasaje
+F: Bodega de carga
+F: Compartimentos eléctricos
+T: Todas las anteriores
+
+Q: La caja negra y el CVR, ¿de qué color son?:
+D: 2
+F: Rojas
+T: Naranja 
+F: Del color predominante de la compañía
+F: Negras
+
+Q: ¿Cómo se llaman las nubes de desarrollo vertical, creadas a baja altura con formas algodonosas bien definidas, cuya parte superior se parece a un coliflor?
+D: 1
+F: Cirros
+T: Cúmulos 
+F: Nimbos
+F: Estratos
+
+Q: ¿Cómo se llaman las nubes de desarrollo vertical, creadas a baja altura con formas algodonosas bien definidas, cuya parte superior se parece a un coliflor?
+D: 1
+F: Cirros
+T: Cúmulos 
+F: Nimbos
+F:  Estratos
+
+Q: RVR es:
+D: 2
+F: Registro de Voz de Cabina.
+F: Importante dato de carga y centrado
+F: Altura desde la que el piloto puede ver las señales de superficie o las luces que delimitan o señalan el eje de pista.
+T: Distancia horizontal que puede ver el piloto desde la aeronave de las señales de superficie o las luces que delimitan o señalan el eje de pista
+
+Q: El movimiento de traslación de la Tierra es:
+D: 1
+F: Giro de la Tierra alrededor de su propio eje y tarda 365 días.
+F: Giro de la Tierra alrededor de su propio eje y tarda 24h
+T: Giro de la Tierra alrededor del Sol y tarda 365 días.
+F: Giro de la Tierra alrededor del Sol y tarda 24h
+Q: El espesor de la troposfera:
+D: 1
+F: ¿Cómo va a cambiar eso? 
+F: Es fijo
+F: Es variable
+T: Es variable dependiendo de la estación del año y latitud
+
+Q: ¿Cuál de los documentos que debe llevarse a bordo de la aeronave indica la cantidad de pasajeros que llevará el vuelo?
+D: 1
+T: La hoja de carga y centrado. 
+F: El certificado de matrícula.
+F: La hoja de características técnicas.
+F: El certificado de aeronavegabilidad.
+
+Q: ¿Qué es un GPU?
+D: 1
+T: Una unidad de potencia eléctrica auxiliar de tierra. 
+F: Una unidad de potencia para el aeropuerto.
+F: Un sistema de presurización.
+F: Un sistema de aproximación.
+
+Q: La definición de “...Distancia angular que hay entre un punto y el Meridiano Cero siempre señalando si es hacia el Este o el Oeste...” corresponde a:
+D: 2
+F: Meridiano.
+F: Latitud
+T: Longitud 
+F: Hemisferio.
+
+Q: ¿Cuál es la altura para que una salida de emergencia venga dotada con una rampa de evacuación?
+D: 1
+F: 6 pies (1,53m)
+T: 6 Pies (1,83m) 
+F: 5 pies (1,53m)
+F: 5 pies (1,83m)
