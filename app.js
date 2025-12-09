@@ -46,6 +46,7 @@ const $playingBoard = document.getElementById('playing-board')
 
 // Global variables
 let questionsBatteryRaw = ''
+let countdownInterval
 
 // Events
 $questionsBattery.addEventListener('change', (event) => {
@@ -173,7 +174,8 @@ const renderQuestion = (questionId) => {
   $questionModal.classList.add('question-modal')
   $questionModal.style = `background-color:${subject.color}`
   const questionModalBody =
-    `<h2>${question.text}</h2>
+    `<span style="position:absolute;top:10px;right:10px;font-size:24px;" id="question-timer"></span>
+    <h2>${question.text}</h2>
     <ul>
       ${answers.map((answer, index) => {
       const letter = String.fromCharCode(97 + index) // 97 = 'a'
@@ -184,6 +186,19 @@ const renderQuestion = (questionId) => {
     `
   $questionModal.innerHTML = questionModalBody
   $body.prepend($questionModal)
+  clearInterval(countdownInterval)
+  let timeLeft = 60
+  const $questionTimer = document.getElementById('question-timer')
+  $questionTimer.textContent = `⌛${timeLeft}s`
+  countdownInterval = setInterval(() => {
+    timeLeft--
+    $questionTimer.textContent = `⌛${timeLeft}s`
+
+    if (timeLeft <= 0) {
+      clearInterval(countdownInterval)
+      handleRespondQuestion()
+    }
+  }, 1000);
 }
 
 // Answers API
@@ -479,13 +494,7 @@ const handleSelectSubjectCard = (subjectId) => {
 }
 
 const handleRespondQuestion = (element) => {
-  const { questionId, answerId } = element.dataset
-
-  const answer = getAnswer(answerId)
-  const question = getQuestion(questionId)
-  const turn = getCurrentTurn()
-
-  if (answer.isCorrect) {
+  const correctQuestion = () => {
     playCorrectSound()
     setQuestionIsAnswered(questionId)
     addSubjectPoints(turn.playerId, question.subjectId)
@@ -493,13 +502,28 @@ const handleRespondQuestion = (element) => {
     document.querySelector('.question-modal').remove()
     renderPlayersBoard()
     updatePlayersTurn()
-  } else {
+  }
+
+  const incorrectQuestion = () => {
     playIncorrectSound()
     passTurn()
     document.querySelector('.question-modal').remove()
     renderPlayersBoard()
     updatePlayersTurn()
   }
+  
+  if (!element) {
+    incorrectQuestion()
+    return
+  }
+
+  const { questionId, answerId } = element.dataset
+
+  const answer = getAnswer(answerId)
+  const question = getQuestion(questionId)
+  const turn = getCurrentTurn()
+
+  answer.isCorrect ? correctQuestion() : incorrectQuestion()
 }
 
 const handleDeleteConfiguration = () => {
