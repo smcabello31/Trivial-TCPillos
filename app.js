@@ -417,6 +417,7 @@ updatePlayersTurn = () => {
     div.classList.remove('highlight-player')
   })
   $turnPlayer.classList.add('highlight-player')
+  $turnPlayer.addEventListener('click', randomRouletteSelect)
 }
 
 const passTurn = () => {
@@ -498,6 +499,8 @@ const handleSelectSubjectCard = (subjectId) => {
 }
 
 const handleRespondQuestion = (element) => {
+  const turn = getCurrentTurn()
+
   const correctQuestion = () => {
     playCorrectSound()
     setQuestionIsAnswered(questionId)
@@ -525,7 +528,6 @@ const handleRespondQuestion = (element) => {
 
   const answer = getAnswer(answerId)
   const question = getQuestion(questionId)
-  const turn = getCurrentTurn()
 
   answer.isCorrect ? correctQuestion() : incorrectQuestion()
 }
@@ -533,4 +535,54 @@ const handleRespondQuestion = (element) => {
 const handleDeleteConfiguration = () => {
   localStorage.removeItem('configuration')
   location.reload()
+}
+
+function randomRouletteSelect() {
+  const playerTurn = getCurrentTurn()
+  const player = getPlayer(playerTurn.playerId)
+
+  // Filter subjects with less than 5 points
+  const availableSubjectIds = player.score
+    .filter(s => s.points < 5)
+    .map(s => s.subjectId)
+
+  if (availableSubjectIds.length === 0) {
+    alert("This player has already completed all subjects!")
+    return
+  }
+
+  // Get only matching cards from the DOM
+  const cards = availableSubjectIds
+    .map(id => document.getElementById(`subject-card-${id}`))
+    .filter(Boolean)
+
+  let index = 0
+  let rounds = Math.floor(Math.random() * 10) + 20
+  let speed = 80
+  let lastActive = null
+
+  const roulette = setInterval(() => {
+    if (lastActive) {
+      lastActive.classList.remove('roulette-active')
+    }
+
+    const current = cards[index % cards.length]
+    current.classList.add('roulette-active')
+    lastActive = current;
+
+    index++
+    speed += 5
+    rounds--
+
+    if (rounds <= 0) {
+      clearInterval(roulette);
+
+      setTimeout(() => {
+        const finalCard = lastActive;
+        const id = finalCard.id.replace('subject-card-', '')
+
+        handleSelectSubjectCard(id)
+      }, 400)
+    }
+  }, speed)
 }

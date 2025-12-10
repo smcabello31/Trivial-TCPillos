@@ -206,6 +206,7 @@ button:active {
 }
 
 .highlight-player {
+    cursor: pointer;
     position: relative;
     border-radius: 12px;
     padding: 12px;
@@ -311,4 +312,14 @@ button:active {
         grid-template-columns: 1fr;
         justify-items: center;
     }
+}
+
+.subject-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.subject-card.roulette-active {
+  transform: scale(1.12);
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  z-index: 10;
 }
