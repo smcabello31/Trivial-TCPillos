@@ -307,8 +307,8 @@ const drawPlayer = ({ name, avatar, score, playerId }) => {
   return `
 <div ${playerScore ? 'id="' : ''}${playerScore ? 'board-player-' : ''}${playerScore ? playerId : ''}${playerScore ? '"' : ''} style="display: flex; align-items: center; gap: 15px;">
   <div style="display: flex; flex-direction: column; gap:3px">
-    <span style="font-size:64px">${avatar}<span/>
-    <span style="font-size: 24px; font-weight: bold; text-align:center;">${name}</span>
+    <span class="gaming-board-avatar">${avatar}<span/>
+    <span class="gaming-board-name">${name}</span>
   </div>
   <div style="display:flex; flex-direction:column;justify-content:space-around;gap:0px;">
   ${playerScore}
@@ -466,6 +466,10 @@ const handleDeletePlayer = (playerId) => {
 }
 
 const handleStartGame = () => {
+  if (configuration.answers.length < 1 || configuration.questions.length < 1 || configuration.subjects.length < 1  || configuration.players.length < 1) {
+    alert('No se puede iniciar el juego. Asegúrate de haber cargado una batería de preguntas y de haber creado al menos un jugador.')
+    return
+  }
   hideChildrenDivElements($body)
   renderPlayersBoard()
   renderBoard()
